@@ -24,9 +24,21 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
+      - name: Install Playwright browser
+        run: playwright install --with-deps chromium
+
       - name: Fetch FantasyPros rankings
         working-directory: scripts
         run: python fetch_fantasypros.py
+
+      - name: Upload debug screenshots (only created if a source failed)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fantasypros-debug-screenshots
+          path: debug_screenshots/
+          if-no-files-found: ignore
+          retention-days: 7
 
       - name: Fetch ESPN league data
         working-directory: scripts
