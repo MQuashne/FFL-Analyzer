@@ -1,0 +1,53 @@
+{
+  "updated_at": "2026-09-18T18:17:19.509488+00:00",
+  "sources": {
+    "overall": {
+      "ok": false,
+      "error": "request failed: 404 Client Error: Not Found for url: https://www.fantasypros.com/nfl/cheatsheets/ros-ppr-overall.php",
+      "fetched_at": "2026-09-18T18:17:09.574424+00:00",
+      "used_existing_file": false
+    },
+    "qb": {
+      "ok": false,
+      "error": "request failed: 404 Client Error: Not Found for url: https://www.fantasypros.com/nfl/cheatsheets/qb.php",
+      "fetched_at": "2026-09-18T18:17:10.943636+00:00",
+      "used_existing_file": false
+    },
+    "rb": {
+      "ok": false,
+      "error": "request failed: 404 Client Error: Not Found for url: https://www.fantasypros.com/nfl/cheatsheets/rb.php",
+      "fetched_at": "2026-09-18T18:17:12.238968+00:00",
+      "used_existing_file": false
+    },
+    "wr": {
+      "ok": false,
+      "error": "request failed: 404 Client Error: Not Found for url: https://www.fantasypros.com/nfl/cheatsheets/wr.php",
+      "fetched_at": "2026-09-18T18:17:13.490586+00:00",
+      "used_existing_file": false
+    },
+    "te": {
+      "ok": false,
+      "error": "request failed: 404 Client Error: Not Found for url: https://www.fantasypros.com/nfl/cheatsheets/te.php",
+      "fetched_at": "2026-09-18T18:17:14.720915+00:00",
+      "used_existing_file": false
+    },
+    "flex": {
+      "ok": false,
+      "error": "request failed: 404 Client Error: Not Found for url: https://www.fantasypros.com/nfl/cheatsheets/flex.php",
+      "fetched_at": "2026-09-18T18:17:16.011772+00:00",
+      "used_existing_file": false
+    },
+    "k": {
+      "ok": false,
+      "error": "request failed: 404 Client Error: Not Found for url: https://www.fantasypros.com/nfl/cheatsheets/k.php",
+      "fetched_at": "2026-09-18T18:17:17.235161+00:00",
+      "used_existing_file": false
+    },
+    "dst": {
+      "ok": false,
+      "error": "request failed: 404 Client Error: Not Found for url: https://www.fantasypros.com/nfl/cheatsheets/dst.php",
+      "fetched_at": "2026-09-18T18:17:18.509319+00:00",
+      "used_existing_file": false
+    }
+  }
+}
