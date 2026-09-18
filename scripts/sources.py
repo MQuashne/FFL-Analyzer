@@ -4,7 +4,7 @@ Edit these URLs if FantasyPros changes their paths, or if you want
 weekly (not rest-of-season) rankings for a given position.
 """
 
-BASE = "https://www.fantasypros.com/nfl/cheatsheets"
+BASE = "https://www.fantasypros.com/nfl/rankings"
 
 # Overall rest-of-season PPR rankings
 OVERALL_URL = f"{BASE}/ros-ppr-overall.php"
