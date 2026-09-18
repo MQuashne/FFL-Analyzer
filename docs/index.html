@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Fantasy League Assistant</title>
+<link rel="stylesheet" href="style.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+<header>
+  <h1>🏈 Fantasy League Assistant</h1>
+  <div id="status-banner" class="status-banner"></div>
+</header>
+
+<nav id="tabs">
+  <button class="tab-btn active" data-tab="free-agents">Free Agents</button>
+  <button class="tab-btn" data-tab="lineup">Lineup</button>
+  <button class="tab-btn" data-tab="trades">Trade Ideas</button>
+  <button class="tab-btn" data-tab="rankings">Rankings</button>
+  <button class="tab-btn" data-tab="upload">Upload CSV</button>
+</nav>
+
+<main>
+  <section id="tab-free-agents" class="tab-panel active">
+    <h2>Top Available Players</h2>
+    <div class="controls">
+      <label>Position:
+        <select id="fa-position-filter">
+          <option value="ALL">All</option>
+          <option value="QB">QB</option>
+          <option value="RB">RB</option>
+          <option value="WR">WR</option>
+          <option value="TE">TE</option>
+          <option value="K">K</option>
+          <option value="D/ST">D/ST</option>
+        </select>
+      </label>
+      <label>Search: <input type="text" id="fa-search" placeholder="Player name..." /></label>
+    </div>
+    <table id="fa-table" class="data-table">
+      <thead><tr><th>Rank</th><th>Player</th><th>Pos</th><th>Team</th><th>% Owned</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section id="tab-lineup" class="tab-panel">
+    <h2>Suggested Starting Lineup</h2>
+    <div class="controls">
+      <label>Team: <select id="lineup-team-select"></select></label>
+    </div>
+    <div id="lineup-output"></div>
+  </section>
+
+  <section id="tab-trades" class="tab-panel">
+    <h2>Trade Ideas</h2>
+    <p class="hint">Heuristic suggestions based on positional depth (average rank) across rostered players. Review before proposing — this doesn't know about injuries, bye weeks, or team needs beyond raw ranking depth.</p>
+    <div id="trades-output"></div>
+  </section>
+
+  <section id="tab-rankings" class="tab-panel">
+    <h2>Browse Rankings</h2>
+    <div class="controls">
+      <label>Source:
+        <select id="rankings-source-select">
+          <option value="overall">Overall (ROS)</option>
+          <option value="qb">QB</option>
+          <option value="rb">RB</option>
+          <option value="wr">WR</option>
+          <option value="te">TE</option>
+          <option value="flex">FLEX</option>
+          <option value="k">K</option>
+          <option value="dst">DST</option>
+        </select>
+      </label>
+    </div>
+    <div id="rankings-meta" class="hint"></div>
+    <table id="rankings-table" class="data-table">
+      <thead></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section id="tab-upload" class="tab-panel">
+    <h2>Upload a CSV (fallback for blocked sources)</h2>
+    <p class="hint">
+      If a ranking source shows as failed in the status banner, open that FantasyPros page yourself,
+      select/copy the table, paste it into a spreadsheet, and export as CSV — or use their "Export to CSV"
+      button if available. Upload it here. It's stored in your browser (localStorage) and will override
+      the scraped data for that source until you clear it. This only affects your browser, not the repo.
+    </p>
+    <div class="controls">
+      <label>This CSV is for:
+        <select id="upload-target">
+          <option value="overall">Overall (ROS)</option>
+          <option value="qb">QB</option>
+          <option value="rb">RB</option>
+          <option value="wr">WR</option>
+          <option value="te">TE</option>
+          <option value="flex">FLEX</option>
+          <option value="k">K</option>
+          <option value="dst">DST</option>
+        </select>
+      </label>
+      <input type="file" id="upload-file" accept=".csv" />
+    </div>
+    <div id="upload-status" class="hint"></div>
+    <h3>Current overrides</h3>
+    <ul id="override-list"></ul>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
