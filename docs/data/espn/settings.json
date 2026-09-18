@@ -1,10 +1,36 @@
 {
   "name": "Luminace Operations Team",
   "team_count": 12,
-  "roster_positions": null,
+  "roster_positions": {
+    "QB": 1,
+    "TQB": 0,
+    "RB": 2,
+    "RB/WR": 0,
+    "WR": 2,
+    "WR/TE": 0,
+    "TE": 1,
+    "OP": 0,
+    "DT": 0,
+    "DE": 0,
+    "LB": 0,
+    "DL": 0,
+    "CB": 0,
+    "S": 0,
+    "DB": 0,
+    "DP": 0,
+    "D/ST": 1,
+    "K": 1,
+    "P": 0,
+    "HC": 0,
+    "BE": 7,
+    "IR": 1,
+    "": 0,
+    "RB/WR/TE": 1,
+    "ER": 0
+  },
   "scoring_type": "H2H_POINTS",
   "playoff_team_count": 4,
   "trade_deadline": 1796230800000,
   "current_week": 2,
-  "fetched_at": "2026-09-18T18:54:46.980289+00:00"
+  "fetched_at": "2026-09-18T19:11:01.195269+00:00"
 }
