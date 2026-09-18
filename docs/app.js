@@ -178,11 +178,12 @@ function renderFreeAgents() {
 
 // ---------- Lineup tab ----------
 function parseRosterPositions(rosterPositions) {
-  // espn_api's settings.roster_positions is typically a list of slot names,
-  // one entry per roster spot, e.g. ["QB","RB","RB","WR","WR","TE","FLEX","D/ST","K","BE","BE",...]
+  // espn_api's settings.position_slot_counts is already a dict like
+  // {"QB": 1, "RB": 2, "WR": 2, "TE": 1, "RB/WR/TE": 1, "D/ST": 1, "K": 1,
+  //  "BE": 6, "IR": 1}. Just filter out empty/zero slots.
   const counts = {};
-  (rosterPositions || []).forEach(slot => {
-    counts[slot] = (counts[slot] || 0) + 1;
+  Object.entries(rosterPositions || {}).forEach(([slot, count]) => {
+    if (count > 0) counts[slot] = count;
   });
   return counts;
 }
@@ -194,10 +195,11 @@ const SLOT_ELIGIBILITY = {
   TE: ["TE"],
   K: ["K"],
   "D/ST": ["D/ST", "DST"],
-  FLEX: ["RB", "WR", "TE"],
   "RB/WR": ["RB", "WR"],
   "WR/TE": ["WR", "TE"],
-  OP: ["QB", "RB", "WR", "TE"], // superflex-style, if present
+  "RB/WR/TE": ["RB", "WR", "TE"], // this is ESPN's actual "FLEX" slot
+  FLEX: ["RB", "WR", "TE"],       // kept in case a league ever reports it as "FLEX" literally
+  OP: ["QB", "RB", "WR", "TE"],   // superflex-style, if present
 };
 
 function populateTeamSelect() {
