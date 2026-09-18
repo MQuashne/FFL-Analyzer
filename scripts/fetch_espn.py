@@ -73,7 +73,12 @@ def main():
     settings_out = {
         "name": getattr(settings, "name", None),
         "team_count": getattr(settings, "team_count", None),
-        "roster_positions": getattr(settings, "roster_positions", None),
+        # espn_api's Settings has no "roster_positions" attribute — the real
+        # one is "position_slot_counts", a dict like {"QB": 1, "RB": 2, ...}
+        # (including bench/IR as "BE"/"IR"). We keep the JSON key name
+        # "roster_positions" for the front-end, but it's now this dict
+        # directly rather than a flat per-slot list.
+        "roster_positions": getattr(settings, "position_slot_counts", None),
         "scoring_type": getattr(settings, "scoring_type", None),
         "playoff_team_count": getattr(settings, "playoff_team_count", None),
         "trade_deadline": getattr(settings, "trade_deadline", None),
