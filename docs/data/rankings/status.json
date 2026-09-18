@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-09-18T18:21:37.852504+00:00",
+  "updated_at": "2026-09-18T18:54:45.777197+00:00",
   "sources": {
     "overall": {
-      "ok": false,
-      "error": "table #ranking-table not found in page (markup changed, JS-rendered, or paywalled)",
-      "fetched_at": "2026-09-18T18:21:29.329821+00:00",
-      "used_existing_file": false
+      "ok": true,
+      "source": "scrape",
+      "fetched_at": "2026-09-18T18:53:43.877877+00:00",
+      "row_count": 404
     },
     "qb": {
-      "ok": false,
-      "error": "table #ranking-table not found in page (markup changed, JS-rendered, or paywalled)",
-      "fetched_at": "2026-09-18T18:21:30.398798+00:00",
-      "used_existing_file": false
+      "ok": true,
+      "source": "scrape",
+      "fetched_at": "2026-09-18T18:53:54.470173+00:00",
+      "row_count": 100
     },
     "rb": {
-      "ok": false,
-      "error": "table #ranking-table not found in page (markup changed, JS-rendered, or paywalled)",
-      "fetched_at": "2026-09-18T18:21:31.470475+00:00",
-      "used_existing_file": false
+      "ok": true,
+      "source": "scrape",
+      "fetched_at": "2026-09-18T18:54:03.865202+00:00",
+      "row_count": 128
     },
     "wr": {
-      "ok": false,
-      "error": "table #ranking-table not found in page (markup changed, JS-rendered, or paywalled)",
-      "fetched_at": "2026-09-18T18:21:32.537399+00:00",
-      "used_existing_file": false
+      "ok": true,
+      "source": "scrape",
+      "fetched_at": "2026-09-18T18:54:11.714974+00:00",
+      "row_count": 20
     },
     "te": {
-      "ok": false,
-      "error": "table #ranking-table not found in page (markup changed, JS-rendered, or paywalled)",
-      "fetched_at": "2026-09-18T18:21:33.609240+00:00",
-      "used_existing_file": false
+      "ok": true,
+      "source": "scrape",
+      "fetched_at": "2026-09-18T18:54:19.622156+00:00",
+      "row_count": 128
     },
     "flex": {
-      "ok": false,
-      "error": "table #ranking-table not found in page (markup changed, JS-rendered, or paywalled)",
-      "fetched_at": "2026-09-18T18:21:34.714994+00:00",
-      "used_existing_file": false
+      "ok": true,
+      "source": "scrape",
+      "fetched_at": "2026-09-18T18:54:27.511845+00:00",
+      "row_count": 20
     },
     "k": {
-      "ok": false,
-      "error": "table #ranking-table not found in page (markup changed, JS-rendered, or paywalled)",
-      "fetched_at": "2026-09-18T18:21:35.789153+00:00",
-      "used_existing_file": false
+      "ok": true,
+      "source": "scrape",
+      "fetched_at": "2026-09-18T18:54:35.383342+00:00",
+      "row_count": 33
     },
     "dst": {
-      "ok": false,
-      "error": "table #ranking-table not found in page (markup changed, JS-rendered, or paywalled)",
-      "fetched_at": "2026-09-18T18:21:36.852265+00:00",
-      "used_existing_file": false
+      "ok": true,
+      "source": "scrape",
+      "fetched_at": "2026-09-18T18:54:44.299536+00:00",
+      "row_count": 32
     }
   }
 }
