@@ -1,6 +1,6 @@
 """
 Fetches the #ranking-table HTML table from FantasyPros ROS overall
-rankings and each positional cheatsheet, and writes each as plain
+rankings and each positional rankings page, and writes each as plain
 JSON into docs/data/rankings/ so the static site can read it.
 
 Designed to fail *softly*: if one page can't be fetched or the table
@@ -21,14 +21,15 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 from sources import OVERALL_URL, POSITION_URLS, TABLE_ID, HEADERS
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "docs" / "data" / "rankings"
 MANUAL_DIR = ROOT / "data" / "manual"
+DEBUG_DIR = ROOT / "debug_screenshots"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
@@ -64,16 +65,51 @@ def parse_table(html: str):
     return {"headers": header_cells, "rows": rows}
 
 
-def fetch_source(name: str, url: str):
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=25)
-        resp.raise_for_status()
-    except Exception as e:
-        return None, f"request failed: {e}"
+def fetch_rendered_html(page, url: str):
+    """Load the page in a real browser and wait for the table to be
+    populated by JS before grabbing the HTML."""
+    page.goto(url, wait_until="domcontentloaded", timeout=30000)
 
-    parsed = parse_table(resp.text)
+    # Best-effort: dismiss a cookie-consent overlay if one is blocking
+    # rendering/interaction. Non-fatal if it's not there.
+    for selector in ["button:has-text('Accept')", "button:has-text('I Accept')", "#onetrust-accept-btn-handler"]:
+        try:
+            page.click(selector, timeout=2000)
+            break
+        except Exception:
+            pass
+
+    # Wait for the table to exist AND actually contain rows, since some
+    # tables render an empty shell before an XHR call fills it in.
+    try:
+        page.wait_for_selector(f"#{TABLE_ID} tbody tr", timeout=20000)
+    except Exception:
+        # Table never populated — fall through and let the caller
+        # inspect whatever HTML we do have.
+        pass
+
+    return page.content()
+
+
+def save_debug_screenshot(name: str, page):
+    try:
+        DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+        page.screenshot(path=str(DEBUG_DIR / f"{name}.png"), full_page=True)
+    except Exception:
+        pass  # debugging aid only — never let this break the main run
+
+
+def fetch_source(name: str, url: str, page):
+    try:
+        html = fetch_rendered_html(page, url)
+    except Exception as e:
+        save_debug_screenshot(name, page)
+        return None, f"browser navigation failed: {e}"
+
+    parsed = parse_table(html)
     if parsed is None:
-        return None, "table #ranking-table not found in page (markup changed, JS-rendered, or paywalled)"
+        save_debug_screenshot(name, page)
+        return None, "table #ranking-table not found or never populated (markup changed, blocked, or paywalled) — see debug_screenshots artifact"
     return parsed, None
 
 
@@ -94,8 +130,8 @@ def write_json(name: str, payload: dict):
     out_path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
 
 
-def process(name: str, url: str, status: dict):
-    parsed, error = fetch_source(name, url)
+def process(name: str, url: str, status: dict, page):
+    parsed, error = fetch_source(name, url, page)
     source = "scrape"
 
     if parsed is None:
@@ -128,11 +164,17 @@ def process(name: str, url: str, status: dict):
 
 def main():
     status = {}
-    process("overall", OVERALL_URL, status)
-    time.sleep(1)  # be polite between requests
-    for pos, url in POSITION_URLS.items():
-        process(pos, url, status)
-        time.sleep(1)
+    with sync_playwright() as pw:
+        browser = pw.chromium.launch(headless=True)
+        page = browser.new_page(user_agent=HEADERS["User-Agent"], locale="en-US")
+
+        process("overall", OVERALL_URL, status, page)
+        time.sleep(1)  # be polite between requests
+        for pos, url in POSITION_URLS.items():
+            process(pos, url, status, page)
+            time.sleep(1)
+
+        browser.close()
 
     status_path = OUT_DIR / "status.json"
     status_path.write_text(json.dumps({"updated_at": now_iso(), "sources": status}, indent=2), encoding="utf-8")
