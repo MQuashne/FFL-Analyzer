@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T12:35:40.363227+00:00",
+  "fetched_at": "2026-10-01T22:27:30.872139+00:00",
   "teams": [
     {
       "team_id": 1,
@@ -109,25 +109,6 @@
       "is_my_team": false,
       "roster": [
         {
-          "name": "De'Von Achane",
-          "playerId": 4429160,
-          "position": "RB",
-          "eligible_slots": [
-            "RB",
-            "RB/WR",
-            "RB/WR/TE",
-            "OP",
-            "BE",
-            "IR"
-          ],
-          "pro_team": "MIA",
-          "injury_status": "INJURY_RESERVE",
-          "percent_owned": 61.17,
-          "percent_started": 34.92,
-          "projected_total_points": 0.0,
-          "total_points": 24.6
-        },
-        {
           "name": "Saquon Barkley",
           "playerId": 3929630,
           "position": "RB",
@@ -141,9 +122,9 @@
           ],
           "pro_team": "PHI",
           "injury_status": "ACTIVE",
-          "percent_owned": 99.63,
-          "percent_started": 90.69,
-          "projected_total_points": 212.9,
+          "percent_owned": 99.62,
+          "percent_started": 90.3,
+          "projected_total_points": 213.02,
           "total_points": 21.0
         },
         {
@@ -161,8 +142,8 @@
           "pro_team": "LAR",
           "injury_status": "ACTIVE",
           "percent_owned": 98.49,
-          "percent_started": 84.48,
-          "projected_total_points": 193.5,
+          "percent_started": 84.24,
+          "projected_total_points": 193.23,
           "total_points": 53.0
         },
         {
@@ -180,9 +161,9 @@
           ],
           "pro_team": "TB",
           "injury_status": "ACTIVE",
-          "percent_owned": 97.01,
-          "percent_started": 62.99,
-          "projected_total_points": 159.71,
+          "percent_owned": 96.95,
+          "percent_started": 61.06,
+          "projected_total_points": 159.7,
           "total_points": 32.8
         },
         {
@@ -200,9 +181,9 @@
           ],
           "pro_team": "CHI",
           "injury_status": "ACTIVE",
-          "percent_owned": 88.98,
-          "percent_started": 22.63,
-          "projected_total_points": 138.61,
+          "percent_owned": 88.83,
+          "percent_started": 22.05,
+          "projected_total_points": 138.62,
           "total_points": 21.9
         },
         {
@@ -222,8 +203,8 @@
           "pro_team": "TEN",
           "injury_status": "ACTIVE",
           "percent_owned": 85.36,
-          "percent_started": 24.97,
-          "projected_total_points": 167.65,
+          "percent_started": 25.07,
+          "projected_total_points": 167.64,
           "total_points": 25.3
         },
         {
@@ -241,9 +222,9 @@
           ],
           "pro_team": "GB",
           "injury_status": "ACTIVE",
-          "percent_owned": 94.28,
-          "percent_started": 71.74,
-          "projected_total_points": 208.57,
+          "percent_owned": 94.37,
+          "percent_started": 72.1,
+          "projected_total_points": 208.59,
           "total_points": 69.4
         },
         {
@@ -258,9 +239,9 @@
           ],
           "pro_team": "JAX",
           "injury_status": "ACTIVE",
-          "percent_owned": 88.29,
-          "percent_started": 48.78,
-          "projected_total_points": 264.56,
+          "percent_owned": 88.38,
+          "percent_started": 49.69,
+          "projected_total_points": 265.32,
           "total_points": 52.04
         },
         {
@@ -277,9 +258,9 @@
           ],
           "pro_team": "TEN",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 43.16,
-          "percent_started": 2.28,
-          "projected_total_points": 116.01,
+          "percent_owned": 42.7,
+          "percent_started": 2.16,
+          "projected_total_points": 115.74,
           "total_points": 13.9
         },
         {
@@ -298,8 +279,8 @@
           ],
           "pro_team": "CLE",
           "injury_status": "ACTIVE",
-          "percent_owned": 51.28,
-          "percent_started": 4.28,
+          "percent_owned": 51.02,
+          "percent_started": 4.01,
           "projected_total_points": 136.42,
           "total_points": 18.9
         },
@@ -314,8 +295,8 @@
           ],
           "pro_team": "BUF",
           "injury_status": "ACTIVE",
-          "percent_owned": 10.48,
-          "percent_started": 8.68,
+          "percent_owned": 10.33,
+          "percent_started": 8.52,
           "projected_total_points": 118.04,
           "total_points": 24.0
         },
@@ -335,9 +316,9 @@
           ],
           "pro_team": "MIA",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 20.69,
-          "percent_started": 0.26,
-          "projected_total_points": 117.99,
+          "percent_owned": 20.37,
+          "percent_started": 0.25,
+          "projected_total_points": 110.26,
           "total_points": 18.3
         },
         {
@@ -355,26 +336,10 @@
           ],
           "pro_team": "PHI",
           "injury_status": "ACTIVE",
-          "percent_owned": 44.86,
-          "percent_started": 8.24,
+          "percent_owned": 44.66,
+          "percent_started": 7.73,
           "projected_total_points": 126.84,
           "total_points": 32.9
-        },
-        {
-          "name": "Giants D/ST",
-          "playerId": -16019,
-          "position": "D/ST",
-          "eligible_slots": [
-            "D/ST",
-            "BE",
-            "IR"
-          ],
-          "pro_team": "NYG",
-          "injury_status": "NORMAL",
-          "percent_owned": 9.44,
-          "percent_started": 7.6,
-          "projected_total_points": 47.7,
-          "total_points": 12.0
         },
         {
           "name": "Kyler Murray",
@@ -388,9 +353,9 @@
           ],
           "pro_team": "MIN",
           "injury_status": "ACTIVE",
-          "percent_owned": 62.57,
-          "percent_started": 25.73,
-          "projected_total_points": 247.73,
+          "percent_owned": 63.16,
+          "percent_started": 27.04,
+          "projected_total_points": 247.07,
           "total_points": 10.04
         },
         {
@@ -408,10 +373,46 @@
           ],
           "pro_team": "NYJ",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 56.35,
-          "percent_started": 16.02,
+          "percent_owned": 57.03,
+          "percent_started": 16.51,
           "projected_total_points": 131.15,
           "total_points": 38.6
+        },
+        {
+          "name": "Packers D/ST",
+          "playerId": -16009,
+          "position": "D/ST",
+          "eligible_slots": [
+            "D/ST",
+            "BE",
+            "IR"
+          ],
+          "pro_team": "GB",
+          "injury_status": "NORMAL",
+          "percent_owned": 24.92,
+          "percent_started": 20.96,
+          "projected_total_points": 46.67,
+          "total_points": 5.0
+        },
+        {
+          "name": "Malik Washington",
+          "playerId": 4569603,
+          "position": "WR",
+          "eligible_slots": [
+            "RB/WR",
+            "WR",
+            "WR/TE",
+            "RB/WR/TE",
+            "OP",
+            "BE",
+            "IR"
+          ],
+          "pro_team": "MIA",
+          "injury_status": "ACTIVE",
+          "percent_owned": 21.4,
+          "percent_started": 4.68,
+          "projected_total_points": 153.08,
+          "total_points": 26.1
         }
       ]
     },
@@ -538,8 +539,8 @@
           "pro_team": "SEA",
           "injury_status": "ACTIVE",
           "percent_owned": 99.93,
-          "percent_started": 99.78,
-          "projected_total_points": 292.97,
+          "percent_started": 99.79,
+          "projected_total_points": 293.06,
           "total_points": 104.06
         },
         {
@@ -557,8 +558,8 @@
           "pro_team": "KC",
           "injury_status": "ACTIVE",
           "percent_owned": 99.82,
-          "percent_started": 98.29,
-          "projected_total_points": 283.49,
+          "percent_started": 98.33,
+          "projected_total_points": 283.67,
           "total_points": 79.2
         },
         {
@@ -576,9 +577,9 @@
           ],
           "pro_team": "NYG",
           "injury_status": "ACTIVE",
-          "percent_owned": 98.29,
-          "percent_started": 73.78,
-          "projected_total_points": 182.04,
+          "percent_owned": 98.27,
+          "percent_started": 73.49,
+          "projected_total_points": 182.05,
           "total_points": 21.6
         },
         {
@@ -596,9 +597,9 @@
           ],
           "pro_team": "LAC",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 96.58,
-          "percent_started": 59.91,
-          "projected_total_points": 157.1,
+          "percent_owned": 96.49,
+          "percent_started": 56.39,
+          "projected_total_points": 156.86,
           "total_points": 36.3
         },
         {
@@ -615,9 +616,9 @@
           ],
           "pro_team": "HOU",
           "injury_status": "ACTIVE",
-          "percent_owned": 95.02,
-          "percent_started": 67.52,
-          "projected_total_points": 175.27,
+          "percent_owned": 95.0,
+          "percent_started": 67.44,
+          "projected_total_points": 175.34,
           "total_points": 40.1
         },
         {
@@ -635,8 +636,8 @@
           ],
           "pro_team": "JAX",
           "injury_status": "ACTIVE",
-          "percent_owned": 94.3,
-          "percent_started": 73.17,
+          "percent_owned": 94.41,
+          "percent_started": 73.74,
           "projected_total_points": 215.83,
           "total_points": 49.1
         },
@@ -654,9 +655,9 @@
           ],
           "pro_team": "GB",
           "injury_status": "ACTIVE",
-          "percent_owned": 86.56,
-          "percent_started": 46.85,
-          "projected_total_points": 127.68,
+          "percent_owned": 86.28,
+          "percent_started": 45.33,
+          "projected_total_points": 127.56,
           "total_points": 19.6
         },
         {
@@ -671,9 +672,9 @@
           ],
           "pro_team": "KC",
           "injury_status": "ACTIVE",
-          "percent_owned": 95.64,
-          "percent_started": 66.02,
-          "projected_total_points": 259.02,
+          "percent_owned": 95.67,
+          "percent_started": 65.91,
+          "projected_total_points": 259.7,
           "total_points": 66.58
         },
         {
@@ -690,9 +691,9 @@
           ],
           "pro_team": "DEN",
           "injury_status": "ACTIVE",
-          "percent_owned": 69.98,
-          "percent_started": 9.76,
-          "projected_total_points": 145.13,
+          "percent_owned": 70.34,
+          "percent_started": 10.56,
+          "projected_total_points": 145.05,
           "total_points": 18.8
         },
         {
@@ -709,9 +710,9 @@
           ],
           "pro_team": "LAR",
           "injury_status": "ACTIVE",
-          "percent_owned": 72.61,
-          "percent_started": 6.47,
-          "projected_total_points": 121.49,
+          "percent_owned": 72.41,
+          "percent_started": 6.38,
+          "projected_total_points": 121.08,
           "total_points": 19.1
         },
         {
@@ -728,9 +729,9 @@
           ],
           "pro_team": "HOU",
           "injury_status": "ACTIVE",
-          "percent_owned": 51.59,
-          "percent_started": 4.73,
-          "projected_total_points": 109.61,
+          "percent_owned": 51.72,
+          "percent_started": 4.98,
+          "projected_total_points": 109.62,
           "total_points": 22.6
         },
         {
@@ -745,9 +746,9 @@
           ],
           "pro_team": "GB",
           "injury_status": "ACTIVE",
-          "percent_owned": 52.8,
-          "percent_started": 19.68,
-          "projected_total_points": 228.58,
+          "percent_owned": 52.48,
+          "percent_started": 18.92,
+          "projected_total_points": 226.9,
           "total_points": 51.76
         },
         {
@@ -764,9 +765,9 @@
           ],
           "pro_team": "PHI",
           "injury_status": "ACTIVE",
-          "percent_owned": 17.52,
-          "percent_started": 0.56,
-          "projected_total_points": 43.3,
+          "percent_owned": 17.14,
+          "percent_started": 0.54,
+          "projected_total_points": 43.18,
           "total_points": 11.6
         },
         {
@@ -780,8 +781,8 @@
           ],
           "pro_team": "HOU",
           "injury_status": "ACTIVE",
-          "percent_owned": 87.78,
-          "percent_started": 83.58,
+          "percent_owned": 87.44,
+          "percent_started": 83.27,
           "projected_total_points": 131.75,
           "total_points": 20.0
         },
@@ -796,8 +797,8 @@
           ],
           "pro_team": "MIN",
           "injury_status": "NORMAL",
-          "percent_owned": 83.22,
-          "percent_started": 79.4,
+          "percent_owned": 84.96,
+          "percent_started": 81.78,
           "projected_total_points": 108.23,
           "total_points": 40.0
         },
@@ -816,9 +817,9 @@
           ],
           "pro_team": "CHI",
           "injury_status": "ACTIVE",
-          "percent_owned": 41.81,
-          "percent_started": 9.58,
-          "projected_total_points": 138.86,
+          "percent_owned": 45.13,
+          "percent_started": 10.9,
+          "projected_total_points": 138.78,
           "total_points": 46.4
         }
       ]
@@ -945,8 +946,8 @@
           "pro_team": "ATL",
           "injury_status": "ACTIVE",
           "percent_owned": 99.92,
-          "percent_started": 99.72,
-          "projected_total_points": 294.05,
+          "percent_started": 99.73,
+          "projected_total_points": 293.11,
           "total_points": 77.7
         },
         {
@@ -964,8 +965,8 @@
           "pro_team": "ARI",
           "injury_status": "ACTIVE",
           "percent_owned": 99.89,
-          "percent_started": 99.33,
-          "projected_total_points": 242.43,
+          "percent_started": 99.37,
+          "projected_total_points": 242.17,
           "total_points": 59.1
         },
         {
@@ -982,9 +983,9 @@
           ],
           "pro_team": "LV",
           "injury_status": "ACTIVE",
-          "percent_owned": 99.82,
-          "percent_started": 85.05,
-          "projected_total_points": 214.03,
+          "percent_owned": 99.83,
+          "percent_started": 87.07,
+          "projected_total_points": 213.8,
           "total_points": 27.6
         },
         {
@@ -1001,9 +1002,9 @@
           ],
           "pro_team": "JAX",
           "injury_status": "ACTIVE",
-          "percent_owned": 92.62,
-          "percent_started": 55.38,
-          "projected_total_points": 179.1,
+          "percent_owned": 92.66,
+          "percent_started": 56.59,
+          "projected_total_points": 179.28,
           "total_points": 41.0
         },
         {
@@ -1021,9 +1022,9 @@
           ],
           "pro_team": "DEN",
           "injury_status": "ACTIVE",
-          "percent_owned": 94.95,
-          "percent_started": 55.12,
-          "projected_total_points": 167.69,
+          "percent_owned": 94.89,
+          "percent_started": 54.03,
+          "projected_total_points": 167.72,
           "total_points": 29.4
         },
         {
@@ -1041,9 +1042,9 @@
           ],
           "pro_team": "SF",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 91.93,
-          "percent_started": 35.08,
-          "projected_total_points": 180.04,
+          "percent_owned": 91.88,
+          "percent_started": 33.82,
+          "projected_total_points": 179.48,
           "total_points": 37.7
         },
         {
@@ -1060,9 +1061,9 @@
           ],
           "pro_team": "PIT",
           "injury_status": "OUT",
-          "percent_owned": 72.85,
-          "percent_started": 2.96,
-          "projected_total_points": 114.81,
+          "percent_owned": 72.16,
+          "percent_started": 2.65,
+          "projected_total_points": 114.83,
           "total_points": 10.5
         },
         {
@@ -1079,10 +1080,10 @@
             "IR"
           ],
           "pro_team": "TB",
-          "injury_status": "QUESTIONABLE",
-          "percent_owned": 62.93,
-          "percent_started": 4.29,
-          "projected_total_points": 100.58,
+          "injury_status": "ACTIVE",
+          "percent_owned": 62.29,
+          "percent_started": 3.8,
+          "projected_total_points": 100.62,
           "total_points": 22.6
         },
         {
@@ -1099,9 +1100,9 @@
           ],
           "pro_team": "WSH",
           "injury_status": "ACTIVE",
-          "percent_owned": 70.32,
-          "percent_started": 9.91,
-          "projected_total_points": 118.27,
+          "percent_owned": 70.41,
+          "percent_started": 10.57,
+          "projected_total_points": 118.35,
           "total_points": 23.7
         },
         {
@@ -1119,8 +1120,8 @@
           ],
           "pro_team": "GB",
           "injury_status": "INJURY_RESERVE",
-          "percent_owned": 44.65,
-          "percent_started": 0.86,
+          "percent_owned": 43.0,
+          "percent_started": 0.78,
           "projected_total_points": 95.36,
           "total_points": 6.4
         },
@@ -1138,9 +1139,9 @@
           ],
           "pro_team": "JAX",
           "injury_status": "ACTIVE",
-          "percent_owned": 18.08,
-          "percent_started": 0.56,
-          "projected_total_points": 70.62,
+          "percent_owned": 17.97,
+          "percent_started": 0.58,
+          "projected_total_points": 70.47,
           "total_points": 13.3
         },
         {
@@ -1155,9 +1156,9 @@
           ],
           "pro_team": "IND",
           "injury_status": "ACTIVE",
-          "percent_owned": 23.58,
-          "percent_started": 3.84,
-          "projected_total_points": 197.24,
+          "percent_owned": 23.49,
+          "percent_started": 3.96,
+          "projected_total_points": 196.5,
           "total_points": 28.34
         },
         {
@@ -1171,8 +1172,8 @@
           ],
           "pro_team": "SEA",
           "injury_status": "NORMAL",
-          "percent_owned": 98.22,
-          "percent_started": 94.16,
+          "percent_owned": 98.21,
+          "percent_started": 94.03,
           "projected_total_points": 105.27,
           "total_points": 28.0
         },
@@ -1191,8 +1192,8 @@
           ],
           "pro_team": "SEA",
           "injury_status": "ACTIVE",
-          "percent_owned": 36.6,
-          "percent_started": 5.38,
+          "percent_owned": 36.17,
+          "percent_started": 4.89,
           "projected_total_points": 114.2,
           "total_points": 11.7
         },
@@ -1207,9 +1208,9 @@
           ],
           "pro_team": "CHI",
           "injury_status": "ACTIVE",
-          "percent_owned": 29.37,
-          "percent_started": 24.19,
-          "projected_total_points": 116.88,
+          "percent_owned": 29.23,
+          "percent_started": 24.12,
+          "projected_total_points": 116.91,
           "total_points": 26.0
         },
         {
@@ -1224,9 +1225,9 @@
           ],
           "pro_team": "SEA",
           "injury_status": "ACTIVE",
-          "percent_owned": 48.98,
-          "percent_started": 20.81,
-          "projected_total_points": 214.53,
+          "percent_owned": 49.87,
+          "percent_started": 21.78,
+          "projected_total_points": 214.42,
           "total_points": 28.18
         },
         {
@@ -1242,10 +1243,10 @@
             "IR"
           ],
           "pro_team": "MIA",
-          "injury_status": "QUESTIONABLE",
-          "percent_owned": 18.72,
-          "percent_started": 1.07,
-          "projected_total_points": 121.44,
+          "injury_status": "ACTIVE",
+          "percent_owned": 20.3,
+          "percent_started": 1.22,
+          "projected_total_points": 122.01,
           "total_points": 1.0
         }
       ]
@@ -1372,8 +1373,8 @@
           "pro_team": "DET",
           "injury_status": "ACTIVE",
           "percent_owned": 99.95,
-          "percent_started": 99.81,
-          "projected_total_points": 365.74,
+          "percent_started": 99.82,
+          "projected_total_points": 365.3,
           "total_points": 98.3
         },
         {
@@ -1392,7 +1393,7 @@
           "pro_team": "KC",
           "injury_status": "ACTIVE",
           "percent_owned": 98.94,
-          "percent_started": 85.95,
+          "percent_started": 86.13,
           "projected_total_points": 208.38,
           "total_points": 38.0
         },
@@ -1409,8 +1410,8 @@
           "pro_team": "BUF",
           "injury_status": "ACTIVE",
           "percent_owned": 99.92,
-          "percent_started": 97.99,
-          "projected_total_points": 316.05,
+          "percent_started": 98.24,
+          "projected_total_points": 314.8,
           "total_points": 93.94
         },
         {
@@ -1427,9 +1428,9 @@
           ],
           "pro_team": "TB",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 96.76,
-          "percent_started": 82.85,
-          "projected_total_points": 225.63,
+          "percent_owned": 96.73,
+          "percent_started": 82.05,
+          "projected_total_points": 224.76,
           "total_points": 41.1
         },
         {
@@ -1447,9 +1448,9 @@
           ],
           "pro_team": "DET",
           "injury_status": "ACTIVE",
-          "percent_owned": 91.1,
-          "percent_started": 33.9,
-          "projected_total_points": 146.3,
+          "percent_owned": 90.98,
+          "percent_started": 33.07,
+          "projected_total_points": 146.1,
           "total_points": 22.7
         },
         {
@@ -1466,9 +1467,9 @@
           ],
           "pro_team": "PIT",
           "injury_status": "ACTIVE",
-          "percent_owned": 90.97,
-          "percent_started": 59.14,
-          "projected_total_points": 199.8,
+          "percent_owned": 91.23,
+          "percent_started": 62.66,
+          "projected_total_points": 199.38,
           "total_points": 40.6
         },
         {
@@ -1486,9 +1487,9 @@
           ],
           "pro_team": "DEN",
           "injury_status": "ACTIVE",
-          "percent_owned": 83.23,
-          "percent_started": 19.59,
-          "projected_total_points": 149.1,
+          "percent_owned": 83.05,
+          "percent_started": 19.14,
+          "projected_total_points": 148.87,
           "total_points": 16.2
         },
         {
@@ -1506,8 +1507,8 @@
           ],
           "pro_team": "IND",
           "injury_status": "INJURY_RESERVE",
-          "percent_owned": 65.05,
-          "percent_started": 1.06,
+          "percent_owned": 64.69,
+          "percent_started": 1.02,
           "projected_total_points": 112.19,
           "total_points": 12.2
         },
@@ -1526,9 +1527,9 @@
           ],
           "pro_team": "JAX",
           "injury_status": "ACTIVE",
-          "percent_owned": 69.77,
-          "percent_started": 5.55,
-          "projected_total_points": 115.74,
+          "percent_owned": 69.23,
+          "percent_started": 5.08,
+          "projected_total_points": 115.5,
           "total_points": 15.8
         },
         {
@@ -1545,9 +1546,9 @@
           ],
           "pro_team": "BUF",
           "injury_status": "ACTIVE",
-          "percent_owned": 91.41,
-          "percent_started": 58.85,
-          "projected_total_points": 152.79,
+          "percent_owned": 91.42,
+          "percent_started": 57.68,
+          "projected_total_points": 152.72,
           "total_points": 44.3
         },
         {
@@ -1561,8 +1562,8 @@
           ],
           "pro_team": "PHI",
           "injury_status": "NORMAL",
-          "percent_owned": 71.87,
-          "percent_started": 60.6,
+          "percent_owned": 70.02,
+          "percent_started": 57.88,
           "projected_total_points": 80.97,
           "total_points": 8.0
         },
@@ -1577,8 +1578,8 @@
           ],
           "pro_team": "MIN",
           "injury_status": "ACTIVE",
-          "percent_owned": 36.45,
-          "percent_started": 33.23,
+          "percent_owned": 37.34,
+          "percent_started": 34.19,
           "projected_total_points": 121.94,
           "total_points": 33.0
         },
@@ -1596,9 +1597,9 @@
           ],
           "pro_team": "HOU",
           "injury_status": "ACTIVE",
-          "percent_owned": 60.13,
-          "percent_started": 29.1,
-          "projected_total_points": 119.61,
+          "percent_owned": 59.68,
+          "percent_started": 28.17,
+          "projected_total_points": 119.57,
           "total_points": 39.5
         },
         {
@@ -1613,9 +1614,9 @@
           ],
           "pro_team": "CAR",
           "injury_status": "ACTIVE",
-          "percent_owned": 80.54,
-          "percent_started": 57.46,
-          "projected_total_points": 236.79,
+          "percent_owned": 81.37,
+          "percent_started": 59.16,
+          "projected_total_points": 238.17,
           "total_points": 69.16
         },
         {
@@ -1634,8 +1635,8 @@
           ],
           "pro_team": "PHI",
           "injury_status": "ACTIVE",
-          "percent_owned": 48.0,
-          "percent_started": 1.57,
+          "percent_owned": 47.62,
+          "percent_started": 1.52,
           "projected_total_points": 93.36,
           "total_points": 10.3
         },
@@ -1654,9 +1655,9 @@
           ],
           "pro_team": "SF",
           "injury_status": "ACTIVE",
-          "percent_owned": 37.36,
-          "percent_started": 1.17,
-          "projected_total_points": 75.19,
+          "percent_owned": 36.88,
+          "percent_started": 1.1,
+          "projected_total_points": 75.18,
           "total_points": 12.2
         },
         {
@@ -1674,8 +1675,8 @@
           ],
           "pro_team": "MIN",
           "injury_status": "ACTIVE",
-          "percent_owned": 77.02,
-          "percent_started": 18.72,
+          "percent_owned": 77.46,
+          "percent_started": 20.07,
           "projected_total_points": 155.87,
           "total_points": 24.1
         }
@@ -1804,8 +1805,8 @@
           "pro_team": "DET",
           "injury_status": "ACTIVE",
           "percent_owned": 99.93,
-          "percent_started": 99.67,
-          "projected_total_points": 283.97,
+          "percent_started": 99.68,
+          "projected_total_points": 284.14,
           "total_points": 75.8
         },
         {
@@ -1824,7 +1825,7 @@
           "injury_status": "ACTIVE",
           "percent_owned": 99.75,
           "percent_started": 97.68,
-          "projected_total_points": 259.05,
+          "projected_total_points": 259.51,
           "total_points": 55.3
         },
         {
@@ -1841,9 +1842,9 @@
           ],
           "pro_team": "NYJ",
           "injury_status": "DOUBTFUL",
-          "percent_owned": 98.3,
-          "percent_started": 42.63,
-          "projected_total_points": 211.98,
+          "percent_owned": 98.17,
+          "percent_started": 36.12,
+          "projected_total_points": 212.36,
           "total_points": 42.5
         },
         {
@@ -1860,10 +1861,10 @@
             "IR"
           ],
           "pro_team": "BAL",
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "percent_owned": 98.67,
-          "percent_started": 73.85,
-          "projected_total_points": 213.58,
+          "percent_started": 75.83,
+          "projected_total_points": 213.81,
           "total_points": 41.4
         },
         {
@@ -1881,9 +1882,9 @@
           ],
           "pro_team": "WSH",
           "injury_status": "ACTIVE",
-          "percent_owned": 93.28,
-          "percent_started": 53.15,
-          "projected_total_points": 171.05,
+          "percent_owned": 93.31,
+          "percent_started": 54.29,
+          "projected_total_points": 171.02,
           "total_points": 30.1
         },
         {
@@ -1898,9 +1899,9 @@
           ],
           "pro_team": "PHI",
           "injury_status": "ACTIVE",
-          "percent_owned": 98.76,
-          "percent_started": 72.16,
-          "projected_total_points": 263.67,
+          "percent_owned": 98.75,
+          "percent_started": 70.34,
+          "projected_total_points": 265.1,
           "total_points": 53.5
         },
         {
@@ -1918,9 +1919,9 @@
           ],
           "pro_team": "ARI",
           "injury_status": "ACTIVE",
-          "percent_owned": 74.64,
-          "percent_started": 6.16,
-          "projected_total_points": 88.05,
+          "percent_owned": 74.21,
+          "percent_started": 5.94,
+          "projected_total_points": 88.06,
           "total_points": 11.3
         },
         {
@@ -1938,9 +1939,9 @@
           ],
           "pro_team": "TEN",
           "injury_status": "ACTIVE",
-          "percent_owned": 64.92,
-          "percent_started": 4.8,
-          "projected_total_points": 129.69,
+          "percent_owned": 64.95,
+          "percent_started": 4.93,
+          "projected_total_points": 129.58,
           "total_points": 29.4
         },
         {
@@ -1957,9 +1958,9 @@
           ],
           "pro_team": "DAL",
           "injury_status": "ACTIVE",
-          "percent_owned": 79.73,
-          "percent_started": 31.07,
-          "projected_total_points": 116.92,
+          "percent_owned": 79.58,
+          "percent_started": 30.58,
+          "projected_total_points": 117.03,
           "total_points": 32.2
         },
         {
@@ -1977,9 +1978,9 @@
           ],
           "pro_team": "BUF",
           "injury_status": "ACTIVE",
-          "percent_owned": 63.26,
-          "percent_started": 7.04,
-          "projected_total_points": 139.6,
+          "percent_owned": 62.95,
+          "percent_started": 6.6,
+          "projected_total_points": 139.51,
           "total_points": 17.4
         },
         {
@@ -1997,9 +1998,9 @@
           ],
           "pro_team": "NE",
           "injury_status": "ACTIVE",
-          "percent_owned": 60.52,
-          "percent_started": 9.8,
-          "projected_total_points": 109.58,
+          "percent_owned": 60.1,
+          "percent_started": 8.91,
+          "projected_total_points": 109.51,
           "total_points": 20.5
         },
         {
@@ -2017,7 +2018,7 @@
           ],
           "pro_team": "HOU",
           "injury_status": "INJURY_RESERVE",
-          "percent_owned": 28.56,
+          "percent_owned": 28.54,
           "percent_started": 0.06,
           "projected_total_points": 0.0,
           "total_points": 0.0
@@ -2033,8 +2034,8 @@
           ],
           "pro_team": "DEN",
           "injury_status": "NORMAL",
-          "percent_owned": 79.18,
-          "percent_started": 51.05,
+          "percent_owned": 78.7,
+          "percent_started": 50.17,
           "projected_total_points": 92.83,
           "total_points": 20.0
         },
@@ -2049,8 +2050,8 @@
           ],
           "pro_team": "SEA",
           "injury_status": "ACTIVE",
-          "percent_owned": 93.85,
-          "percent_started": 89.74,
+          "percent_owned": 93.72,
+          "percent_started": 89.65,
           "projected_total_points": 132.78,
           "total_points": 23.0
         },
@@ -2068,9 +2069,9 @@
           ],
           "pro_team": "NYJ",
           "injury_status": "ACTIVE",
-          "percent_owned": 66.97,
-          "percent_started": 32.82,
-          "projected_total_points": 95.83,
+          "percent_owned": 69.49,
+          "percent_started": 36.84,
+          "projected_total_points": 95.86,
           "total_points": 17.2
         },
         {
@@ -2087,9 +2088,9 @@
           ],
           "pro_team": "BUF",
           "injury_status": "ACTIVE",
-          "percent_owned": 5.69,
+          "percent_owned": 5.61,
           "percent_started": 0.22,
-          "projected_total_points": 19.46,
+          "projected_total_points": 19.49,
           "total_points": 0.3
         }
       ]
@@ -2217,8 +2218,8 @@
           "pro_team": "CIN",
           "injury_status": "ACTIVE",
           "percent_owned": 99.92,
-          "percent_started": 99.59,
-          "projected_total_points": 286.94,
+          "percent_started": 99.6,
+          "projected_total_points": 286.76,
           "total_points": 54.5
         },
         {
@@ -2236,9 +2237,9 @@
           ],
           "pro_team": "NE",
           "injury_status": "INJURY_RESERVE",
-          "percent_owned": 95.57,
-          "percent_started": 9.62,
-          "projected_total_points": 140.15,
+          "percent_owned": 95.5,
+          "percent_started": 9.52,
+          "projected_total_points": 139.92,
           "total_points": 5.6
         },
         {
@@ -2257,8 +2258,8 @@
           "pro_team": "HOU",
           "injury_status": "QUESTIONABLE",
           "percent_owned": 98.85,
-          "percent_started": 42.03,
-          "projected_total_points": 210.43,
+          "percent_started": 46.47,
+          "projected_total_points": 210.33,
           "total_points": 21.2
         },
         {
@@ -2274,10 +2275,10 @@
             "IR"
           ],
           "pro_team": "CHI",
-          "injury_status": "ACTIVE",
-          "percent_owned": 96.52,
-          "percent_started": 78.07,
-          "projected_total_points": 199.78,
+          "injury_status": "QUESTIONABLE",
+          "percent_owned": 96.53,
+          "percent_started": 77.96,
+          "projected_total_points": 199.36,
           "total_points": 56.1
         },
         {
@@ -2294,9 +2295,9 @@
           ],
           "pro_team": "IND",
           "injury_status": "ACTIVE",
-          "percent_owned": 98.82,
-          "percent_started": 91.44,
-          "projected_total_points": 169.98,
+          "percent_owned": 98.83,
+          "percent_started": 91.78,
+          "projected_total_points": 170.05,
           "total_points": 39.4
         },
         {
@@ -2311,9 +2312,9 @@
           ],
           "pro_team": "DAL",
           "injury_status": "ACTIVE",
-          "percent_owned": 93.96,
-          "percent_started": 64.45,
-          "projected_total_points": 260.81,
+          "percent_owned": 93.93,
+          "percent_started": 63.79,
+          "projected_total_points": 262.25,
           "total_points": 63.1
         },
         {
@@ -2330,9 +2331,9 @@
           ],
           "pro_team": "TB",
           "injury_status": "ACTIVE",
-          "percent_owned": 68.33,
-          "percent_started": 6.52,
-          "projected_total_points": 113.43,
+          "percent_owned": 68.02,
+          "percent_started": 6.68,
+          "projected_total_points": 113.53,
           "total_points": 10.3
         },
         {
@@ -2347,9 +2348,9 @@
           ],
           "pro_team": "CHI",
           "injury_status": "DOUBTFUL",
-          "percent_owned": 89.32,
-          "percent_started": 4.93,
-          "projected_total_points": 210.1,
+          "percent_owned": 89.22,
+          "percent_started": 4.77,
+          "projected_total_points": 210.07,
           "total_points": 44.98
         },
         {
@@ -2366,9 +2367,9 @@
           ],
           "pro_team": "CAR",
           "injury_status": "ACTIVE",
-          "percent_owned": 93.13,
-          "percent_started": 73.15,
-          "projected_total_points": 207.64,
+          "percent_owned": 93.25,
+          "percent_started": 74.05,
+          "projected_total_points": 207.89,
           "total_points": 53.1
         },
         {
@@ -2386,9 +2387,9 @@
           ],
           "pro_team": "LAC",
           "injury_status": "ACTIVE",
-          "percent_owned": 55.51,
-          "percent_started": 4.64,
-          "projected_total_points": 125.59,
+          "percent_owned": 54.92,
+          "percent_started": 4.2,
+          "projected_total_points": 125.58,
           "total_points": 13.1
         },
         {
@@ -2407,7 +2408,7 @@
           ],
           "pro_team": "SF",
           "injury_status": "INJURY_RESERVE",
-          "percent_owned": 30.43,
+          "percent_owned": 30.14,
           "percent_started": 0.13,
           "projected_total_points": 0.0,
           "total_points": 0.0
@@ -2427,8 +2428,8 @@
           ],
           "pro_team": "DEN",
           "injury_status": "INJURY_RESERVE",
-          "percent_owned": 26.97,
-          "percent_started": 0.18,
+          "percent_owned": 26.52,
+          "percent_started": 0.17,
           "projected_total_points": 0.0,
           "total_points": 14.8
         },
@@ -2446,9 +2447,9 @@
           ],
           "pro_team": "NO",
           "injury_status": "ACTIVE",
-          "percent_owned": 70.77,
-          "percent_started": 37.56,
-          "projected_total_points": 140.63,
+          "percent_owned": 71.95,
+          "percent_started": 39.65,
+          "projected_total_points": 140.77,
           "total_points": 48.3
         },
         {
@@ -2465,8 +2466,8 @@
           ],
           "pro_team": "LAR",
           "injury_status": "DOUBTFUL",
-          "percent_owned": 24.9,
-          "percent_started": 3.58,
+          "percent_owned": 24.15,
+          "percent_started": 2.94,
           "projected_total_points": 100.25,
           "total_points": 19.3
         },
@@ -2481,8 +2482,8 @@
           ],
           "pro_team": "BAL",
           "injury_status": "NORMAL",
-          "percent_owned": 85.78,
-          "percent_started": 74.48,
+          "percent_owned": 86.69,
+          "percent_started": 76.28,
           "projected_total_points": 94.3,
           "total_points": 14.0
         },
@@ -2497,8 +2498,8 @@
           ],
           "pro_team": "BAL",
           "injury_status": "ACTIVE",
-          "percent_owned": 60.07,
-          "percent_started": 55.31,
+          "percent_owned": 60.78,
+          "percent_started": 56.15,
           "projected_total_points": 123.85,
           "total_points": 31.0
         },
@@ -2517,9 +2518,9 @@
           ],
           "pro_team": "BAL",
           "injury_status": "ACTIVE",
-          "percent_owned": 26.67,
-          "percent_started": 3.6,
-          "projected_total_points": 109.86,
+          "percent_owned": 26.15,
+          "percent_started": 3.2,
+          "projected_total_points": 109.84,
           "total_points": 27.5
         }
       ]
@@ -2647,7 +2648,7 @@
           "injury_status": "ACTIVE",
           "percent_owned": 99.92,
           "percent_started": 99.54,
-          "projected_total_points": 285.6,
+          "projected_total_points": 285.64,
           "total_points": 58.0
         },
         {
@@ -2666,8 +2667,8 @@
           "pro_team": "NO",
           "injury_status": "ACTIVE",
           "percent_owned": 99.66,
-          "percent_started": 96.6,
-          "projected_total_points": 226.76,
+          "percent_started": 96.7,
+          "projected_total_points": 226.53,
           "total_points": 70.5
         },
         {
@@ -2685,8 +2686,8 @@
           "pro_team": "DAL",
           "injury_status": "ACTIVE",
           "percent_owned": 98.93,
-          "percent_started": 88.13,
-          "projected_total_points": 220.3,
+          "percent_started": 87.62,
+          "projected_total_points": 219.65,
           "total_points": 50.5
         },
         {
@@ -2703,8 +2704,8 @@
           ],
           "pro_team": "CHI",
           "injury_status": "ACTIVE",
-          "percent_owned": 92.26,
-          "percent_started": 48.25,
+          "percent_owned": 92.08,
+          "percent_started": 47.5,
           "projected_total_points": 120.21,
           "total_points": 8.4
         },
@@ -2723,9 +2724,9 @@
           ],
           "pro_team": "BUF",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 95.19,
-          "percent_started": 54.39,
-          "projected_total_points": 184.99,
+          "percent_owned": 95.16,
+          "percent_started": 54.01,
+          "projected_total_points": 184.92,
           "total_points": 33.6
         },
         {
@@ -2742,9 +2743,9 @@
           ],
           "pro_team": "NE",
           "injury_status": "ACTIVE",
-          "percent_owned": 89.76,
-          "percent_started": 38.34,
-          "projected_total_points": 163.46,
+          "percent_owned": 89.68,
+          "percent_started": 38.05,
+          "projected_total_points": 163.16,
           "total_points": 24.9
         },
         {
@@ -2759,9 +2760,9 @@
           ],
           "pro_team": "LAC",
           "injury_status": "ACTIVE",
-          "percent_owned": 76.76,
-          "percent_started": 24.74,
-          "projected_total_points": 200.62,
+          "percent_owned": 75.93,
+          "percent_started": 22.79,
+          "projected_total_points": 198.71,
           "total_points": 33.88
         },
         {
@@ -2779,9 +2780,9 @@
           ],
           "pro_team": "JAX",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 73.81,
-          "percent_started": 10.26,
-          "projected_total_points": 151.71,
+          "percent_owned": 73.97,
+          "percent_started": 10.48,
+          "projected_total_points": 151.64,
           "total_points": 35.4
         },
         {
@@ -2798,9 +2799,9 @@
           ],
           "pro_team": "WSH",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 67.13,
-          "percent_started": 6.57,
-          "projected_total_points": 109.48,
+          "percent_owned": 66.91,
+          "percent_started": 6.35,
+          "projected_total_points": 109.27,
           "total_points": 30.1
         },
         {
@@ -2817,9 +2818,9 @@
           ],
           "pro_team": "BAL",
           "injury_status": "ACTIVE",
-          "percent_owned": 79.71,
-          "percent_started": 33.26,
-          "projected_total_points": 140.01,
+          "percent_owned": 79.55,
+          "percent_started": 32.81,
+          "projected_total_points": 140.05,
           "total_points": 25.2
         },
         {
@@ -2837,8 +2838,8 @@
           ],
           "pro_team": "TB",
           "injury_status": "INJURY_RESERVE",
-          "percent_owned": 18.41,
-          "percent_started": 0.21,
+          "percent_owned": 17.95,
+          "percent_started": 0.19,
           "projected_total_points": 0.0,
           "total_points": 0.0
         },
@@ -2853,8 +2854,8 @@
           ],
           "pro_team": "LAR",
           "injury_status": "NORMAL",
-          "percent_owned": 84.4,
-          "percent_started": 67.49,
+          "percent_owned": 84.49,
+          "percent_started": 67.91,
           "projected_total_points": 98.56,
           "total_points": 17.0
         },
@@ -2869,8 +2870,8 @@
           ],
           "pro_team": "LAC",
           "injury_status": "ACTIVE",
-          "percent_owned": 81.67,
-          "percent_started": 73.66,
+          "percent_owned": 81.05,
+          "percent_started": 72.68,
           "projected_total_points": 119.78,
           "total_points": 12.0
         },
@@ -2889,9 +2890,9 @@
           ],
           "pro_team": "LV",
           "injury_status": "ACTIVE",
-          "percent_owned": 38.84,
-          "percent_started": 6.38,
-          "projected_total_points": 123.85,
+          "percent_owned": 38.55,
+          "percent_started": 5.87,
+          "projected_total_points": 123.66,
           "total_points": 35.9
         },
         {
@@ -2906,9 +2907,9 @@
           ],
           "pro_team": "MIA",
           "injury_status": "ACTIVE",
-          "percent_owned": 12.03,
-          "percent_started": 1.4,
-          "projected_total_points": 197.57,
+          "percent_owned": 11.8,
+          "percent_started": 1.32,
+          "projected_total_points": 198.78,
           "total_points": 39.18
         },
         {
@@ -2927,8 +2928,8 @@
           ],
           "pro_team": "CLE",
           "injury_status": "ACTIVE",
-          "percent_owned": 69.72,
-          "percent_started": 17.84,
+          "percent_owned": 69.65,
+          "percent_started": 17.12,
           "projected_total_points": 152.44,
           "total_points": 42.5
         }
@@ -3056,8 +3057,8 @@
           "pro_team": "BUF",
           "injury_status": "ACTIVE",
           "percent_owned": 99.9,
-          "percent_started": 98.62,
-          "projected_total_points": 241.55,
+          "percent_started": 98.65,
+          "projected_total_points": 240.7,
           "total_points": 50.2
         },
         {
@@ -3074,9 +3075,9 @@
           ],
           "pro_team": "LAC",
           "injury_status": "ACTIVE",
-          "percent_owned": 98.84,
-          "percent_started": 75.29,
-          "projected_total_points": 174.81,
+          "percent_owned": 98.78,
+          "percent_started": 72.82,
+          "projected_total_points": 172.76,
           "total_points": 31.4
         },
         {
@@ -3092,10 +3093,10 @@
             "IR"
           ],
           "pro_team": "NO",
-          "injury_status": "OUT",
-          "percent_owned": 93.7,
-          "percent_started": 26.63,
-          "projected_total_points": 150.52,
+          "injury_status": "INJURY_RESERVE",
+          "percent_owned": 93.16,
+          "percent_started": 22.63,
+          "projected_total_points": 125.7,
           "total_points": 30.9
         },
         {
@@ -3113,9 +3114,9 @@
           ],
           "pro_team": "CAR",
           "injury_status": "ACTIVE",
-          "percent_owned": 97.97,
-          "percent_started": 84.6,
-          "projected_total_points": 189.53,
+          "percent_owned": 97.96,
+          "percent_started": 84.51,
+          "projected_total_points": 189.4,
           "total_points": 29.3
         },
         {
@@ -3133,9 +3134,9 @@
           ],
           "pro_team": "CHI",
           "injury_status": "ACTIVE",
-          "percent_owned": 90.29,
-          "percent_started": 35.78,
-          "projected_total_points": 173.64,
+          "percent_owned": 90.35,
+          "percent_started": 36.8,
+          "projected_total_points": 173.43,
           "total_points": 35.5
         },
         {
@@ -3150,9 +3151,9 @@
           ],
           "pro_team": "CIN",
           "injury_status": "ACTIVE",
-          "percent_owned": 97.13,
-          "percent_started": 64.87,
-          "projected_total_points": 263.92,
+          "percent_owned": 97.14,
+          "percent_started": 65.44,
+          "projected_total_points": 262.92,
           "total_points": 52.92
         },
         {
@@ -3169,9 +3170,9 @@
           ],
           "pro_team": "GB",
           "injury_status": "DAY_TO_DAY",
-          "percent_owned": 82.94,
-          "percent_started": 4.59,
-          "projected_total_points": 130.56,
+          "percent_owned": 82.75,
+          "percent_started": 4.55,
+          "projected_total_points": 130.54,
           "total_points": 0.0
         },
         {
@@ -3188,8 +3189,8 @@
           ],
           "pro_team": "KC",
           "injury_status": "ACTIVE",
-          "percent_owned": 95.03,
-          "percent_started": 78.2,
+          "percent_owned": 95.09,
+          "percent_started": 78.1,
           "projected_total_points": 164.96,
           "total_points": 49.1
         },
@@ -3207,9 +3208,9 @@
           ],
           "pro_team": "DEN",
           "injury_status": "ACTIVE",
-          "percent_owned": 78.71,
-          "percent_started": 15.49,
-          "projected_total_points": 156.82,
+          "percent_owned": 78.79,
+          "percent_started": 16.1,
+          "projected_total_points": 156.78,
           "total_points": 13.5
         },
         {
@@ -3226,9 +3227,9 @@
           ],
           "pro_team": "CHI",
           "injury_status": "ACTIVE",
-          "percent_owned": 77.08,
-          "percent_started": 9.15,
-          "projected_total_points": 112.65,
+          "percent_owned": 77.04,
+          "percent_started": 9.39,
+          "projected_total_points": 112.44,
           "total_points": 31.3
         },
         {
@@ -3246,9 +3247,9 @@
           ],
           "pro_team": "CAR",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 87.94,
-          "percent_started": 39.66,
-          "projected_total_points": 183.41,
+          "percent_owned": 87.9,
+          "percent_started": 38.14,
+          "projected_total_points": 183.44,
           "total_points": 52.2
         },
         {
@@ -3263,9 +3264,9 @@
           ],
           "pro_team": "NO",
           "injury_status": "ACTIVE",
-          "percent_owned": 85.79,
-          "percent_started": 55.56,
-          "projected_total_points": 259.82,
+          "percent_owned": 86.13,
+          "percent_started": 56.62,
+          "projected_total_points": 256.1,
           "total_points": 69.38
         },
         {
@@ -3282,7 +3283,7 @@
           ],
           "pro_team": "CLE",
           "injury_status": "INJURY_RESERVE",
-          "percent_owned": 10.12,
+          "percent_owned": 10.01,
           "percent_started": 0.07,
           "projected_total_points": 0.0,
           "total_points": 0.0
@@ -3302,8 +3303,8 @@
           "pro_team": "LAC",
           "injury_status": "QUESTIONABLE",
           "percent_owned": 18.49,
-          "percent_started": 0.87,
-          "projected_total_points": 74.25,
+          "percent_started": 0.83,
+          "projected_total_points": 74.36,
           "total_points": 19.5
         },
         {
@@ -3317,9 +3318,9 @@
           ],
           "pro_team": "DET",
           "injury_status": "NORMAL",
-          "percent_owned": 43.87,
-          "percent_started": 33.09,
-          "projected_total_points": 61.93,
+          "percent_owned": 43.04,
+          "percent_started": 32.04,
+          "projected_total_points": 61.92,
           "total_points": 8.0
         },
         {
@@ -3333,8 +3334,8 @@
           ],
           "pro_team": "SF",
           "injury_status": "ACTIVE",
-          "percent_owned": 79.33,
-          "percent_started": 74.29,
+          "percent_owned": 79.08,
+          "percent_started": 74.02,
           "projected_total_points": 131.07,
           "total_points": 23.0
         },
@@ -3352,9 +3353,9 @@
           ],
           "pro_team": "MIN",
           "injury_status": "ACTIVE",
-          "percent_owned": 56.42,
-          "percent_started": 13.14,
-          "projected_total_points": 109.76,
+          "percent_owned": 55.95,
+          "percent_started": 12.68,
+          "projected_total_points": 109.61,
           "total_points": 22.6
         }
       ]
@@ -3482,8 +3483,8 @@
           "pro_team": "MIN",
           "injury_status": "QUESTIONABLE",
           "percent_owned": 99.89,
-          "percent_started": 93.75,
-          "projected_total_points": 254.24,
+          "percent_started": 93.11,
+          "projected_total_points": 253.89,
           "total_points": 44.9
         },
         {
@@ -3501,8 +3502,8 @@
           "pro_team": "CIN",
           "injury_status": "ACTIVE",
           "percent_owned": 99.44,
-          "percent_started": 93.87,
-          "projected_total_points": 236.02,
+          "percent_started": 93.66,
+          "projected_total_points": 236.43,
           "total_points": 38.9
         },
         {
@@ -3520,9 +3521,9 @@
           ],
           "pro_team": "PHI",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 99.26,
-          "percent_started": 90.36,
-          "projected_total_points": 214.69,
+          "percent_owned": 99.24,
+          "percent_started": 89.09,
+          "projected_total_points": 214.4,
           "total_points": 48.5
         },
         {
@@ -3539,9 +3540,9 @@
           ],
           "pro_team": "NYG",
           "injury_status": "ACTIVE",
-          "percent_owned": 98.07,
-          "percent_started": 85.34,
-          "projected_total_points": 199.65,
+          "percent_owned": 98.08,
+          "percent_started": 85.75,
+          "projected_total_points": 196.81,
           "total_points": 36.6
         },
         {
@@ -3559,8 +3560,8 @@
           ],
           "pro_team": "SEA",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 89.2,
-          "percent_started": 29.24,
+          "percent_owned": 88.87,
+          "percent_started": 27.16,
           "projected_total_points": 145.19,
           "total_points": 14.0
         },
@@ -3578,9 +3579,9 @@
           ],
           "pro_team": "CLE",
           "injury_status": "ACTIVE",
-          "percent_owned": 91.4,
-          "percent_started": 65.74,
-          "projected_total_points": 161.06,
+          "percent_owned": 91.58,
+          "percent_started": 67.28,
+          "projected_total_points": 161.09,
           "total_points": 38.6
         },
         {
@@ -3598,9 +3599,9 @@
           ],
           "pro_team": "PIT",
           "injury_status": "ACTIVE",
-          "percent_owned": 78.81,
-          "percent_started": 7.86,
-          "projected_total_points": 141.34,
+          "percent_owned": 78.46,
+          "percent_started": 7.76,
+          "projected_total_points": 141.08,
           "total_points": 12.4
         },
         {
@@ -3617,8 +3618,8 @@
           ],
           "pro_team": "GB",
           "injury_status": "ACTIVE",
-          "percent_owned": 54.2,
-          "percent_started": 5.71,
+          "percent_owned": 53.13,
+          "percent_started": 5.29,
           "projected_total_points": 28.36,
           "total_points": 16.1
         },
@@ -3637,9 +3638,9 @@
           ],
           "pro_team": "GB",
           "injury_status": "ACTIVE",
-          "percent_owned": 86.8,
-          "percent_started": 40.12,
-          "projected_total_points": 185.88,
+          "percent_owned": 86.96,
+          "percent_started": 41.7,
+          "projected_total_points": 186.13,
           "total_points": 46.3
         },
         {
@@ -3654,9 +3655,9 @@
           ],
           "pro_team": "DEN",
           "injury_status": "ACTIVE",
-          "percent_owned": 77.52,
-          "percent_started": 23.66,
-          "projected_total_points": 230.86,
+          "percent_owned": 77.34,
+          "percent_started": 23.27,
+          "projected_total_points": 228.44,
           "total_points": 43.7
         },
         {
@@ -3670,8 +3671,8 @@
           ],
           "pro_team": "HOU",
           "injury_status": "NORMAL",
-          "percent_owned": 89.43,
-          "percent_started": 69.44,
+          "percent_owned": 88.91,
+          "percent_started": 67.9,
           "projected_total_points": 101.2,
           "total_points": 13.0
         },
@@ -3687,9 +3688,9 @@
           ],
           "pro_team": "DET",
           "injury_status": "ACTIVE",
-          "percent_owned": 81.32,
-          "percent_started": 42.41,
-          "projected_total_points": 245.45,
+          "percent_owned": 81.55,
+          "percent_started": 43.07,
+          "projected_total_points": 244.1,
           "total_points": 65.58
         },
         {
@@ -3703,8 +3704,8 @@
           ],
           "pro_team": "LAR",
           "injury_status": "ACTIVE",
-          "percent_owned": 71.38,
-          "percent_started": 64.32,
+          "percent_owned": 71.11,
+          "percent_started": 64.08,
           "projected_total_points": 126.04,
           "total_points": 20.0
         },
@@ -3723,9 +3724,9 @@
           ],
           "pro_team": "NO",
           "injury_status": "ACTIVE",
-          "percent_owned": 65.14,
-          "percent_started": 19.81,
-          "projected_total_points": 105.0,
+          "percent_owned": 65.03,
+          "percent_started": 19.35,
+          "projected_total_points": 105.05,
           "total_points": 38.2
         },
         {
@@ -3743,8 +3744,8 @@
           ],
           "pro_team": "NYJ",
           "injury_status": "DOUBTFUL",
-          "percent_owned": 30.79,
-          "percent_started": 1.58,
+          "percent_owned": 30.13,
+          "percent_started": 1.09,
           "projected_total_points": 136.76,
           "total_points": 21.3
         },
@@ -3762,9 +3763,9 @@
           ],
           "pro_team": "MIA",
           "injury_status": "ACTIVE",
-          "percent_owned": 60.48,
-          "percent_started": 13.23,
-          "projected_total_points": 150.04,
+          "percent_owned": 61.88,
+          "percent_started": 13.76,
+          "projected_total_points": 150.2,
           "total_points": 15.2
         }
       ]
@@ -3891,8 +3892,8 @@
           "pro_team": "IND",
           "injury_status": "ACTIVE",
           "percent_owned": 99.89,
-          "percent_started": 99.4,
-          "projected_total_points": 275.55,
+          "percent_started": 99.41,
+          "projected_total_points": 275.08,
           "total_points": 63.5
         },
         {
@@ -3910,9 +3911,9 @@
           ],
           "pro_team": "ATL",
           "injury_status": "ACTIVE",
-          "percent_owned": 99.58,
-          "percent_started": 94.74,
-          "projected_total_points": 229.16,
+          "percent_owned": 99.59,
+          "percent_started": 95.17,
+          "projected_total_points": 229.11,
           "total_points": 42.8
         },
         {
@@ -3930,9 +3931,9 @@
           ],
           "pro_team": "NYJ",
           "injury_status": "ACTIVE",
-          "percent_owned": 99.01,
-          "percent_started": 91.57,
-          "projected_total_points": 215.76,
+          "percent_owned": 99.03,
+          "percent_started": 91.86,
+          "projected_total_points": 215.8,
           "total_points": 57.3
         },
         {
@@ -3950,9 +3951,9 @@
           ],
           "pro_team": "CIN",
           "injury_status": "ACTIVE",
-          "percent_owned": 96.8,
-          "percent_started": 75.0,
-          "projected_total_points": 192.39,
+          "percent_owned": 96.82,
+          "percent_started": 75.41,
+          "projected_total_points": 192.17,
           "total_points": 44.4
         },
         {
@@ -3967,9 +3968,9 @@
           ],
           "pro_team": "NE",
           "injury_status": "ACTIVE",
-          "percent_owned": 89.63,
-          "percent_started": 39.26,
-          "projected_total_points": 240.54,
+          "percent_owned": 88.99,
+          "percent_started": 37.42,
+          "projected_total_points": 240.47,
           "total_points": 21.6
         },
         {
@@ -3986,9 +3987,9 @@
           ],
           "pro_team": "NE",
           "injury_status": "ACTIVE",
-          "percent_owned": 89.87,
-          "percent_started": 29.69,
-          "projected_total_points": 136.25,
+          "percent_owned": 89.76,
+          "percent_started": 29.21,
+          "projected_total_points": 136.11,
           "total_points": 17.5
         },
         {
@@ -4005,8 +4006,8 @@
           ],
           "pro_team": "DET",
           "injury_status": "ACTIVE",
-          "percent_owned": 96.06,
-          "percent_started": 76.8,
+          "percent_owned": 96.04,
+          "percent_started": 76.67,
           "projected_total_points": 158.12,
           "total_points": 34.4
         },
@@ -4024,8 +4025,8 @@
           ],
           "pro_team": "CAR",
           "injury_status": "INJURY_RESERVE",
-          "percent_owned": 52.64,
-          "percent_started": 0.96,
+          "percent_owned": 52.06,
+          "percent_started": 0.93,
           "projected_total_points": 0.0,
           "total_points": 9.3
         },
@@ -4041,9 +4042,9 @@
           ],
           "pro_team": "SF",
           "injury_status": "ACTIVE",
-          "percent_owned": 96.35,
-          "percent_started": 70.37,
-          "projected_total_points": 271.92,
+          "percent_owned": 96.4,
+          "percent_started": 70.42,
+          "projected_total_points": 273.25,
           "total_points": 80.86
         },
         {
@@ -4058,9 +4059,9 @@
           ],
           "pro_team": "LAR",
           "injury_status": "ACTIVE",
-          "percent_owned": 89.77,
-          "percent_started": 41.26,
-          "projected_total_points": 245.06,
+          "percent_owned": 89.76,
+          "percent_started": 41.39,
+          "projected_total_points": 246.3,
           "total_points": 51.98
         },
         {
@@ -4078,9 +4079,9 @@
           ],
           "pro_team": "KC",
           "injury_status": "ACTIVE",
-          "percent_owned": 73.08,
-          "percent_started": 14.69,
-          "projected_total_points": 137.25,
+          "percent_owned": 72.77,
+          "percent_started": 13.49,
+          "projected_total_points": 137.06,
           "total_points": 22.3
         },
         {
@@ -4097,7 +4098,7 @@
           ],
           "pro_team": "DET",
           "injury_status": "INJURY_RESERVE",
-          "percent_owned": 23.9,
+          "percent_owned": 23.7,
           "percent_started": 0.24,
           "projected_total_points": 0.0,
           "total_points": 0.0
@@ -4120,8 +4121,8 @@
           ],
           "pro_team": "JAX",
           "injury_status": "ACTIVE",
-          "percent_owned": 40.86,
-          "percent_started": 2.52,
+          "percent_owned": 40.29,
+          "percent_started": 2.47,
           "projected_total_points": 11.07,
           "total_points": 2.1
         },
@@ -4139,10 +4140,10 @@
             "IR"
           ],
           "pro_team": "IND",
-          "injury_status": "ACTIVE",
-          "percent_owned": 43.95,
-          "percent_started": 11.78,
-          "projected_total_points": 130.15,
+          "injury_status": "QUESTIONABLE",
+          "percent_owned": 45.72,
+          "percent_started": 12.92,
+          "projected_total_points": 130.19,
           "total_points": 29.0
         },
         {
@@ -4156,8 +4157,8 @@
           ],
           "pro_team": "NE",
           "injury_status": "NORMAL",
-          "percent_owned": 54.39,
-          "percent_started": 39.49,
+          "percent_owned": 53.22,
+          "percent_started": 37.77,
           "projected_total_points": 84.41,
           "total_points": 27.0
         },
@@ -4172,8 +4173,8 @@
           ],
           "pro_team": "KC",
           "injury_status": "ACTIVE",
-          "percent_owned": 81.57,
-          "percent_started": 75.31,
+          "percent_owned": 81.27,
+          "percent_started": 74.93,
           "projected_total_points": 124.63,
           "total_points": 28.0
         }
@@ -4302,8 +4303,8 @@
           "pro_team": "LAR",
           "injury_status": "QUESTIONABLE",
           "percent_owned": 99.89,
-          "percent_started": 55.88,
-          "projected_total_points": 293.26,
+          "percent_started": 61.84,
+          "projected_total_points": 292.96,
           "total_points": 12.4
         },
         {
@@ -4321,9 +4322,9 @@
           ],
           "pro_team": "ARI",
           "injury_status": "ACTIVE",
-          "percent_owned": 98.76,
-          "percent_started": 84.89,
-          "projected_total_points": 206.34,
+          "percent_owned": 98.78,
+          "percent_started": 85.91,
+          "projected_total_points": 206.74,
           "total_points": 42.4
         },
         {
@@ -4341,9 +4342,9 @@
           ],
           "pro_team": "DAL",
           "injury_status": "ACTIVE",
-          "percent_owned": 99.29,
-          "percent_started": 87.59,
-          "projected_total_points": 198.84,
+          "percent_owned": 99.28,
+          "percent_started": 87.48,
+          "projected_total_points": 198.83,
           "total_points": 31.0
         },
         {
@@ -4361,9 +4362,9 @@
           ],
           "pro_team": "LAR",
           "injury_status": "ACTIVE",
-          "percent_owned": 99.04,
-          "percent_started": 90.39,
-          "projected_total_points": 209.42,
+          "percent_owned": 99.05,
+          "percent_started": 90.32,
+          "projected_total_points": 209.15,
           "total_points": 65.8
         },
         {
@@ -4378,9 +4379,9 @@
           ],
           "pro_team": "WSH",
           "injury_status": "QUESTIONABLE",
-          "percent_owned": 83.89,
-          "percent_started": 15.18,
-          "projected_total_points": 232.09,
+          "percent_owned": 83.74,
+          "percent_started": 14.9,
+          "projected_total_points": 231.65,
           "total_points": 32.4
         },
         {
@@ -4396,10 +4397,10 @@
             "IR"
           ],
           "pro_team": "TEN",
-          "injury_status": "QUESTIONABLE",
-          "percent_owned": 85.45,
-          "percent_started": 25.81,
-          "projected_total_points": 174.01,
+          "injury_status": "ACTIVE",
+          "percent_owned": 85.43,
+          "percent_started": 26.11,
+          "projected_total_points": 174.42,
           "total_points": 25.5
         },
         {
@@ -4416,9 +4417,9 @@
           ],
           "pro_team": "SF",
           "injury_status": "ACTIVE",
-          "percent_owned": 96.69,
-          "percent_started": 81.88,
-          "projected_total_points": 198.31,
+          "percent_owned": 96.78,
+          "percent_started": 82.7,
+          "projected_total_points": 198.27,
           "total_points": 47.4
         },
         {
@@ -4436,9 +4437,9 @@
           ],
           "pro_team": "ARI",
           "injury_status": "ACTIVE",
-          "percent_owned": 84.93,
-          "percent_started": 35.08,
-          "projected_total_points": 185.51,
+          "percent_owned": 85.25,
+          "percent_started": 37.61,
+          "projected_total_points": 185.24,
           "total_points": 40.3
         },
         {
@@ -4455,9 +4456,9 @@
           ],
           "pro_team": "MIN",
           "injury_status": "ACTIVE",
-          "percent_owned": 90.4,
-          "percent_started": 61.18,
-          "projected_total_points": 160.85,
+          "percent_owned": 90.88,
+          "percent_started": 63.97,
+          "projected_total_points": 161.27,
           "total_points": 34.7
         },
         {
@@ -4474,9 +4475,9 @@
           ],
           "pro_team": "NYG",
           "injury_status": "ACTIVE",
-          "percent_owned": 89.05,
-          "percent_started": 50.64,
-          "projected_total_points": 157.42,
+          "percent_owned": 88.97,
+          "percent_started": 50.23,
+          "projected_total_points": 157.33,
           "total_points": 39.4
         },
         {
@@ -4491,9 +4492,9 @@
           ],
           "pro_team": "TB",
           "injury_status": "OUT",
-          "percent_owned": 39.44,
-          "percent_started": 3.8,
-          "projected_total_points": 154.19,
+          "percent_owned": 38.48,
+          "percent_started": 3.07,
+          "projected_total_points": 153.48,
           "total_points": 35.1
         },
         {
@@ -4510,9 +4511,9 @@
           ],
           "pro_team": "ARI",
           "injury_status": "ACTIVE",
-          "percent_owned": 29.5,
-          "percent_started": 1.63,
-          "projected_total_points": 108.18,
+          "percent_owned": 29.29,
+          "percent_started": 1.7,
+          "projected_total_points": 108.28,
           "total_points": 17.8
         },
         {
@@ -4529,9 +4530,9 @@
           ],
           "pro_team": "ATL",
           "injury_status": "ACTIVE",
-          "percent_owned": 25.89,
-          "percent_started": 2.43,
-          "projected_total_points": 82.6,
+          "percent_owned": 26.39,
+          "percent_started": 2.66,
+          "projected_total_points": 82.38,
           "total_points": 22.8
         },
         {
@@ -4545,8 +4546,8 @@
           ],
           "pro_team": "JAX",
           "injury_status": "ACTIVE",
-          "percent_owned": 81.97,
-          "percent_started": 75.67,
+          "percent_owned": 81.6,
+          "percent_started": 75.29,
           "projected_total_points": 125.28,
           "total_points": 23.0
         },
@@ -4564,9 +4565,9 @@
           ],
           "pro_team": "NO",
           "injury_status": "ACTIVE",
-          "percent_owned": 58.66,
-          "percent_started": 13.57,
-          "projected_total_points": 107.53,
+          "percent_owned": 60.31,
+          "percent_started": 15.02,
+          "projected_total_points": 114.81,
           "total_points": 12.3
         },
         {
@@ -4580,8 +4581,8 @@
           ],
           "pro_team": "CAR",
           "injury_status": "NORMAL",
-          "percent_owned": 21.91,
-          "percent_started": 16.29,
+          "percent_owned": 19.3,
+          "percent_started": 13.43,
           "projected_total_points": 53.67,
           "total_points": 22.0
         }
@@ -4711,7 +4712,7 @@
           "injury_status": "ACTIVE",
           "percent_owned": 99.91,
           "percent_started": 99.34,
-          "projected_total_points": 243.85,
+          "projected_total_points": 243.76,
           "total_points": 70.9
         },
         {
@@ -4729,8 +4730,8 @@
           "pro_team": "BAL",
           "injury_status": "ACTIVE",
           "percent_owned": 99.87,
-          "percent_started": 99.13,
-          "projected_total_points": 265.01,
+          "percent_started": 99.15,
+          "projected_total_points": 265.68,
           "total_points": 74.9
         },
         {
@@ -4744,10 +4745,10 @@
             "IR"
           ],
           "pro_team": "BAL",
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "percent_owned": 99.86,
-          "percent_started": 92.73,
-          "projected_total_points": 283.3,
+          "percent_started": 92.07,
+          "projected_total_points": 283.87,
           "total_points": 60.2
         },
         {
@@ -4764,9 +4765,9 @@
           ],
           "pro_team": "CLE",
           "injury_status": "ACTIVE",
-          "percent_owned": 94.81,
-          "percent_started": 64.44,
-          "projected_total_points": 178.22,
+          "percent_owned": 94.77,
+          "percent_started": 63.91,
+          "projected_total_points": 178.21,
           "total_points": 26.7
         },
         {
@@ -4784,9 +4785,9 @@
           ],
           "pro_team": "PIT",
           "injury_status": "ACTIVE",
-          "percent_owned": 88.48,
-          "percent_started": 26.63,
-          "projected_total_points": 146.1,
+          "percent_owned": 88.4,
+          "percent_started": 26.3,
+          "projected_total_points": 145.92,
           "total_points": 26.8
         },
         {
@@ -4803,9 +4804,9 @@
           ],
           "pro_team": "ATL",
           "injury_status": "ACTIVE",
-          "percent_owned": 81.29,
-          "percent_started": 37.58,
-          "projected_total_points": 101.08,
+          "percent_owned": 80.55,
+          "percent_started": 35.73,
+          "projected_total_points": 100.97,
           "total_points": 4.0
         },
         {
@@ -4822,9 +4823,9 @@
           ],
           "pro_team": "PHI",
           "injury_status": "DOUBTFUL",
-          "percent_owned": 79.67,
-          "percent_started": 6.62,
-          "projected_total_points": 143.8,
+          "percent_owned": 79.39,
+          "percent_started": 6.4,
+          "projected_total_points": 143.67,
           "total_points": 25.1
         },
         {
@@ -4842,9 +4843,9 @@
           ],
           "pro_team": "WSH",
           "injury_status": "ACTIVE",
-          "percent_owned": 86.01,
-          "percent_started": 29.39,
-          "projected_total_points": 152.38,
+          "percent_owned": 86.07,
+          "percent_started": 30.03,
+          "projected_total_points": 152.13,
           "total_points": 44.5
         },
         {
@@ -4862,9 +4863,9 @@
           ],
           "pro_team": "IND",
           "injury_status": "ACTIVE",
-          "percent_owned": 81.38,
-          "percent_started": 36.67,
-          "projected_total_points": 155.66,
+          "percent_owned": 81.95,
+          "percent_started": 38.72,
+          "projected_total_points": 155.65,
           "total_points": 32.6
         },
         {
@@ -4881,9 +4882,9 @@
           ],
           "pro_team": "SEA",
           "injury_status": "OUT",
-          "percent_owned": 52.8,
-          "percent_started": 0.15,
-          "projected_total_points": 144.61,
+          "percent_owned": 53.84,
+          "percent_started": 0.14,
+          "projected_total_points": 144.74,
           "total_points": 0.0
         },
         {
@@ -4897,9 +4898,9 @@
           ],
           "pro_team": "DAL",
           "injury_status": "ACTIVE",
-          "percent_owned": 99.49,
-          "percent_started": 98.24,
-          "projected_total_points": 140.62,
+          "percent_owned": 99.48,
+          "percent_started": 98.2,
+          "projected_total_points": 140.63,
           "total_points": 29.0
         },
         {
@@ -4917,9 +4918,9 @@
           ],
           "pro_team": "SF",
           "injury_status": "ACTIVE",
-          "percent_owned": 84.81,
-          "percent_started": 37.47,
-          "projected_total_points": 155.3,
+          "percent_owned": 84.79,
+          "percent_started": 36.16,
+          "projected_total_points": 155.37,
           "total_points": 39.9
         },
         {
@@ -4933,8 +4934,8 @@
           ],
           "pro_team": "PIT",
           "injury_status": "NORMAL",
-          "percent_owned": 94.25,
-          "percent_started": 86.72,
+          "percent_owned": 94.59,
+          "percent_started": 87.67,
           "projected_total_points": 92.92,
           "total_points": 31.0
         },
@@ -4952,9 +4953,9 @@
           ],
           "pro_team": "CIN",
           "injury_status": "ACTIVE",
-          "percent_owned": 8.09,
-          "percent_started": 0.31,
-          "projected_total_points": 72.93,
+          "percent_owned": 8.0,
+          "percent_started": 0.32,
+          "projected_total_points": 73.19,
           "total_points": 13.6
         },
         {
@@ -4969,9 +4970,9 @@
           ],
           "pro_team": "HOU",
           "injury_status": "ACTIVE",
-          "percent_owned": 37.02,
-          "percent_started": 14.43,
-          "projected_total_points": 214.89,
+          "percent_owned": 36.97,
+          "percent_started": 14.45,
+          "projected_total_points": 214.59,
           "total_points": 45.16
         },
         {
@@ -4985,8 +4986,8 @@
           ],
           "pro_team": "KC",
           "injury_status": "NORMAL",
-          "percent_owned": 61.21,
-          "percent_started": 53.74,
+          "percent_owned": 61.14,
+          "percent_started": 53.54,
           "projected_total_points": 92.1,
           "total_points": 22.0
         }
