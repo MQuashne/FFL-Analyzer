@@ -1,17 +1,20 @@
 {
   "source": "scrape",
   "url": "https://www.fantasypros.com/nfl/rankings/qb.php",
-  "fetched_at": "2026-10-01T04:30:18.233444+00:00",
+  "fetched_at": "2026-10-01T12:34:44.302635+00:00",
   "headers": [
     "",
     "",
     "",
     "",
+    "CONSENSUS SENTIMENT",
     "THIS WEEK",
     "RK",
     "WSIS",
     "Player Name",
     "OPP",
+    "UPSIDE (?)",
+    "BUST (?)",
     "MATCHUP (?)",
     "START/SIT",
     "PROJ. FPTS"
@@ -22,6 +25,8 @@
       "",
       "Josh Allen (BUF)",
       "vs. NE",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "A+",
       "22.7"
@@ -31,60 +36,74 @@
       "",
       "Lamar Jackson (BAL) Q",
       "vs. TEN",
+      "Coach Upside rating",
+      "Coach Bust rating",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A",
-      "21.6"
+      "21.4"
     ],
     [
       "3",
       "",
       "Trevor Lawrence (JAC)",
       "at CIN",
+      "Coach Upside rating",
+      "Coach Bust rating",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
-      "A-",
-      "20.9"
+      "A",
+      "20.8"
     ],
     [
       "4",
       "",
       "Patrick Mahomes II (KC)",
       "at LV",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "B+",
-      "20.3"
+      "20.2"
     ],
     [
       "5",
       "",
       "Joe Burrow (CIN)",
       "vs. JAC",
+      "Coach Upside rating",
+      "Coach Bust rating",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
-      "B+",
-      "19.8"
+      "A-",
+      "19.7"
     ],
     [
       "6",
       "",
       "Tyler Shough (NO)",
       "vs. ATL",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "B",
-      "19.5"
+      "B+",
+      "19.2"
     ],
     [
       "7",
       "",
       "Brock Purdy (SF)",
       "vs. DEN",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "B+",
-      "19.3"
+      "19.5"
     ],
     [
       "8",
       "",
       "Jared Goff (DET)",
       "at CAR",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "B",
       "19.0"
@@ -92,55 +111,67 @@
     [
       "9",
       "",
-      "Jalen Hurts (PHI)",
-      "vs. LAR",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
-      "B",
-      "18.6"
+      "Dak Prescott (DAL)",
+      "at HOU",
+      "",
+      "",
+      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
+      "B-",
+      "18.3"
     ],
     [
       "10",
       "",
-      "Dak Prescott (DAL)",
-      "at HOU",
-      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
-      "B",
-      "18.2"
+      "Jalen Hurts (PHI)",
+      "vs. LAR",
+      "",
+      "",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
+      "B-",
+      "18.7"
     ],
     [
       "11",
       "",
       "Bryce Young (CAR)",
       "vs. DET",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "B-",
-      "17.9"
+      "18.0"
     ],
     [
       "12",
       "",
       "Jordan Love (GB)",
       "at TB",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
-      "B-",
-      "17.6"
+      "C+",
+      "17.7"
     ],
     [
       "13",
       "",
       "Kyler Murray (MIN)",
       "vs. MIA",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "C+",
-      "17.4"
+      "17.5"
     ],
     [
       "14",
       "",
       "Drake Maye (NE)",
       "at BUF",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
-      "C+",
+      "C",
       "17.3"
     ],
     [
@@ -148,6 +179,8 @@
       "",
       "Matthew Stafford (LAR)",
       "at PHI",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "C",
       "17.2"
@@ -157,6 +190,8 @@
       "",
       "C.J. Stroud (HOU)",
       "vs. DAL",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "C",
       "17.0"
@@ -166,87 +201,107 @@
       "",
       "Bo Nix (DEN)",
       "at SF",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "C",
-      "16.7"
+      "16.8"
     ],
     [
       "18",
       "",
       "Marcus Mariota (WAS)",
       "vs. IND",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "C-",
-      "16.4"
+      "16.6"
     ],
     [
       "19",
       "",
-      "Daniel Jones (IND)",
-      "at WAS",
+      "Jacoby Brissett (ARI)",
+      "at NYG",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "D+",
-      "16.1"
+      "16.4"
     ],
     [
       "20",
       "",
-      "Jacoby Brissett (ARI)",
-      "at NYG",
+      "Daniel Jones (IND)",
+      "at WAS",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
-      "D+",
-      "15.8"
+      "D",
+      "16.2"
     ],
     [
       "21",
       "",
-      "Geno Smith (NYJ)",
-      "at CHI",
+      "Sam Darnold (SEA)",
+      "vs. LAC",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
-      "D-",
-      "15.5"
+      "D",
+      "15.6"
     ],
     [
       "22",
       "",
-      "Sam Darnold (SEA)",
-      "vs. LAC",
+      "Geno Smith (NYJ)",
+      "at CHI",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "D-",
-      "15.2"
+      "15.9"
     ],
     [
       "23",
       "",
       "Justin Herbert (LAC)",
       "at SEA",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
-      "14.9"
+      "15.2"
     ],
     [
       "24",
       "",
       "Kirk Cousins (LV)",
       "vs. KC",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
-      "14.6"
+      "14.9"
     ],
     [
       "25",
       "",
       "Michael Penix Jr. (ATL)",
       "at NO",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
-      "14.4"
+      "14.6"
     ],
     [
       "26",
       "",
       "Deshaun Watson (CLE)",
       "vs. PIT",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
       "14.1"
@@ -256,97 +311,119 @@
       "",
       "Jameis Winston (NYG)",
       "vs. ARI",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "F",
-      "13.8"
+      "14.4"
     ],
     [
       "28",
       "",
       "Aaron Rodgers (PIT)",
       "at CLE",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
-      "13.6"
+      "13.9"
     ],
     [
       "29",
       "",
-      "Malik Willis (MIA)",
-      "at MIN",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
+      "Jalon Daniels (TB)",
+      "vs. GB",
+      "",
+      "",
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "F",
-      "13.2"
+      "13.7"
     ],
     [
       "30",
       "",
-      "Jalon Daniels (TB)",
-      "vs. GB",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
+      "Malik Willis (MIA)",
+      "at MIN",
+      "",
+      "",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
-      "12.7"
+      "13.3"
     ],
     [
       "31",
       "",
       "Cam Ward (TEN)",
       "at BAL",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "F",
-      "11.6"
+      "13.0"
     ],
     [
       "32",
       "",
       "Case Keenum (CHI)",
       "vs. NYJ",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
-      "10.5"
+      "12.4"
     ],
     [
       "33",
       "",
       "Tyson Bagent (CHI)",
       "vs. NYJ",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
-      "7.7"
+      "1.6"
     ],
     [
       "34",
       "",
       "Drew Lock (SEA)",
       "vs. LAC",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
-      "1.6"
+      "0.9"
     ],
     [
       "35",
       "",
       "Shedeur Sanders (CLE)",
       "vs. PIT",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
-      "0.9"
+      "0.8"
     ],
     [
       "36",
       "",
-      "Fernando Mendoza (LV)",
-      "vs. KC",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
+      "Carson Wentz (MIN)",
+      "vs. MIA",
+      "",
+      "",
+      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
-      "0.7"
+      "0.6"
     ],
     [
       "37",
       "",
-      "Carson Wentz (MIN)",
-      "vs. MIA",
-      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
+      "Fernando Mendoza (LV)",
+      "vs. KC",
+      "",
+      "",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
       "0.6"
     ],
@@ -355,6 +432,8 @@
       "",
       "Mac Jones (SF)",
       "vs. DEN",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "F",
       "0.5"
@@ -364,6 +443,8 @@
       "",
       "Carson Beck (ARI)",
       "at NYG",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "F",
       "0.5"
@@ -373,6 +454,8 @@
       "",
       "Jarrett Stidham (DEN)",
       "at SF",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
       "0.5"
@@ -382,6 +465,8 @@
       "",
       "Trey Lance (LAC) Q",
       "at SEA",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
       "0.5"
@@ -391,6 +476,8 @@
       "",
       "Spencer Rattler (NO)",
       "vs. ATL",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
       "0.5"
@@ -400,6 +487,8 @@
       "",
       "Cade Klubnik (NYJ)",
       "at CHI",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
       "0.5"
@@ -409,6 +498,8 @@
       "",
       "Anthony Richardson Sr. (IND)",
       "at WAS",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "F",
       "0.5"
@@ -418,6 +509,8 @@
       "",
       "Caleb Williams (CHI) Q",
       "vs. NYJ",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
       "0.5"
@@ -427,6 +520,8 @@
       "",
       "Riley Leonard (IND)",
       "at WAS",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "F",
       "0.5"
@@ -436,6 +531,8 @@
       "",
       "Ty Simpson (LAR)",
       "at PHI",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
       "0.5"
@@ -445,6 +542,8 @@
       "",
       "Kyle McCord (MIA)",
       "at MIN",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
       "0.4"
@@ -454,6 +553,8 @@
       "",
       "Mitchell Trubisky (TEN)",
       "at BAL",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "F",
       "0.4"
@@ -463,6 +564,8 @@
       "",
       "Andy Dalton (PHI)",
       "vs. LAR",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
       "0.4"
@@ -472,6 +575,8 @@
       "",
       "Mason Rudolph (PIT)",
       "at CLE",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
       "0.4"
@@ -481,6 +586,8 @@
       "",
       "Tua Tagovailoa (ATL)",
       "at NO",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
       "0.4"
@@ -490,6 +597,8 @@
       "",
       "Tyrod Taylor (GB)",
       "at TB",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "F",
       "0.4"
@@ -499,6 +608,8 @@
       "",
       "Justin Fields (KC)",
       "at LV",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "F",
       "0.4"
@@ -508,6 +619,8 @@
       "",
       "Sam Howell (DAL)",
       "at HOU",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
       "0.4"
@@ -517,6 +630,8 @@
       "",
       "Cooper Rush (ATL)",
       "at NO",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
       "0.4"
@@ -526,6 +641,8 @@
       "",
       "Nick Mullens (JAC)",
       "at CIN",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
       "0.3"
@@ -535,6 +652,8 @@
       "",
       "Gardner Minshew II (ARI)",
       "at NYG",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "F",
       "0.3"
@@ -544,6 +663,8 @@
       "",
       "Joe Flacco (CIN)",
       "vs. JAC",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "F",
       "0.3"
@@ -553,6 +674,8 @@
       "",
       "J.J. McCarthy (NYG)",
       "vs. ARI",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "F",
       "0.2"
@@ -562,6 +685,8 @@
       "",
       "Joshua Dobbs (DET)",
       "at CAR",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
       "0.2"
@@ -571,6 +696,8 @@
       "",
       "Hendon Hooker (TEN)",
       "at BAL",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "F",
       "0.2"
@@ -580,6 +707,8 @@
       "",
       "Taylen Green (CLE)",
       "vs. PIT",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
       "0.1"
@@ -589,6 +718,8 @@
       "",
       "Jayden Daniels (WAS) Q",
       "vs. IND",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
       "0.1"
@@ -598,6 +729,8 @@
       "",
       "Will Howard (PIT)",
       "at CLE",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
       "0.0"
@@ -607,6 +740,8 @@
       "",
       "Davis Mills (HOU)",
       "vs. DAL",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "F",
       "0.0"
@@ -616,6 +751,8 @@
       "",
       "Jalen Milroe (SEA)",
       "vs. LAC",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
       "0.0"
@@ -625,6 +762,8 @@
       "",
       "Tyler Huntley (BAL)",
       "vs. TEN",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
       "0.0"
@@ -634,6 +773,8 @@
       "",
       "Jimmy Garoppolo (LAR)",
       "at PHI",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
       "0.0"
@@ -643,6 +784,8 @@
       "",
       "Zach Wilson (NO)",
       "vs. ATL",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
       "0.0"
@@ -652,6 +795,8 @@
       "",
       "Brady Cook (MIA)",
       "at MIN",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
       "0.0"
@@ -661,6 +806,8 @@
       "",
       "Max Brosmer (MIN)",
       "vs. MIA",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
       "0.0"
@@ -670,6 +817,8 @@
       "",
       "Tommy DeVito (NE)",
       "at BUF",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "F",
       "0.0"
@@ -679,6 +828,8 @@
       "",
       "Joe Milton III (DAL)",
       "at HOU",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
       "0.0"
@@ -688,6 +839,8 @@
       "",
       "Tanner McKee (PHI)",
       "vs. LAR",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
       "-"
@@ -697,6 +850,8 @@
       "",
       "Kurtis Rourke (SF)",
       "vs. DEN",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "F",
       "-"
@@ -706,6 +861,8 @@
       "",
       "Garrett Nussmeier (KC)",
       "at LV",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "F",
       "-"
@@ -715,6 +872,8 @@
       "",
       "Aidan O'Connell (LV)",
       "vs. KC",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
       "-"
@@ -724,6 +883,8 @@
       "",
       "Behren Morton (NE)",
       "at BUF",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "F",
       "-"
@@ -733,6 +894,8 @@
       "",
       "Athan Kaliakmanis (WAS)",
       "vs. IND",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "F",
       "-"

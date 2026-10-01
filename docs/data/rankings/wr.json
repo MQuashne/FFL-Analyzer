@@ -1,17 +1,20 @@
 {
   "source": "scrape",
   "url": "https://www.fantasypros.com/nfl/rankings/wr.php",
-  "fetched_at": "2026-10-01T04:30:40.758388+00:00",
+  "fetched_at": "2026-10-01T12:35:05.003365+00:00",
   "headers": [
     "",
     "",
     "",
     "",
+    "CONSENSUS SENTIMENT",
     "THIS WEEK",
     "RK",
     "WSIS",
     "Player Name",
     "OPP",
+    "UPSIDE (?)",
+    "BUST (?)",
     "MATCHUP (?)",
     "START/SIT",
     "PROJ. FPTS"
@@ -22,6 +25,8 @@
       "",
       "Jaxon Smith-Njigba (SEA)",
       "vs. LAC",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "A+",
       "15.0"
@@ -29,18 +34,22 @@
     [
       "2",
       "",
-      "Ja'Marr Chase (CIN)",
-      "vs. JAC",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "Amon-Ra St. Brown (DET)",
+      "at CAR",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "A+",
-      "12.8"
+      "12.7"
     ],
     [
       "3",
       "",
-      "Amon-Ra St. Brown (DET)",
-      "at CAR",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
+      "Ja'Marr Chase (CIN)",
+      "vs. JAC",
+      "Coach Upside rating",
+      "Coach Bust rating",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A+",
       "12.7"
     ],
@@ -49,15 +58,19 @@
       "",
       "Chris Olave (NO)",
       "vs. ATL",
+      "Coach Upside rating",
+      "Coach Bust rating",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "A+",
-      "12.1"
+      "12.4"
     ],
     [
       "5",
       "",
       "CeeDee Lamb (DAL)",
       "at HOU",
+      "Coach Upside rating",
+      "Coach Bust rating",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A+",
       "11.7"
@@ -67,6 +80,8 @@
       "",
       "Zay Flowers (BAL) Q",
       "vs. TEN",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A",
       "11.6"
@@ -76,6 +91,8 @@
       "",
       "Drake London (ATL)",
       "at NO",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "A",
       "11.3"
@@ -85,53 +102,65 @@
       "",
       "Christian Watson (GB)",
       "at TB",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "A",
-      "10.9"
+      "11.0"
     ],
     [
       "9",
       "",
       "Davante Adams (LAR)",
       "at PHI",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A",
-      "10.8"
+      "10.9"
     ],
     [
       "10",
       "",
       "Garrett Wilson (NYJ)",
       "at CHI",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "A",
-      "10.3"
+      "10.5"
     ],
     [
       "11",
       "",
       "Parker Washington (JAC)",
       "at CIN",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "A",
-      "10.2"
+      "10.3"
     ],
     [
       "12",
       "",
-      "George Pickens (DAL)",
-      "at HOU",
+      "DeVonta Smith (PHI) Q",
+      "vs. LAR",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A",
-      "10.1"
+      "10.3"
     ],
     [
       "13",
       "",
-      "DeVonta Smith (PHI) Q",
-      "vs. LAR",
+      "George Pickens (DAL)",
+      "at HOU",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "A-",
+      "A",
       "10.1"
     ],
     [
@@ -139,15 +168,19 @@
       "",
       "Tetairoa McMillan (CAR)",
       "vs. DET",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
-      "A-",
-      "9.9"
+      "A",
+      "10.0"
     ],
     [
       "15",
       "",
       "Tee Higgins (CIN)",
       "vs. JAC",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A-",
       "9.7"
@@ -157,6 +190,8 @@
       "",
       "Matthew Golden (GB)",
       "at TB",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "A-",
       "9.7"
@@ -166,24 +201,30 @@
       "",
       "Rashee Rice (KC)",
       "at LV",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A-",
-      "9.4"
+      "9.3"
     ],
     [
       "18",
       "",
       "Jaylen Waddle (DEN)",
       "at SF",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "B+",
-      "9.3"
+      "9.0"
     ],
     [
       "19",
       "",
       "Malik Nabers (NYG)",
       "vs. ARI",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "B+",
       "8.9"
@@ -193,9 +234,11 @@
       "",
       "DJ Moore (BUF) Q",
       "vs. NE",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "B",
-      "8.7"
+      "8.8"
     ]
   ]
 }
