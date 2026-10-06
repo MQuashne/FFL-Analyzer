@@ -1,7 +1,7 @@
 {
   "source": "scrape",
   "url": "https://www.fantasypros.com/nfl/rankings/flex.php",
-  "fetched_at": "2026-10-06T12:53:35.441758+00:00",
+  "fetched_at": "2026-10-06T22:25:06.262446+00:00",
   "headers": [
     "",
     "",
@@ -28,26 +28,26 @@
     [
       "2",
       "",
-      "Jonathan Taylor (IND)",
+      "Bijan Robinson (ATL)",
       "RB2",
-      "at PIT",
+      "vs. BAL",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars"
     ],
     [
       "3",
       "",
-      "Derrick Henry (BAL)",
+      "Jonathan Taylor (IND)",
       "RB3",
-      "at ATL",
-      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
+      "at PIT",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars"
     ],
     [
       "4",
       "",
-      "Bijan Robinson (ATL)",
+      "Derrick Henry (BAL)",
       "RB4",
-      "vs. BAL",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars"
+      "at ATL",
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
       "5",
@@ -60,13 +60,29 @@
     [
       "6",
       "",
+      "Jaxon Smith-Njigba (SEA)",
+      "WR1",
+      "vs. SF",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
+    ],
+    [
+      "7",
+      "",
+      "Puka Nacua (LAR)",
+      "WR2",
+      "vs. BUF",
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
+    ],
+    [
+      "8",
+      "",
       "James Cook III (BUF)",
       "RB6",
       "at LAR",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
     ],
     [
-      "7",
+      "9",
       "",
       "Chase Brown (CIN)",
       "RB7",
@@ -74,15 +90,7 @@
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
     ],
     [
-      "8",
-      "",
-      "Puka Nacua (LAR)",
-      "WR1",
-      "vs. BUF",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
-    ],
-    [
-      "9",
+      "10",
       "",
       "Christian McCaffrey (SF)",
       "RB8",
@@ -90,27 +98,19 @@
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
     ],
     [
-      "10",
-      "",
-      "Jaxon Smith-Njigba (SEA)",
-      "WR2",
-      "vs. SF",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
-    ],
-    [
       "11",
       "",
-      "Jaylen Warren (PIT)",
-      "RB9",
-      "vs. IND",
+      "Amon-Ra St. Brown (DET)",
+      "WR3",
+      "at ARI",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
       "12",
       "",
-      "Amon-Ra St. Brown (DET)",
-      "WR3",
-      "at ARI",
+      "Jaylen Warren (PIT)",
+      "RB9",
+      "vs. IND",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
@@ -124,26 +124,26 @@
     [
       "14",
       "",
-      "D'Andre Swift (CHI)",
-      "RB11",
-      "at GB",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
+      "CeeDee Lamb (DAL)",
+      "WR4",
+      "vs. TB",
+      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
     ],
     [
       "15",
       "",
       "Ashton Jeanty (LV)",
-      "RB12",
+      "RB11",
       "at NE",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
     ],
     [
       "16",
       "",
-      "Zay Flowers (BAL)",
-      "WR4",
-      "at ATL",
-      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
+      "D'Andre Swift (CHI)",
+      "RB12",
+      "at GB",
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
     ],
     [
       "17",
@@ -156,25 +156,25 @@
     [
       "18",
       "",
-      "Quinshon Judkins (CLE)",
-      "RB13",
-      "at NYJ",
-      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
+      "Zay Flowers (BAL)",
+      "WR6",
+      "at ATL",
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
       "19",
       "",
       "Bhayshul Tuten (JAC)",
-      "RB14",
+      "RB13",
       "vs. PHI",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
     ],
     [
       "20",
       "",
-      "Jeremiyah Love (ARI)",
-      "RB15",
-      "vs. DET",
+      "Nico Collins (HOU)",
+      "WR7",
+      "at TEN",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
     ]
   ]
