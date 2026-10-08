@@ -1,17 +1,20 @@
 {
   "source": "scrape",
   "url": "https://www.fantasypros.com/nfl/rankings/wr.php",
-  "fetched_at": "2026-10-08T04:49:54.232772+00:00",
+  "fetched_at": "2026-10-08T12:56:01.729500+00:00",
   "headers": [
     "",
     "",
     "",
     "",
+    "CONSENSUS SENTIMENT",
     "THIS WEEK",
     "RK",
     "WSIS",
     "Player Name",
     "OPP",
+    "UPSIDE (?)",
+    "BUST (?)",
     "MATCHUP (?)",
     "START/SIT",
     "PROJ. FPTS"
@@ -22,78 +25,96 @@
       "",
       "Jaxon Smith-Njigba (SEA)",
       "vs. SF",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "A+",
-      "14.2"
+      "14.1"
     ],
     [
       "2",
       "",
       "Puka Nacua (LAR)",
       "vs. BUF",
+      "Coach Upside rating",
+      "Coach Bust rating",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A+",
-      "14.0"
+      "13.9"
     ],
     [
       "3",
       "",
       "Amon-Ra St. Brown (DET)",
       "at ARI",
+      "Coach Upside rating",
+      "Coach Bust rating",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "A+",
-      "13.3"
+      "13.7"
     ],
     [
       "4",
       "",
-      "Drake London (ATL)",
-      "vs. BAL",
-      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
+      "CeeDee Lamb (DAL)",
+      "vs. TB",
+      "Coach Upside rating",
+      "Coach Bust rating",
+      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "A+",
-      "13.0"
+      "13.6"
     ],
     [
       "5",
       "",
-      "CeeDee Lamb (DAL)",
-      "vs. TB",
-      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
+      "Drake London (ATL)",
+      "vs. BAL",
+      "Coach Upside rating",
+      "Coach Bust rating",
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "A+",
-      "12.4"
+      "13.3"
     ],
     [
       "6",
       "",
       "Nico Collins (HOU)",
       "at TEN",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A+",
-      "11.5"
+      "12.0"
     ],
     [
       "7",
       "",
       "Zay Flowers (BAL) Q",
       "at ATL",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "A",
-      "11.3"
+      "11.5"
     ],
     [
       "8",
       "",
       "Christian Watson (GB)",
       "vs. CHI",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A",
-      "11.1"
+      "11.3"
     ],
     [
       "9",
       "",
       "Chris Olave (NO)",
       "vs. MIN",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A",
       "10.9"
@@ -103,6 +124,8 @@
       "",
       "Michael Wilson (ARI)",
       "vs. DET",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A",
       "10.7"
@@ -110,8 +133,10 @@
     [
       "11",
       "",
-      "Malik Nabers (NYG) Q",
-      "at WAS",
+      "Davante Adams (LAR)",
+      "vs. BUF",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A",
       "10.3"
@@ -119,8 +144,10 @@
     [
       "12",
       "",
-      "Davante Adams (LAR)",
-      "vs. BUF",
+      "Malik Nabers (NYG) Q",
+      "at WAS",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A",
       "9.9"
@@ -130,6 +157,8 @@
       "",
       "Parker Washington (JAC)",
       "vs. PHI",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "A",
       "9.7"
@@ -139,42 +168,52 @@
       "",
       "Garrett Wilson (NYJ)",
       "vs. CLE",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A-",
-      "9.5"
+      "9.6"
     ],
     [
       "15",
       "",
       "George Pickens (DAL)",
       "vs. TB",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
-      "A",
-      "9.2"
+      "A-",
+      "9.4"
     ],
     [
       "16",
       "",
       "Jameson Williams (DET)",
       "at ARI",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "A-",
-      "9.0"
+      "9.3"
     ],
     [
       "17",
       "",
       "Matthew Golden (GB)",
       "vs. CHI",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A-",
-      "8.8"
+      "9.2"
     ],
     [
       "18",
       "",
       "DK Metcalf (PIT)",
       "vs. IND",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "A-",
       "8.7"
@@ -184,8 +223,10 @@
       "",
       "Jaylen Waddle (DEN)",
       "at LAC",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "A-",
+      "B+",
       "8.6"
     ],
     [
@@ -193,9 +234,11 @@
       "",
       "Luther Burden III (CHI)",
       "at GB",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "B+",
-      "8.4"
+      "8.5"
     ]
   ]
 }
