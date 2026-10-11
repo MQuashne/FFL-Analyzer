@@ -1,7 +1,7 @@
 {
   "source": "scrape",
   "url": "https://www.fantasypros.com/nfl/rankings/flex.php",
-  "fetched_at": "2026-10-11T12:13:47.847889+00:00",
+  "fetched_at": "2026-10-11T21:35:24.775547+00:00",
   "headers": [
     "",
     "",
@@ -63,15 +63,25 @@
     [
       "5",
       "",
-      "Derrick Henry (BAL)",
+      "D'Andre Swift (CHI)",
       "RB5",
-      "at ATL",
+      "at GB",
       "Coach Upside rating",
       "Coach Bust rating",
-      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
     ],
     [
       "6",
+      "",
+      "Derrick Henry (BAL)",
+      "RB6",
+      "at ATL",
+      "",
+      "",
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
+    ],
+    [
+      "7",
       "",
       "Jaxon Smith-Njigba (SEA)",
       "WR1",
@@ -81,20 +91,10 @@
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
     ],
     [
-      "7",
-      "",
-      "Puka Nacua (LAR)",
-      "WR2",
-      "vs. BUF",
-      "Coach Upside rating",
-      "Coach Bust rating",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
-    ],
-    [
       "8",
       "",
       "Javonte Williams (DAL)",
-      "RB6",
+      "RB7",
       "vs. TB",
       "",
       "",
@@ -104,7 +104,7 @@
       "9",
       "",
       "Christian McCaffrey (SF)",
-      "RB7",
+      "RB8",
       "at SEA",
       "",
       "",
@@ -113,25 +113,35 @@
     [
       "10",
       "",
+      "Puka Nacua (LAR)",
+      "WR2",
+      "vs. BUF",
+      "Coach Upside rating",
+      "Coach Bust rating",
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
+    ],
+    [
+      "11",
+      "",
       "Chase Brown (CIN)",
-      "RB8",
+      "RB9",
       "at MIA",
       "",
       "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
     ],
     [
-      "11",
+      "12",
       "",
-      "D'Andre Swift (CHI)",
-      "RB9",
-      "at GB",
+      "Jaylen Warren (PIT)",
+      "RB10",
+      "vs. IND",
       "",
       "",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
-      "12",
+      "13",
       "",
       "CeeDee Lamb (DAL)",
       "WR3",
@@ -141,7 +151,17 @@
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
     ],
     [
-      "13",
+      "14",
+      "",
+      "James Cook III (BUF)",
+      "RB11",
+      "at LAR",
+      "",
+      "",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
+    ],
+    [
+      "15",
       "",
       "Amon-Ra St. Brown (DET)",
       "WR4",
@@ -151,31 +171,11 @@
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
-      "14",
-      "",
-      "James Cook III (BUF)",
-      "RB10",
-      "at LAR",
-      "",
-      "",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
-    ],
-    [
-      "15",
-      "",
-      "Jaylen Warren (PIT)",
-      "RB11",
-      "vs. IND",
-      "",
-      "",
-      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
-    ],
-    [
       "16",
       "",
-      "Bhayshul Tuten (JAC)",
+      "Emanuel Wilson (SEA)",
       "RB12",
-      "vs. PHI",
+      "vs. SF",
       "",
       "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
@@ -183,25 +183,15 @@
     [
       "17",
       "",
-      "Braelon Allen (NYJ)",
+      "Bhayshul Tuten (JAC)",
       "RB13",
-      "vs. CLE",
+      "vs. PHI",
       "",
       "",
-      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
+      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
     ],
     [
       "18",
-      "",
-      "Nico Collins (HOU)",
-      "WR5",
-      "at TEN",
-      "Coach Upside rating",
-      "Coach Bust rating",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
-    ],
-    [
-      "19",
       "",
       "Aaron Jones Sr. (MIN)",
       "RB14",
@@ -211,14 +201,24 @@
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
     ],
     [
+      "19",
+      "",
+      "Braelon Allen (NYJ)",
+      "RB15",
+      "vs. CLE",
+      "",
+      "",
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
+    ],
+    [
       "20",
       "",
-      "Emanuel Wilson (SEA)",
-      "RB15",
-      "vs. SF",
-      "",
-      "",
-      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
+      "Nico Collins (HOU)",
+      "WR5",
+      "at TEN",
+      "Coach Upside rating",
+      "Coach Bust rating",
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
     ]
   ]
 }
