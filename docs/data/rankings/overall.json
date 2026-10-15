@@ -1,7 +1,7 @@
 {
   "source": "scrape",
   "url": "https://www.fantasypros.com/nfl/rankings/ros-ppr-overall.php",
-  "fetched_at": "2026-10-14T21:20:09.676385+00:00",
+  "fetched_at": "2026-10-15T03:29:33.285419+00:00",
   "headers": [
     "RK",
     "WSIT",
@@ -24,7 +24,7 @@
     [
       "2",
       "",
-      "Jaxon Smith-Njigba (SEA) Q",
+      "Jaxon Smith-Njigba (SEA)",
       "WR1",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
@@ -240,7 +240,7 @@
     [
       "26",
       "",
-      "Brock Bowers (LV)",
+      "Brock Bowers (LV) Q",
       "TE1",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
@@ -321,25 +321,25 @@
     [
       "35",
       "",
-      "Davante Adams (LAR)",
+      "DeVonta Smith (PHI) Q",
       "WR17",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
-      "+15"
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
+      "-3"
     ],
     [
       "36",
       "",
-      "DeVonta Smith (PHI)",
+      "Davante Adams (LAR)",
       "WR18",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
-      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
-      "-4"
+      "+14"
     ],
     [
       "37",
       "",
-      "Jeremiyah Love (ARI)",
+      "Jeremiyah Love (ARI) Q",
       "RB15",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
@@ -366,7 +366,7 @@
     [
       "40",
       "",
-      "Lamar Jackson (BAL)",
+      "Lamar Jackson (BAL) Q",
       "QB3",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
@@ -420,20 +420,20 @@
     [
       "46",
       "",
-      "Jaylen Waddle (DEN)",
+      "A.J. Brown (NE) Q",
       "WR23",
-      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
-      "0"
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
+      "-28"
     ],
     [
       "47",
       "",
-      "A.J. Brown (NE) Q",
+      "Jaylen Waddle (DEN)",
       "WR24",
-      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
-      "-29"
+      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
+      "-1"
     ],
     [
       "48",
@@ -447,7 +447,7 @@
     [
       "49",
       "",
-      "Saquon Barkley (PHI)",
+      "Saquon Barkley (PHI) Q",
       "RB18",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
@@ -465,29 +465,29 @@
     [
       "51",
       "",
-      "Jalen Coker (CAR)",
-      "WR26",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
-      "+91"
-    ],
-    [
-      "52",
-      "",
       "Trevor Lawrence (JAC)",
       "QB5",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
-      "+37"
+      "+38"
+    ],
+    [
+      "52",
+      "",
+      "DJ Moore (BUF) Q",
+      "WR26",
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "-4"
     ],
     [
       "53",
       "",
-      "DJ Moore (BUF)",
+      "Jalen Coker (CAR)",
       "WR27",
-      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "-5"
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
+      "+89"
     ],
     [
       "54",
@@ -546,7 +546,7 @@
     [
       "60",
       "",
-      "Quinshon Judkins (CLE)",
+      "Quinshon Judkins (CLE) Q",
       "RB22",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
@@ -636,7 +636,7 @@
     [
       "70",
       "",
-      "Ladd McConkey (LAC)",
+      "Ladd McConkey (LAC) Q",
       "WR35",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
@@ -645,7 +645,7 @@
     [
       "71",
       "",
-      "Denzel Boston (CLE)",
+      "Denzel Boston (CLE) Q",
       "WR36",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
@@ -690,7 +690,7 @@
     [
       "76",
       "",
-      "KC Concepcion Jr. (CLE)",
+      "KC Concepcion Jr. (CLE) Q",
       "WR39",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
@@ -798,7 +798,7 @@
     [
       "88",
       "",
-      "Dontayvion Wicks (PHI)",
+      "Dontayvion Wicks (PHI) Q",
       "WR45",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
@@ -924,7 +924,7 @@
     [
       "102",
       "",
-      "Kyle Monangai (CHI)",
+      "Kyle Monangai (CHI) Q",
       "RB26",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
@@ -1023,7 +1023,7 @@
     [
       "113",
       "",
-      "David Montgomery (HOU)",
+      "David Montgomery (HOU) Q",
       "RB31",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
@@ -1086,7 +1086,7 @@
     [
       "120",
       "",
-      "Tre' Harris (LAC)",
+      "Tre' Harris (LAC) Q",
       "WR57",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
@@ -1140,7 +1140,7 @@
     [
       "126",
       "",
-      "Quentin Johnston (LAC)",
+      "Quentin Johnston (LAC) Q",
       "WR59",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
@@ -1626,7 +1626,7 @@
     [
       "180",
       "",
-      "Rashod Bateman (BAL)",
+      "Rashod Bateman (BAL) Q",
       "WR74",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
@@ -1770,7 +1770,7 @@
     [
       "196",
       "",
-      "Zach Charbonnet (SEA) Q",
+      "Zach Charbonnet (SEA) O",
       "RB50",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
@@ -1941,7 +1941,7 @@
     [
       "215",
       "",
-      "Ja'Kobi Lane (BAL) IR",
+      "Ja'Kobi Lane (BAL)",
       "WR81",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
@@ -1959,7 +1959,7 @@
     [
       "217",
       "",
-      "Jalen Nailor (LV)",
+      "Jalen Nailor (LV) Q",
       "WR83",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
@@ -2049,7 +2049,7 @@
     [
       "227",
       "",
-      "Colby Parkinson (LAR)",
+      "Colby Parkinson (LAR) Q",
       "TE35",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
@@ -2382,7 +2382,7 @@
     [
       "264",
       "",
-      "Dylan Sampson (CLE)",
+      "Dylan Sampson (CLE) Q",
       "RB64",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
@@ -2490,7 +2490,7 @@
     [
       "276",
       "",
-      "Joshua Palmer (BUF)",
+      "Joshua Palmer (BUF) Q",
       "WR103",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
@@ -2517,74 +2517,74 @@
     [
       "279",
       "",
+      "Elic Ayomanor (TEN)",
+      "WR104",
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
+      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
+      "+44"
+    ],
+    [
+      "280",
+      "",
       "Spencer Shrader (IND)",
       "K18",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
-      "-4"
+      "-5"
     ],
     [
-      "280",
+      "281",
       "",
       "Wil Lutz (DEN)",
       "K19",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "0 out of 5 stars 0 out of 5 stars 0 out of 5 stars 0 out of 5 stars 0 out of 5 stars",
-      "-76"
-    ],
-    [
-      "281",
-      "",
-      "Jahan Dotson (ATL)",
-      "WR104",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
-      "+226"
+      "-77"
     ],
     [
       "282",
+      "",
+      "Jahan Dotson (ATL)",
+      "WR105",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
+      "+225"
+    ],
+    [
+      "283",
       "",
       "Tyrone Tracy Jr. (NYG)",
       "RB69",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
-      "-87"
-    ],
-    [
-      "283",
-      "",
-      "Elijah Sarratt (BAL)",
-      "WR105",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "+73"
+      "-88"
     ],
     [
       "284",
+      "",
+      "Elijah Sarratt (BAL)",
+      "WR106",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "+72"
+    ],
+    [
+      "285",
       "",
       "Austin Ekeler (WAS)",
       "RB70",
       "0 out of 5 stars 0 out of 5 stars 0 out of 5 stars 0 out of 5 stars 0 out of 5 stars",
       "0 out of 5 stars 0 out of 5 stars 0 out of 5 stars 0 out of 5 stars 0 out of 5 stars",
-      "+339"
+      "+338"
     ],
     [
-      "285",
+      "286",
       "",
       "Noah Fant (NO)",
       "TE40",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
-      "+201"
-    ],
-    [
-      "286",
-      "",
-      "Elic Ayomanor (TEN)",
-      "WR106",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
-      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
-      "+37"
+      "+200"
     ],
     [
       "287",
@@ -2706,7 +2706,7 @@
     [
       "300",
       "",
-      "Eli Stowers (PHI)",
+      "Eli Stowers (PHI) Q",
       "TE42",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "0 out of 5 stars 0 out of 5 stars 0 out of 5 stars 0 out of 5 stars 0 out of 5 stars",
@@ -2814,7 +2814,7 @@
     [
       "312",
       "",
-      "Ty Johnson (BUF)",
+      "Ty Johnson (BUF) Q",
       "RB80",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
@@ -2958,7 +2958,7 @@
     [
       "328",
       "",
-      "Matt Hibner (BAL)",
+      "Matt Hibner (BAL) Q",
       "TE46",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
@@ -3111,7 +3111,7 @@
     [
       "345",
       "",
-      "Hollywood Brown (PHI)",
+      "Hollywood Brown (PHI) Q",
       "WR120",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
@@ -3219,10 +3219,10 @@
     [
       "357",
       "",
-      "Jarquez Hunter (FA)",
+      "Jarquez Hunter (NO)",
       "RB93",
-      "-",
-      "-",
+      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "+90"
     ],
     [
@@ -3237,7 +3237,7 @@
     [
       "359",
       "",
-      "Brenen Thompson (LAC)",
+      "Brenen Thompson (LAC) Q",
       "WR122",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
@@ -3300,20 +3300,20 @@
     [
       "366",
       "",
-      "CJ Daniels (LAR)",
-      "WR124",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
-      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
-      "+30"
-    ],
-    [
-      "367",
-      "",
       "Carson Beck (ARI)",
       "QB42",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
-      "+82"
+      "+83"
+    ],
+    [
+      "367",
+      "",
+      "CJ Daniels (LAR)",
+      "WR124",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
+      "+29"
     ],
     [
       "368",
@@ -3543,7 +3543,7 @@
     [
       "393",
       "",
-      "Nate Boerkircher (JAC)",
+      "Nate Boerkircher (JAC) Q",
       "TE59",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
@@ -3615,20 +3615,20 @@
     [
       "401",
       "",
-      "Brandon Aiyuk (SF) IR",
+      "Savion Williams (GB) Q",
       "WR135",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
-      "-129"
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
+      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
+      "+286"
     ],
     [
       "402",
       "",
-      "Savion Williams (GB)",
+      "Brandon Aiyuk (SF) IR",
       "WR136",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
-      "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
-      "+285"
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
+      "-130"
     ],
     [
       "403",
