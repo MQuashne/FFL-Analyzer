@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T12:23:35.883360+00:00",
+  "fetched_at": "2026-10-26T22:26:43.758222+00:00",
   "players": [
     {
       "name": "Jason Myers",
@@ -14,7 +14,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 87.89,
       "percent_started": 82.15,
-      "projected_total_points": 108.69,
+      "projected_total_points": 95.11,
       "total_points": 67.0
     },
     {
@@ -32,9 +32,9 @@
       ],
       "pro_team": "DEN",
       "injury_status": "ACTIVE",
-      "percent_owned": 65.28,
+      "percent_owned": 65.26,
       "percent_started": 18.71,
-      "projected_total_points": 93.42,
+      "projected_total_points": 92.29,
       "total_points": 38.8
     },
     {
@@ -49,9 +49,9 @@
       ],
       "pro_team": "DEN",
       "injury_status": "ACTIVE",
-      "percent_owned": 59.03,
-      "percent_started": 23.59,
-      "projected_total_points": 159.87,
+      "percent_owned": 59.02,
+      "percent_started": 23.6,
+      "projected_total_points": 158.18,
       "total_points": 95.84
     },
     {
@@ -68,9 +68,9 @@
       ],
       "pro_team": "DAL",
       "injury_status": "ACTIVE",
-      "percent_owned": 53.63,
-      "percent_started": 16.59,
-      "projected_total_points": 66.09,
+      "percent_owned": 53.59,
+      "percent_started": 16.58,
+      "projected_total_points": 59.64,
       "total_points": 44.5
     },
     {
@@ -87,9 +87,9 @@
       ],
       "pro_team": "NE",
       "injury_status": "ACTIVE",
-      "percent_owned": 47.19,
-      "percent_started": 19.64,
-      "projected_total_points": 88.1,
+      "percent_owned": 47.17,
+      "percent_started": 19.63,
+      "projected_total_points": 100.38,
       "total_points": 67.6
     },
     {
@@ -103,9 +103,9 @@
       ],
       "pro_team": "LAC",
       "injury_status": "ACTIVE",
-      "percent_owned": 46.14,
-      "percent_started": 22.46,
-      "projected_total_points": 84.8,
+      "percent_owned": 46.05,
+      "percent_started": 22.36,
+      "projected_total_points": 86.33,
       "total_points": 36.0
     },
     {
@@ -123,7 +123,7 @@
       ],
       "pro_team": "PIT",
       "injury_status": "INJURY_RESERVE",
-      "percent_owned": 45.42,
+      "percent_owned": 45.41,
       "percent_started": 1.64,
       "projected_total_points": 0.0,
       "total_points": 15.9
@@ -143,9 +143,9 @@
       ],
       "pro_team": "JAX",
       "injury_status": "ACTIVE",
-      "percent_owned": 43.55,
+      "percent_owned": 43.5,
       "percent_started": 1.22,
-      "projected_total_points": 59.84,
+      "projected_total_points": 60.25,
       "total_points": 25.5
     },
     {
@@ -160,7 +160,7 @@
       ],
       "pro_team": "PHI",
       "injury_status": "INJURY_RESERVE",
-      "percent_owned": 42.15,
+      "percent_owned": 42.0,
       "percent_started": 11.26,
       "projected_total_points": 0.0,
       "total_points": 80.02
@@ -176,9 +176,9 @@
       ],
       "pro_team": "PHI",
       "injury_status": [],
-      "percent_owned": 40.92,
-      "percent_started": 32.12,
-      "projected_total_points": 55.55,
+      "percent_owned": 40.89,
+      "percent_started": 32.06,
+      "projected_total_points": 62.79,
       "total_points": 12.0
     },
     {
@@ -197,9 +197,9 @@
       ],
       "pro_team": "NYJ",
       "injury_status": "ACTIVE",
-      "percent_owned": 34.74,
+      "percent_owned": 34.73,
       "percent_started": 9.0,
-      "projected_total_points": 79.46,
+      "projected_total_points": 97.76,
       "total_points": 48.8
     },
     {
@@ -216,8 +216,8 @@
       ],
       "pro_team": "MIA",
       "injury_status": "INJURY_RESERVE",
-      "percent_owned": 32.14,
-      "percent_started": 10.92,
+      "percent_owned": 32.17,
+      "percent_started": 10.97,
       "projected_total_points": 0.0,
       "total_points": 24.6
     },
@@ -236,9 +236,9 @@
       ],
       "pro_team": "HOU",
       "injury_status": "ACTIVE",
-      "percent_owned": 30.69,
-      "percent_started": 1.19,
-      "projected_total_points": 18.93,
+      "percent_owned": 30.66,
+      "percent_started": 1.23,
+      "projected_total_points": 23.29,
       "total_points": 5.5
     },
     {
@@ -256,7 +256,7 @@
       ],
       "pro_team": "None",
       "injury_status": "QUESTIONABLE",
-      "percent_owned": 29.14,
+      "percent_owned": 29.05,
       "percent_started": 0.08,
       "projected_total_points": 0,
       "total_points": 0.0
@@ -276,10 +276,26 @@
       ],
       "pro_team": "BUF",
       "injury_status": "ACTIVE",
-      "percent_owned": 28.94,
-      "percent_started": 0.59,
-      "projected_total_points": 70.23,
+      "percent_owned": 28.89,
+      "percent_started": 0.58,
+      "projected_total_points": 70.88,
       "total_points": 65.3
+    },
+    {
+      "name": "Panthers D/ST",
+      "playerId": -16029,
+      "position": "D/ST",
+      "eligible_slots": [
+        "D/ST",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "CAR",
+      "injury_status": [],
+      "percent_owned": 28.03,
+      "percent_started": 24.91,
+      "projected_total_points": 44.1,
+      "total_points": 21.0
     },
     {
       "name": "Dontayvion Wicks",
@@ -296,26 +312,10 @@
       ],
       "pro_team": "PHI",
       "injury_status": "OUT",
-      "percent_owned": 28.12,
-      "percent_started": 1.88,
-      "projected_total_points": 82.64,
+      "percent_owned": 27.95,
+      "percent_started": 1.76,
+      "projected_total_points": 81.7,
       "total_points": 53.4
-    },
-    {
-      "name": "Panthers D/ST",
-      "playerId": -16029,
-      "position": "D/ST",
-      "eligible_slots": [
-        "D/ST",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "CAR",
-      "injury_status": [],
-      "percent_owned": 28.04,
-      "percent_started": 24.91,
-      "projected_total_points": 52.45,
-      "total_points": 21.0
     },
     {
       "name": "Jaguars D/ST",
@@ -328,9 +328,9 @@
       ],
       "pro_team": "JAX",
       "injury_status": [],
-      "percent_owned": 27.92,
-      "percent_started": 6.21,
-      "projected_total_points": 79.86,
+      "percent_owned": 27.87,
+      "percent_started": 6.14,
+      "projected_total_points": 65.39,
       "total_points": 34.0
     },
     {
@@ -347,9 +347,9 @@
       ],
       "pro_team": "TEN",
       "injury_status": "OUT",
-      "percent_owned": 27.85,
-      "percent_started": 3.26,
-      "projected_total_points": 67.66,
+      "percent_owned": 27.82,
+      "percent_started": 3.24,
+      "projected_total_points": 70.17,
       "total_points": 27.1
     },
     {
@@ -367,9 +367,9 @@
       ],
       "pro_team": "NYJ",
       "injury_status": "ACTIVE",
-      "percent_owned": 27.16,
+      "percent_owned": 27.13,
       "percent_started": 4.29,
-      "projected_total_points": 55.63,
+      "projected_total_points": 45.24,
       "total_points": 42.7
     },
     {
@@ -384,9 +384,9 @@
       ],
       "pro_team": "TB",
       "injury_status": "ACTIVE",
-      "percent_owned": 25.49,
-      "percent_started": 4.92,
-      "projected_total_points": 180.01,
+      "percent_owned": 25.48,
+      "percent_started": 4.94,
+      "projected_total_points": 155.48,
       "total_points": 41.76
     },
     {
@@ -402,7 +402,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 25.11,
       "percent_started": 22.25,
-      "projected_total_points": 98.34,
+      "projected_total_points": 93.14,
       "total_points": 77.0
     },
     {
@@ -417,8 +417,8 @@
       ],
       "pro_team": "NYG",
       "injury_status": "INJURY_RESERVE",
-      "percent_owned": 23.5,
-      "percent_started": 6.67,
+      "percent_owned": 23.52,
+      "percent_started": 6.69,
       "projected_total_points": 0.0,
       "total_points": 27.4
     },
@@ -433,9 +433,9 @@
       ],
       "pro_team": "DET",
       "injury_status": [],
-      "percent_owned": 22.5,
-      "percent_started": 12.96,
-      "projected_total_points": 47.61,
+      "percent_owned": 22.49,
+      "percent_started": 12.97,
+      "projected_total_points": 44.1,
       "total_points": 20.0
     },
     {
@@ -453,9 +453,9 @@
       ],
       "pro_team": "SF",
       "injury_status": "ACTIVE",
-      "percent_owned": 21.89,
-      "percent_started": 2.84,
-      "projected_total_points": 59.95,
+      "percent_owned": 21.87,
+      "percent_started": 2.85,
+      "projected_total_points": 68.27,
       "total_points": 30.7
     },
     {
@@ -469,8 +469,8 @@
       ],
       "pro_team": "None",
       "injury_status": "ACTIVE",
-      "percent_owned": 21.46,
-      "percent_started": 16.84,
+      "percent_owned": 21.42,
+      "percent_started": 16.81,
       "projected_total_points": 0.0,
       "total_points": 28.0
     },
@@ -485,9 +485,9 @@
       ],
       "pro_team": "CIN",
       "injury_status": "ACTIVE",
-      "percent_owned": 21.18,
+      "percent_owned": 21.17,
       "percent_started": 13.12,
-      "projected_total_points": 93.25,
+      "projected_total_points": 86.27,
       "total_points": 59.0
     },
     {
@@ -506,8 +506,8 @@
       ],
       "pro_team": "SF",
       "injury_status": "INJURY_RESERVE",
-      "percent_owned": 20.6,
-      "percent_started": 0.11,
+      "percent_owned": 20.61,
+      "percent_started": 0.12,
       "projected_total_points": 0.0,
       "total_points": 0.0
     },
@@ -523,9 +523,9 @@
       ],
       "pro_team": "ARI",
       "injury_status": "ACTIVE",
-      "percent_owned": 19.7,
-      "percent_started": 6.29,
-      "projected_total_points": 166.55,
+      "percent_owned": 19.66,
+      "percent_started": 6.28,
+      "projected_total_points": 142.82,
       "total_points": 107.7
     },
     {
@@ -539,9 +539,9 @@
       ],
       "pro_team": "CHI",
       "injury_status": [],
-      "percent_owned": 18.53,
-      "percent_started": 13.4,
-      "projected_total_points": 54.62,
+      "percent_owned": 18.52,
+      "percent_started": 13.39,
+      "projected_total_points": 48.55,
       "total_points": 46.0
     },
     {
@@ -555,9 +555,9 @@
       ],
       "pro_team": "DAL",
       "injury_status": [],
-      "percent_owned": 18.21,
-      "percent_started": 14.9,
-      "projected_total_points": 45.26,
+      "percent_owned": 18.31,
+      "percent_started": 14.95,
+      "projected_total_points": 50.04,
       "total_points": 4.0
     },
     {
@@ -571,9 +571,9 @@
       ],
       "pro_team": "CAR",
       "injury_status": "ACTIVE",
-      "percent_owned": 17.91,
-      "percent_started": 17.1,
-      "projected_total_points": 114.81,
+      "percent_owned": 17.93,
+      "percent_started": 17.12,
+      "projected_total_points": 83.34,
       "total_points": 53.0
     },
     {
@@ -591,9 +591,9 @@
       ],
       "pro_team": "LV",
       "injury_status": "ACTIVE",
-      "percent_owned": 17.71,
+      "percent_owned": 17.68,
       "percent_started": 1.52,
-      "projected_total_points": 62.1,
+      "projected_total_points": 65.26,
       "total_points": 29.6
     },
     {
@@ -607,9 +607,9 @@
       ],
       "pro_team": "TB",
       "injury_status": [],
-      "percent_owned": 17.65,
-      "percent_started": 12.54,
-      "projected_total_points": 63.25,
+      "percent_owned": 17.64,
+      "percent_started": 12.53,
+      "projected_total_points": 57.48,
       "total_points": 67.0
     },
     {
@@ -623,9 +623,9 @@
       ],
       "pro_team": "CIN",
       "injury_status": [],
-      "percent_owned": 16.02,
-      "percent_started": 6.62,
-      "projected_total_points": 59.08,
+      "percent_owned": 16.04,
+      "percent_started": 6.66,
+      "projected_total_points": 57.34,
       "total_points": 48.0
     },
     {
@@ -643,9 +643,9 @@
       ],
       "pro_team": "DAL",
       "injury_status": "ACTIVE",
-      "percent_owned": 15.83,
-      "percent_started": 7.22,
-      "projected_total_points": 99.8,
+      "percent_owned": 15.91,
+      "percent_started": 7.28,
+      "projected_total_points": 90.02,
       "total_points": 52.4
     },
     {
@@ -663,9 +663,9 @@
       ],
       "pro_team": "NYJ",
       "injury_status": "ACTIVE",
-      "percent_owned": 14.92,
-      "percent_started": 1.53,
-      "projected_total_points": 77.98,
+      "percent_owned": 14.91,
+      "percent_started": 1.55,
+      "projected_total_points": 68.41,
       "total_points": 21.3
     },
     {
@@ -680,9 +680,9 @@
       ],
       "pro_team": "CLE",
       "injury_status": "ACTIVE",
-      "percent_owned": 14.81,
+      "percent_owned": 14.8,
       "percent_started": 6.37,
-      "projected_total_points": 166.63,
+      "projected_total_points": 158.01,
       "total_points": 106.78
     },
     {
@@ -697,9 +697,9 @@
       ],
       "pro_team": "GB",
       "injury_status": "ACTIVE",
-      "percent_owned": 14.4,
-      "percent_started": 12.75,
-      "projected_total_points": 99.31,
+      "percent_owned": 14.39,
+      "percent_started": 12.74,
+      "projected_total_points": 90.03,
       "total_points": 48.0
     },
     {
@@ -716,9 +716,9 @@
       ],
       "pro_team": "CIN",
       "injury_status": "ACTIVE",
-      "percent_owned": 14.12,
+      "percent_owned": 14.11,
       "percent_started": 4.04,
-      "projected_total_points": 83.88,
+      "projected_total_points": 68.69,
       "total_points": 59.5
     },
     {
@@ -735,9 +735,9 @@
       ],
       "pro_team": "NYG",
       "injury_status": "QUESTIONABLE",
-      "percent_owned": 14.08,
-      "percent_started": 3.36,
-      "projected_total_points": 64.6,
+      "percent_owned": 14.05,
+      "percent_started": 3.35,
+      "projected_total_points": 48.56,
       "total_points": 31.9
     },
     {
@@ -752,9 +752,9 @@
       ],
       "pro_team": "IND",
       "injury_status": "ACTIVE",
-      "percent_owned": 13.53,
-      "percent_started": 2.7,
-      "projected_total_points": 136.89,
+      "percent_owned": 13.52,
+      "percent_started": 2.69,
+      "projected_total_points": 122.05,
       "total_points": 64.72
     },
     {
@@ -769,9 +769,9 @@
       ],
       "pro_team": "NYJ",
       "injury_status": "ACTIVE",
-      "percent_owned": 13.11,
-      "percent_started": 9.57,
-      "projected_total_points": 158.77,
+      "percent_owned": 13.12,
+      "percent_started": 9.59,
+      "projected_total_points": 155.71,
       "total_points": 105.12
     },
     {
@@ -786,9 +786,9 @@
       ],
       "pro_team": "ATL",
       "injury_status": "ACTIVE",
-      "percent_owned": 12.85,
+      "percent_owned": 12.84,
       "percent_started": 5.51,
-      "projected_total_points": 165.93,
+      "projected_total_points": 167.57,
       "total_points": 84.68
     },
     {
@@ -807,9 +807,9 @@
       ],
       "pro_team": "BAL",
       "injury_status": "ACTIVE",
-      "percent_owned": 11.91,
+      "percent_owned": 11.9,
       "percent_started": 1.42,
-      "projected_total_points": 59.4,
+      "projected_total_points": 74.33,
       "total_points": 15.6
     },
     {
@@ -823,9 +823,9 @@
       ],
       "pro_team": "GB",
       "injury_status": [],
-      "percent_owned": 11.54,
-      "percent_started": 6.53,
-      "projected_total_points": 56.71,
+      "percent_owned": 11.53,
+      "percent_started": 6.52,
+      "projected_total_points": 53.05,
       "total_points": 44.0
     },
     {
@@ -839,29 +839,10 @@
       ],
       "pro_team": "LAC",
       "injury_status": [],
-      "percent_owned": 10.43,
-      "percent_started": 5.74,
-      "projected_total_points": 47.23,
+      "percent_owned": 10.41,
+      "percent_started": 5.72,
+      "projected_total_points": 45.53,
       "total_points": 29.0
-    },
-    {
-      "name": "Darren Waller",
-      "playerId": 2576925,
-      "position": "TE",
-      "eligible_slots": [
-        "WR/TE",
-        "TE",
-        "RB/WR/TE",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "CAR",
-      "injury_status": "ACTIVE",
-      "percent_owned": 10.37,
-      "percent_started": 1.91,
-      "projected_total_points": 71.38,
-      "total_points": 51.8
     },
     {
       "name": "Jerry Jeudy",
@@ -878,10 +859,29 @@
       ],
       "pro_team": "CLE",
       "injury_status": "ACTIVE",
-      "percent_owned": 10.36,
+      "percent_owned": 10.35,
       "percent_started": 1.55,
-      "projected_total_points": 67.22,
+      "projected_total_points": 54.09,
       "total_points": 33.1
+    },
+    {
+      "name": "Darren Waller",
+      "playerId": 2576925,
+      "position": "TE",
+      "eligible_slots": [
+        "WR/TE",
+        "TE",
+        "RB/WR/TE",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "CAR",
+      "injury_status": "ACTIVE",
+      "percent_owned": 10.35,
+      "percent_started": 1.9,
+      "projected_total_points": 59.87,
+      "total_points": 51.8
     },
     {
       "name": "Konata Mumpfield",
@@ -898,9 +898,9 @@
       ],
       "pro_team": "LAR",
       "injury_status": "ACTIVE",
-      "percent_owned": 9.94,
-      "percent_started": 2.95,
-      "projected_total_points": 64.8,
+      "percent_owned": 10.08,
+      "percent_started": 3.02,
+      "projected_total_points": 44.23,
       "total_points": 29.2
     },
     {
@@ -919,9 +919,9 @@
       ],
       "pro_team": "MIA",
       "injury_status": "ACTIVE",
-      "percent_owned": 9.67,
-      "percent_started": 0.94,
-      "projected_total_points": 90.04,
+      "percent_owned": 9.66,
+      "percent_started": 0.95,
+      "projected_total_points": 104.77,
       "total_points": 39.3
     },
     {
@@ -935,9 +935,9 @@
       ],
       "pro_team": "BUF",
       "injury_status": "ACTIVE",
-      "percent_owned": 9.64,
-      "percent_started": 1.6,
-      "projected_total_points": 120.89,
+      "percent_owned": 9.62,
+      "percent_started": 1.57,
+      "projected_total_points": 110.65,
       "total_points": 62.0
     },
     {
@@ -952,8 +952,8 @@
       "pro_team": "ARI",
       "injury_status": "ACTIVE",
       "percent_owned": 9.45,
-      "percent_started": 8.23,
-      "projected_total_points": 104.87,
+      "percent_started": 8.24,
+      "projected_total_points": 95.4,
       "total_points": 71.0
     },
     {
@@ -971,46 +971,10 @@
       ],
       "pro_team": "SEA",
       "injury_status": "ACTIVE",
-      "percent_owned": 9.14,
+      "percent_owned": 9.13,
       "percent_started": 2.5,
-      "projected_total_points": 73.52,
+      "projected_total_points": 63.59,
       "total_points": 43.9
-    },
-    {
-      "name": "Jameis Winston",
-      "playerId": 2969939,
-      "position": "QB",
-      "eligible_slots": [
-        "QB",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "NYG",
-      "injury_status": "ACTIVE",
-      "percent_owned": 8.7,
-      "percent_started": 1.26,
-      "projected_total_points": 0.0,
-      "total_points": 65.28
-    },
-    {
-      "name": "Dylan Sampson",
-      "playerId": 5081397,
-      "position": "RB",
-      "eligible_slots": [
-        "RB",
-        "RB/WR",
-        "RB/WR/TE",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "CLE",
-      "injury_status": "ACTIVE",
-      "percent_owned": 8.68,
-      "percent_started": 0.66,
-      "projected_total_points": 68.61,
-      "total_points": 10.7
     },
     {
       "name": "Ted Hurst III",
@@ -1028,10 +992,46 @@
       ],
       "pro_team": "TB",
       "injury_status": "ACTIVE",
-      "percent_owned": 8.63,
-      "percent_started": 5.78,
-      "projected_total_points": 88.74,
+      "percent_owned": 8.72,
+      "percent_started": 5.84,
+      "projected_total_points": 67.12,
       "total_points": 33.8
+    },
+    {
+      "name": "Dylan Sampson",
+      "playerId": 5081397,
+      "position": "RB",
+      "eligible_slots": [
+        "RB",
+        "RB/WR",
+        "RB/WR/TE",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "CLE",
+      "injury_status": "ACTIVE",
+      "percent_owned": 8.68,
+      "percent_started": 0.68,
+      "projected_total_points": 75.54,
+      "total_points": 10.7
+    },
+    {
+      "name": "Jameis Winston",
+      "playerId": 2969939,
+      "position": "QB",
+      "eligible_slots": [
+        "QB",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "NYG",
+      "injury_status": "ACTIVE",
+      "percent_owned": 8.67,
+      "percent_started": 1.24,
+      "projected_total_points": 5.44,
+      "total_points": 65.28
     },
     {
       "name": "Justice Hill",
@@ -1047,9 +1047,9 @@
       ],
       "pro_team": "BAL",
       "injury_status": "ACTIVE",
-      "percent_owned": 8.14,
+      "percent_owned": 8.13,
       "percent_started": 1.69,
-      "projected_total_points": 65.0,
+      "projected_total_points": 63.27,
       "total_points": 35.4
     },
     {
@@ -1063,9 +1063,9 @@
       ],
       "pro_team": "BUF",
       "injury_status": [],
-      "percent_owned": 7.35,
-      "percent_started": 1.62,
-      "projected_total_points": 49.62,
+      "percent_owned": 7.33,
+      "percent_started": 1.6,
+      "projected_total_points": 36.76,
       "total_points": 10.0
     },
     {
@@ -1083,9 +1083,9 @@
       ],
       "pro_team": "ARI",
       "injury_status": "ACTIVE",
-      "percent_owned": 7.07,
+      "percent_owned": 7.06,
       "percent_started": 1.83,
-      "projected_total_points": 90.76,
+      "projected_total_points": 71.54,
       "total_points": 48.4
     },
     {
@@ -1104,9 +1104,9 @@
       ],
       "pro_team": "WSH",
       "injury_status": "ACTIVE",
-      "percent_owned": 7.03,
+      "percent_owned": 7.04,
       "percent_started": 0.14,
-      "projected_total_points": 89.66,
+      "projected_total_points": 89.21,
       "total_points": 44.5
     },
     {
@@ -1124,8 +1124,8 @@
       "pro_team": "SEA",
       "injury_status": "ACTIVE",
       "percent_owned": 6.88,
-      "percent_started": 2.44,
-      "projected_total_points": 7.01,
+      "percent_started": 2.45,
+      "projected_total_points": 4.6,
       "total_points": 35.6
     },
     {
@@ -1142,10 +1142,26 @@
       ],
       "pro_team": "LAR",
       "injury_status": "ACTIVE",
-      "percent_owned": 6.6,
-      "percent_started": 4.62,
-      "projected_total_points": 84.82,
+      "percent_owned": 6.63,
+      "percent_started": 4.64,
+      "projected_total_points": 85.62,
       "total_points": 30.3
+    },
+    {
+      "name": "Jake Elliott",
+      "playerId": 3050478,
+      "position": "K",
+      "eligible_slots": [
+        "K",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "PHI",
+      "injury_status": "ACTIVE",
+      "percent_owned": 6.45,
+      "percent_started": 4.73,
+      "projected_total_points": 59.95,
+      "total_points": 33.0
     },
     {
       "name": "Calvin Ridley",
@@ -1162,9 +1178,9 @@
       ],
       "pro_team": "TEN",
       "injury_status": "OUT",
-      "percent_owned": 6.35,
-      "percent_started": 0.28,
-      "projected_total_points": 37.05,
+      "percent_owned": 6.34,
+      "percent_started": 0.27,
+      "projected_total_points": 31.4,
       "total_points": 13.1
     },
     {
@@ -1179,26 +1195,10 @@
       ],
       "pro_team": "MIA",
       "injury_status": "ACTIVE",
-      "percent_owned": 6.34,
+      "percent_owned": 6.33,
       "percent_started": 1.53,
-      "projected_total_points": 167.04,
+      "projected_total_points": 178.33,
       "total_points": 86.58
-    },
-    {
-      "name": "Jake Elliott",
-      "playerId": 3050478,
-      "position": "K",
-      "eligible_slots": [
-        "K",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "PHI",
-      "injury_status": "ACTIVE",
-      "percent_owned": 6.25,
-      "percent_started": 4.54,
-      "projected_total_points": 67.83,
-      "total_points": 33.0
     },
     {
       "name": "AJ Barner",
@@ -1214,26 +1214,10 @@
       ],
       "pro_team": "SEA",
       "injury_status": "ACTIVE",
-      "percent_owned": 6.23,
+      "percent_owned": 6.22,
       "percent_started": 2.02,
-      "projected_total_points": 84.01,
+      "projected_total_points": 80.69,
       "total_points": 43.5
-    },
-    {
-      "name": "Giants D/ST",
-      "playerId": -16019,
-      "position": "D/ST",
-      "eligible_slots": [
-        "D/ST",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "NYG",
-      "injury_status": [],
-      "percent_owned": 6.14,
-      "percent_started": 3.65,
-      "projected_total_points": 55.95,
-      "total_points": 36.0
     },
     {
       "name": "Tank Bigsby",
@@ -1249,10 +1233,26 @@
       ],
       "pro_team": "PHI",
       "injury_status": "INJURY_RESERVE",
-      "percent_owned": 6.12,
+      "percent_owned": 6.11,
       "percent_started": 0.15,
       "projected_total_points": 0.0,
       "total_points": 17.1
+    },
+    {
+      "name": "Giants D/ST",
+      "playerId": -16019,
+      "position": "D/ST",
+      "eligible_slots": [
+        "D/ST",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "NYG",
+      "injury_status": [],
+      "percent_owned": 6.11,
+      "percent_started": 3.63,
+      "projected_total_points": 61.65,
+      "total_points": 36.0
     },
     {
       "name": "Tanner McKee",
@@ -1266,9 +1266,9 @@
       ],
       "pro_team": "PHI",
       "injury_status": "ACTIVE",
-      "percent_owned": 5.82,
-      "percent_started": 3.75,
-      "projected_total_points": 140.44,
+      "percent_owned": 5.92,
+      "percent_started": 3.82,
+      "projected_total_points": 122.48,
       "total_points": 12.6
     },
     {
@@ -1282,9 +1282,9 @@
       ],
       "pro_team": "ATL",
       "injury_status": "ACTIVE",
-      "percent_owned": 5.81,
-      "percent_started": 4.2,
-      "projected_total_points": 80.21,
+      "percent_owned": 5.8,
+      "percent_started": 4.19,
+      "projected_total_points": 86.05,
       "total_points": 54.0
     },
     {
@@ -1298,9 +1298,9 @@
       ],
       "pro_team": "IND",
       "injury_status": [],
-      "percent_owned": 5.79,
-      "percent_started": 3.69,
-      "projected_total_points": 48.73,
+      "percent_owned": 5.76,
+      "percent_started": 3.67,
+      "projected_total_points": 48.67,
       "total_points": 15.0
     },
     {
@@ -1317,9 +1317,9 @@
       ],
       "pro_team": "PIT",
       "injury_status": "ACTIVE",
-      "percent_owned": 5.73,
-      "percent_started": 3.67,
-      "projected_total_points": 81.21,
+      "percent_owned": 5.75,
+      "percent_started": 3.68,
+      "projected_total_points": 67.66,
       "total_points": 50.0
     },
     {
@@ -1336,9 +1336,9 @@
       ],
       "pro_team": "LAC",
       "injury_status": "ACTIVE",
-      "percent_owned": 5.67,
+      "percent_owned": 5.64,
       "percent_started": 0.14,
-      "projected_total_points": 93.67,
+      "projected_total_points": 93.39,
       "total_points": 34.2
     },
     {
@@ -1355,7 +1355,7 @@
       ],
       "pro_team": "PHI",
       "injury_status": "INJURY_RESERVE",
-      "percent_owned": 5.29,
+      "percent_owned": 5.26,
       "percent_started": 0.27,
       "projected_total_points": 0.0,
       "total_points": 19.8
@@ -1371,9 +1371,9 @@
       ],
       "pro_team": "LV",
       "injury_status": [],
-      "percent_owned": 5.01,
+      "percent_owned": 5.0,
       "percent_started": 2.76,
-      "projected_total_points": 52.05,
+      "projected_total_points": 43.59,
       "total_points": 33.0
     },
     {
@@ -1390,9 +1390,9 @@
       ],
       "pro_team": "WSH",
       "injury_status": "ACTIVE",
-      "percent_owned": 4.84,
+      "percent_owned": 4.85,
       "percent_started": 0.18,
-      "projected_total_points": 92.18,
+      "projected_total_points": 91.68,
       "total_points": 30.0
     },
     {
@@ -1413,7 +1413,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 4.83,
       "percent_started": 1.11,
-      "projected_total_points": 82.89,
+      "projected_total_points": 86.04,
       "total_points": 46.8
     },
     {
@@ -1429,7 +1429,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 4.58,
       "percent_started": 3.72,
-      "projected_total_points": 92.35,
+      "projected_total_points": 88.37,
       "total_points": 53.0
     },
     {
@@ -1444,9 +1444,9 @@
       ],
       "pro_team": "BAL",
       "injury_status": "ACTIVE",
-      "percent_owned": 4.31,
-      "percent_started": 2.73,
-      "projected_total_points": 15.92,
+      "percent_owned": 4.33,
+      "percent_started": 2.77,
+      "projected_total_points": 0.0,
       "total_points": 56.68
     },
     {
@@ -1461,9 +1461,9 @@
       ],
       "pro_team": "TEN",
       "injury_status": "ACTIVE",
-      "percent_owned": 4.22,
+      "percent_owned": 4.21,
       "percent_started": 1.16,
-      "projected_total_points": 132.51,
+      "projected_total_points": 118.7,
       "total_points": 74.26
     },
     {
@@ -1481,9 +1481,9 @@
       ],
       "pro_team": "IND",
       "injury_status": "ACTIVE",
-      "percent_owned": 4.0,
+      "percent_owned": 4.01,
       "percent_started": 0.22,
-      "projected_total_points": 33.79,
+      "projected_total_points": 41.97,
       "total_points": 18.6
     },
     {
@@ -1503,7 +1503,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 3.84,
       "percent_started": 0.36,
-      "projected_total_points": 31.12,
+      "projected_total_points": 30.47,
       "total_points": 34.4
     },
     {
@@ -1521,8 +1521,8 @@
       "pro_team": "TB",
       "injury_status": "ACTIVE",
       "percent_owned": 3.65,
-      "percent_started": 1.64,
-      "projected_total_points": 87.24,
+      "percent_started": 1.65,
+      "projected_total_points": 70.08,
       "total_points": 37.6
     },
     {
@@ -1542,7 +1542,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 3.57,
       "percent_started": 0.42,
-      "projected_total_points": 59.39,
+      "projected_total_points": 67.15,
       "total_points": 15.5
     },
     {
@@ -1581,8 +1581,8 @@
       "pro_team": "ATL",
       "injury_status": "ACTIVE",
       "percent_owned": 3.37,
-      "percent_started": 1.3,
-      "projected_total_points": 85.15,
+      "percent_started": 1.29,
+      "projected_total_points": 75.4,
       "total_points": 48.2
     },
     {
@@ -1599,7 +1599,7 @@
       ],
       "pro_team": "None",
       "injury_status": "ACTIVE",
-      "percent_owned": 3.33,
+      "percent_owned": 3.3,
       "percent_started": 0.33,
       "projected_total_points": 0.0,
       "total_points": 11.4
@@ -1637,7 +1637,7 @@
       ],
       "pro_team": "CLE",
       "injury_status": "ACTIVE",
-      "percent_owned": 3.14,
+      "percent_owned": 3.12,
       "percent_started": 0.31,
       "projected_total_points": 0.0,
       "total_points": 18.6
@@ -1655,7 +1655,7 @@
       "injury_status": [],
       "percent_owned": 3.11,
       "percent_started": 2.03,
-      "projected_total_points": 34.81,
+      "projected_total_points": 36.56,
       "total_points": 29.0
     },
     {
@@ -1673,7 +1673,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 3.11,
       "percent_started": 0.14,
-      "projected_total_points": 120.54,
+      "projected_total_points": 116.03,
       "total_points": 2.22
     },
     {
@@ -1690,9 +1690,9 @@
       ],
       "pro_team": "BUF",
       "injury_status": "ACTIVE",
-      "percent_owned": 3.03,
-      "percent_started": 0.17,
-      "projected_total_points": 23.36,
+      "percent_owned": 3.02,
+      "percent_started": 0.16,
+      "projected_total_points": 23.47,
       "total_points": 8.2
     },
     {
@@ -1712,7 +1712,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 2.96,
       "percent_started": 1.11,
-      "projected_total_points": 90.05,
+      "projected_total_points": 55.28,
       "total_points": 28.24
     },
     {
@@ -1730,9 +1730,9 @@
       ],
       "pro_team": "LAC",
       "injury_status": "QUESTIONABLE",
-      "percent_owned": 2.82,
-      "percent_started": 0.09,
-      "projected_total_points": 67.18,
+      "percent_owned": 2.81,
+      "percent_started": 0.08,
+      "projected_total_points": 68.59,
       "total_points": 37.5
     },
     {
@@ -1752,7 +1752,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 2.71,
       "percent_started": 0.22,
-      "projected_total_points": 23.64,
+      "projected_total_points": 33.0,
       "total_points": 8.3
     },
     {
@@ -1769,7 +1769,7 @@
       ],
       "pro_team": "GB",
       "injury_status": "INJURY_RESERVE",
-      "percent_owned": 2.7,
+      "percent_owned": 2.69,
       "percent_started": 0.14,
       "projected_total_points": 0.0,
       "total_points": 12.4
@@ -1790,7 +1790,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 2.66,
       "percent_started": 1.23,
-      "projected_total_points": 7.49,
+      "projected_total_points": 0.0,
       "total_points": 14.7
     },
     {
@@ -1810,7 +1810,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 2.56,
       "percent_started": 0.91,
-      "projected_total_points": 68.93,
+      "projected_total_points": 64.01,
       "total_points": 28.1
     },
     {
@@ -1824,9 +1824,9 @@
       ],
       "pro_team": "WSH",
       "injury_status": [],
-      "percent_owned": 2.54,
-      "percent_started": 0.56,
-      "projected_total_points": 62.54,
+      "percent_owned": 2.53,
+      "percent_started": 0.55,
+      "projected_total_points": 49.53,
       "total_points": 23.0
     },
     {
@@ -1843,9 +1843,9 @@
       ],
       "pro_team": "WSH",
       "injury_status": "ACTIVE",
-      "percent_owned": 2.39,
-      "percent_started": 0.14,
-      "projected_total_points": 34.8,
+      "percent_owned": 2.37,
+      "percent_started": 0.13,
+      "projected_total_points": 34.75,
       "total_points": 10.1
     },
     {
@@ -1864,7 +1864,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 2.3,
       "percent_started": 0.58,
-      "projected_total_points": 60.47,
+      "projected_total_points": 53.97,
       "total_points": 32.6
     },
     {
@@ -1878,9 +1878,9 @@
       ],
       "pro_team": "ATL",
       "injury_status": [],
-      "percent_owned": 2.26,
+      "percent_owned": 2.25,
       "percent_started": 1.25,
-      "projected_total_points": 52.72,
+      "projected_total_points": 52.45,
       "total_points": 39.0
     },
     {
@@ -1899,7 +1899,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 2.2,
       "percent_started": 0.15,
-      "projected_total_points": 65.24,
+      "projected_total_points": 65.91,
       "total_points": 28.1
     },
     {
@@ -1919,7 +1919,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 2.16,
       "percent_started": 0.62,
-      "projected_total_points": 88.28,
+      "projected_total_points": 72.01,
       "total_points": 29.7
     },
     {
@@ -1937,9 +1937,9 @@
       ],
       "pro_team": "HOU",
       "injury_status": "ACTIVE",
-      "percent_owned": 2.12,
+      "percent_owned": 2.11,
       "percent_started": 0.31,
-      "projected_total_points": 38.14,
+      "projected_total_points": 48.51,
       "total_points": 54.4
     },
     {
@@ -1956,9 +1956,9 @@
       ],
       "pro_team": "LAC",
       "injury_status": "ACTIVE",
-      "percent_owned": 2.06,
+      "percent_owned": 2.05,
       "percent_started": 0.16,
-      "projected_total_points": 42.64,
+      "projected_total_points": 43.49,
       "total_points": 28.5
     },
     {
@@ -1995,9 +1995,9 @@
       ],
       "pro_team": "TEN",
       "injury_status": "ACTIVE",
-      "percent_owned": 1.93,
+      "percent_owned": 1.92,
       "percent_started": 0.28,
-      "projected_total_points": 44.01,
+      "projected_total_points": 43.62,
       "total_points": 22.4
     },
     {
@@ -2031,8 +2031,8 @@
       ],
       "pro_team": "LAR",
       "injury_status": "INJURY_RESERVE",
-      "percent_owned": 1.85,
-      "percent_started": 0.68,
+      "percent_owned": 1.83,
+      "percent_started": 0.66,
       "projected_total_points": 0.0,
       "total_points": 4.0
     },
@@ -2053,7 +2053,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 1.8,
       "percent_started": 0.6,
-      "projected_total_points": 12.13,
+      "projected_total_points": 16.63,
       "total_points": 12.3
     },
     {
@@ -2068,8 +2068,8 @@
       "pro_team": "NO",
       "injury_status": "ACTIVE",
       "percent_owned": 1.76,
-      "percent_started": 1.3,
-      "projected_total_points": 81.82,
+      "percent_started": 1.29,
+      "projected_total_points": 73.74,
       "total_points": 43.0
     },
     {
@@ -2088,7 +2088,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 1.74,
       "percent_started": 0.38,
-      "projected_total_points": 41.31,
+      "projected_total_points": 48.45,
       "total_points": 33.5
     },
     {
@@ -2102,8 +2102,8 @@
         "IR"
       ],
       "pro_team": "WSH",
-      "injury_status": "DOUBTFUL",
-      "percent_owned": 1.68,
+      "injury_status": "QUESTIONABLE",
+      "percent_owned": 1.67,
       "percent_started": 0.15,
       "projected_total_points": 0.0,
       "total_points": 34.5
@@ -2126,7 +2126,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 1.66,
       "percent_started": 0.17,
-      "projected_total_points": 68.85,
+      "projected_total_points": 81.45,
       "total_points": 22.3
     },
     {
@@ -2142,7 +2142,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 1.64,
       "percent_started": 1.25,
-      "projected_total_points": 86.73,
+      "projected_total_points": 74.13,
       "total_points": 47.0
     },
     {
@@ -2163,7 +2163,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 1.54,
       "percent_started": 0.24,
-      "projected_total_points": 39.45,
+      "projected_total_points": 31.98,
       "total_points": 15.2
     },
     {
@@ -2198,8 +2198,8 @@
         "IR"
       ],
       "pro_team": "GB",
-      "injury_status": "OUT",
-      "percent_owned": 1.41,
+      "injury_status": "ACTIVE",
+      "percent_owned": 1.4,
       "percent_started": 0.14,
       "projected_total_points": 0.0,
       "total_points": 10.4
@@ -2215,9 +2215,9 @@
       ],
       "pro_team": "CLE",
       "injury_status": "ACTIVE",
-      "percent_owned": 1.39,
+      "percent_owned": 1.4,
       "percent_started": 1.2,
-      "projected_total_points": 97.62,
+      "projected_total_points": 90.23,
       "total_points": 60.0
     },
     {
@@ -2237,7 +2237,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 1.37,
       "percent_started": 0.55,
-      "projected_total_points": 80.89,
+      "projected_total_points": 70.31,
       "total_points": 16.2
     },
     {
@@ -2254,7 +2254,7 @@
       ],
       "pro_team": "None",
       "injury_status": "QUESTIONABLE",
-      "percent_owned": 1.36,
+      "percent_owned": 1.35,
       "percent_started": 0.04,
       "projected_total_points": 0,
       "total_points": 0.0
@@ -2276,7 +2276,7 @@
       "injury_status": "OUT",
       "percent_owned": 1.23,
       "percent_started": 0.13,
-      "projected_total_points": 24.11,
+      "projected_total_points": 23.95,
       "total_points": 12.9
     },
     {
@@ -2332,7 +2332,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 1.13,
       "percent_started": 1.0,
-      "projected_total_points": 93.71,
+      "projected_total_points": 87.0,
       "total_points": 56.0
     },
     {
@@ -2371,7 +2371,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 1.05,
       "percent_started": 0.14,
-      "projected_total_points": 4.06,
+      "projected_total_points": 5.46,
       "total_points": 7.5
     },
     {
@@ -2391,7 +2391,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 1.01,
       "percent_started": 0.69,
-      "projected_total_points": 27.99,
+      "projected_total_points": 10.8,
       "total_points": 7.3
     },
     {
@@ -2410,7 +2410,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.97,
       "percent_started": 0.18,
-      "projected_total_points": 72.48,
+      "projected_total_points": 84.36,
       "total_points": 41.3
     },
     {
@@ -2428,9 +2428,9 @@
       ],
       "pro_team": "NE",
       "injury_status": "ACTIVE",
-      "percent_owned": 0.97,
+      "percent_owned": 0.96,
       "percent_started": 0.35,
-      "projected_total_points": 47.11,
+      "projected_total_points": 44.62,
       "total_points": 26.7
     },
     {
@@ -2450,7 +2450,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.94,
       "percent_started": 0.32,
-      "projected_total_points": 66.09,
+      "projected_total_points": 50.74,
       "total_points": 15.1
     },
     {
@@ -2470,7 +2470,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.92,
       "percent_started": 0.18,
-      "projected_total_points": 52.85,
+      "projected_total_points": 48.67,
       "total_points": 23.5
     },
     {
@@ -2486,7 +2486,7 @@
       "injury_status": [],
       "percent_owned": 0.87,
       "percent_started": 0.65,
-      "projected_total_points": 35.57,
+      "projected_total_points": 34.43,
       "total_points": 21.0
     },
     {
@@ -2500,9 +2500,9 @@
       ],
       "pro_team": "MIA",
       "injury_status": [],
-      "percent_owned": 0.86,
+      "percent_owned": 0.87,
       "percent_started": 0.68,
-      "projected_total_points": 32.77,
+      "projected_total_points": 31.08,
       "total_points": 13.0
     },
     {
@@ -2521,7 +2521,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.86,
       "percent_started": 0.4,
-      "projected_total_points": 61.04,
+      "projected_total_points": 47.78,
       "total_points": 41.6
     },
     {
@@ -2578,7 +2578,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.81,
       "percent_started": 0.36,
-      "projected_total_points": 18.78,
+      "projected_total_points": 16.72,
       "total_points": 19.8
     },
     {
@@ -2596,7 +2596,7 @@
       ],
       "pro_team": "CAR",
       "injury_status": "INJURY_RESERVE",
-      "percent_owned": 0.77,
+      "percent_owned": 0.76,
       "percent_started": 0.02,
       "projected_total_points": 0.0,
       "total_points": 8.4
@@ -2618,42 +2618,8 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.7,
       "percent_started": 0.13,
-      "projected_total_points": 9.61,
+      "projected_total_points": 14.08,
       "total_points": 34.2
-    },
-    {
-      "name": "Tyson Bagent",
-      "playerId": 4434153,
-      "position": "QB",
-      "eligible_slots": [
-        "QB",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "CHI",
-      "injury_status": "ACTIVE",
-      "percent_owned": 0.68,
-      "percent_started": 0.08,
-      "projected_total_points": 0.0,
-      "total_points": 12.16
-    },
-    {
-      "name": "Drew Stevens",
-      "playerId": 5081335,
-      "position": "K",
-      "eligible_slots": [
-        "Rookie",
-        "K",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "WSH",
-      "injury_status": "ACTIVE",
-      "percent_owned": 0.68,
-      "percent_started": 0.24,
-      "projected_total_points": 90.83,
-      "total_points": 46.0
     },
     {
       "name": "Corey Kiner",
@@ -2671,7 +2637,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.68,
       "percent_started": 0.13,
-      "projected_total_points": 24.66,
+      "projected_total_points": 37.13,
       "total_points": 16.7
     },
     {
@@ -2690,8 +2656,42 @@
       "injury_status": "INJURY_RESERVE",
       "percent_owned": 0.67,
       "percent_started": 0.16,
-      "projected_total_points": 3.13,
+      "projected_total_points": 0.0,
       "total_points": 24.7
+    },
+    {
+      "name": "Tyson Bagent",
+      "playerId": 4434153,
+      "position": "QB",
+      "eligible_slots": [
+        "QB",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "CHI",
+      "injury_status": "ACTIVE",
+      "percent_owned": 0.67,
+      "percent_started": 0.08,
+      "projected_total_points": 0.0,
+      "total_points": 12.16
+    },
+    {
+      "name": "Drew Stevens",
+      "playerId": 5081335,
+      "position": "K",
+      "eligible_slots": [
+        "Rookie",
+        "K",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "WSH",
+      "injury_status": "ACTIVE",
+      "percent_owned": 0.67,
+      "percent_started": 0.24,
+      "projected_total_points": 89.8,
+      "total_points": 46.0
     },
     {
       "name": "Myles Price",
@@ -2709,8 +2709,8 @@
       "pro_team": "MIN",
       "injury_status": "ACTIVE",
       "percent_owned": 0.64,
-      "percent_started": 0.39,
-      "projected_total_points": 7.55,
+      "percent_started": 0.4,
+      "projected_total_points": 1.89,
       "total_points": 11.8
     },
     {
@@ -2730,7 +2730,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.62,
       "percent_started": 0.24,
-      "projected_total_points": 58.29,
+      "projected_total_points": 57.48,
       "total_points": 13.8
     },
     {
@@ -2749,7 +2749,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.61,
       "percent_started": 0.08,
-      "projected_total_points": 37.24,
+      "projected_total_points": 37.65,
       "total_points": 17.6
     },
     {
@@ -2768,7 +2768,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.6,
       "percent_started": 0.07,
-      "projected_total_points": 0.09,
+      "projected_total_points": 0.06,
       "total_points": 4.2
     },
     {
@@ -2787,7 +2787,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.6,
       "percent_started": 0.13,
-      "projected_total_points": 53.01,
+      "projected_total_points": 36.87,
       "total_points": 14.8
     },
     {
@@ -2805,9 +2805,9 @@
       ],
       "pro_team": "LAR",
       "injury_status": "ACTIVE",
-      "percent_owned": 0.58,
+      "percent_owned": 0.59,
       "percent_started": 0.14,
-      "projected_total_points": 38.84,
+      "projected_total_points": 27.77,
       "total_points": 6.1
     },
     {
@@ -2826,26 +2826,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.55,
       "percent_started": 0.2,
-      "projected_total_points": 0.78,
-      "total_points": 0.0
-    },
-    {
-      "name": "Malik Davis",
-      "playerId": 4240603,
-      "position": "RB",
-      "eligible_slots": [
-        "RB",
-        "RB/WR",
-        "RB/WR/TE",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "DAL",
-      "injury_status": "INJURY_RESERVE",
-      "percent_owned": 0.54,
-      "percent_started": 0.03,
-      "projected_total_points": 0.0,
+      "projected_total_points": 0.71,
       "total_points": 0.0
     },
     {
@@ -2863,10 +2844,48 @@
       ],
       "pro_team": "TB",
       "injury_status": "ACTIVE",
-      "percent_owned": 0.53,
+      "percent_owned": 0.54,
       "percent_started": 0.34,
-      "projected_total_points": 55.85,
+      "projected_total_points": 50.88,
       "total_points": 34.8
+    },
+    {
+      "name": "Tyler Goodson",
+      "playerId": 4429676,
+      "position": "RB",
+      "eligible_slots": [
+        "RB",
+        "RB/WR",
+        "RB/WR/TE",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "DAL",
+      "injury_status": "ACTIVE",
+      "percent_owned": 0.54,
+      "percent_started": 0.24,
+      "projected_total_points": 31.92,
+      "total_points": 5.8
+    },
+    {
+      "name": "Malik Davis",
+      "playerId": 4240603,
+      "position": "RB",
+      "eligible_slots": [
+        "RB",
+        "RB/WR",
+        "RB/WR/TE",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "DAL",
+      "injury_status": "INJURY_RESERVE",
+      "percent_owned": 0.53,
+      "percent_started": 0.03,
+      "projected_total_points": 0.0,
+      "total_points": 0.0
     },
     {
       "name": "Joshua Palmer",
@@ -2885,7 +2904,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.51,
       "percent_started": 0.03,
-      "projected_total_points": 28.2,
+      "projected_total_points": 28.42,
       "total_points": 27.7
     },
     {
@@ -2906,25 +2925,6 @@
       "percent_started": 0.06,
       "projected_total_points": 0.0,
       "total_points": 5.2
-    },
-    {
-      "name": "Tyler Goodson",
-      "playerId": 4429676,
-      "position": "RB",
-      "eligible_slots": [
-        "RB",
-        "RB/WR",
-        "RB/WR/TE",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "DAL",
-      "injury_status": "ACTIVE",
-      "percent_owned": 0.5,
-      "percent_started": 0.22,
-      "projected_total_points": 35.52,
-      "total_points": 5.8
     },
     {
       "name": "Tyquan Thornton",
@@ -2963,7 +2963,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.49,
       "percent_started": 0.02,
-      "projected_total_points": 98.64,
+      "projected_total_points": 98.13,
       "total_points": 36.2
     },
     {
@@ -2983,7 +2983,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.49,
       "percent_started": 0.16,
-      "projected_total_points": 5.79,
+      "projected_total_points": 0.99,
       "total_points": 7.9
     },
     {
@@ -3014,28 +3014,11 @@
         "IR"
       ],
       "pro_team": "CHI",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.49,
       "percent_started": 0.05,
       "projected_total_points": 0.0,
       "total_points": 25.2
-    },
-    {
-      "name": "Tua Tagovailoa",
-      "playerId": 4241479,
-      "position": "QB",
-      "eligible_slots": [
-        "QB",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "ATL",
-      "injury_status": "ACTIVE",
-      "percent_owned": 0.48,
-      "percent_started": 0.04,
-      "projected_total_points": 0.0,
-      "total_points": -0.64
     },
     {
       "name": "Zavion Thomas",
@@ -3055,7 +3038,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.48,
       "percent_started": 0.17,
-      "projected_total_points": 17.5,
+      "projected_total_points": 21.08,
       "total_points": 9.8
     },
     {
@@ -3072,11 +3055,28 @@
         "IR"
       ],
       "pro_team": "TEN",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.47,
       "percent_started": 0.03,
       "projected_total_points": 0.0,
       "total_points": 1.2
+    },
+    {
+      "name": "Tua Tagovailoa",
+      "playerId": 4241479,
+      "position": "QB",
+      "eligible_slots": [
+        "QB",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "ATL",
+      "injury_status": "ACTIVE",
+      "percent_owned": 0.47,
+      "percent_started": 0.04,
+      "projected_total_points": 0.0,
+      "total_points": -0.64
     },
     {
       "name": "Carson Wentz",
@@ -3109,7 +3109,7 @@
         "IR"
       ],
       "pro_team": "PIT",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.43,
       "percent_started": 0.04,
       "projected_total_points": 0.0,
@@ -3131,7 +3131,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.43,
       "percent_started": 0.16,
-      "projected_total_points": 33.47,
+      "projected_total_points": 30.19,
       "total_points": 27.6
     },
     {
@@ -3147,7 +3147,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.42,
       "percent_started": 0.3,
-      "projected_total_points": 78.45,
+      "projected_total_points": 66.12,
       "total_points": 44.0
     },
     {
@@ -3167,7 +3167,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.41,
       "percent_started": 0.07,
-      "projected_total_points": 42.91,
+      "projected_total_points": 38.06,
       "total_points": 12.1
     },
     {
@@ -3239,7 +3239,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.39,
       "percent_started": 0.33,
-      "projected_total_points": 86.51,
+      "projected_total_points": 71.7,
       "total_points": 5.0
     },
     {
@@ -3277,7 +3277,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.37,
       "percent_started": 0.05,
-      "projected_total_points": 26.72,
+      "projected_total_points": 17.25,
       "total_points": 20.0
     },
     {
@@ -3296,7 +3296,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.37,
       "percent_started": 0.06,
-      "projected_total_points": 30.34,
+      "projected_total_points": 27.51,
       "total_points": 37.4
     },
     {
@@ -3316,7 +3316,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.37,
       "percent_started": 0.11,
-      "projected_total_points": 23.08,
+      "projected_total_points": 18.64,
       "total_points": 34.7
     },
     {
@@ -3353,7 +3353,7 @@
         "IR"
       ],
       "pro_team": "MIN",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.35,
       "percent_started": 0.03,
       "projected_total_points": 0.0,
@@ -3373,7 +3373,7 @@
         "IR"
       ],
       "pro_team": "MIA",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.34,
       "percent_started": 0.02,
       "projected_total_points": 0.0,
@@ -3399,26 +3399,6 @@
       "total_points": 1.5
     },
     {
-      "name": "Eli Raridon",
-      "playerId": 4831959,
-      "position": "TE",
-      "eligible_slots": [
-        "Rookie",
-        "WR/TE",
-        "TE",
-        "RB/WR/TE",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "NE",
-      "injury_status": "ACTIVE",
-      "percent_owned": 0.34,
-      "percent_started": 0.08,
-      "projected_total_points": 54.42,
-      "total_points": 40.8
-    },
-    {
       "name": "Dare Ogunbowale",
       "playerId": 2983509,
       "position": "RB",
@@ -3434,8 +3414,28 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.34,
       "percent_started": 0.24,
-      "projected_total_points": 6.07,
+      "projected_total_points": 0.0,
       "total_points": 0.0
+    },
+    {
+      "name": "Eli Raridon",
+      "playerId": 4831959,
+      "position": "TE",
+      "eligible_slots": [
+        "Rookie",
+        "WR/TE",
+        "TE",
+        "RB/WR/TE",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "NE",
+      "injury_status": "ACTIVE",
+      "percent_owned": 0.33,
+      "percent_started": 0.08,
+      "projected_total_points": 74.65,
+      "total_points": 40.8
     },
     {
       "name": "Will Mallory",
@@ -3453,7 +3453,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.33,
       "percent_started": 0.26,
-      "projected_total_points": 17.93,
+      "projected_total_points": 14.17,
       "total_points": 4.0
     },
     {
@@ -3492,7 +3492,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.32,
       "percent_started": 0.02,
-      "projected_total_points": 5.64,
+      "projected_total_points": 5.7,
       "total_points": 0.0
     },
     {
@@ -3512,7 +3512,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.31,
       "percent_started": 0.03,
-      "projected_total_points": 22.82,
+      "projected_total_points": 19.76,
       "total_points": 17.7
     },
     {
@@ -3531,7 +3531,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.31,
       "percent_started": 0.06,
-      "projected_total_points": 4.27,
+      "projected_total_points": 1.09,
       "total_points": 4.4
     },
     {
@@ -3550,7 +3550,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.3,
       "percent_started": 0.02,
-      "projected_total_points": 10.51,
+      "projected_total_points": 10.64,
       "total_points": 3.0
     },
     {
@@ -3569,8 +3569,8 @@
       "pro_team": "LAR",
       "injury_status": "ACTIVE",
       "percent_owned": 0.3,
-      "percent_started": 0.06,
-      "projected_total_points": 33.07,
+      "percent_started": 0.07,
+      "projected_total_points": 17.28,
       "total_points": 3.2
     },
     {
@@ -3606,10 +3606,10 @@
         "IR"
       ],
       "pro_team": "CAR",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.29,
       "percent_started": 0.06,
-      "projected_total_points": 37.77,
+      "projected_total_points": 38.45,
       "total_points": 6.6
     },
     {
@@ -3649,7 +3649,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.28,
       "percent_started": 0.04,
-      "projected_total_points": 54.61,
+      "projected_total_points": 37.05,
       "total_points": 17.5
     },
     {
@@ -3666,10 +3666,10 @@
         "IR"
       ],
       "pro_team": "PHI",
-      "injury_status": "INJURY_RESERVE",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.27,
       "percent_started": 0.01,
-      "projected_total_points": 5.37,
+      "projected_total_points": 5.3,
       "total_points": 0.0
     },
     {
@@ -3687,9 +3687,29 @@
       "pro_team": "LV",
       "injury_status": "ACTIVE",
       "percent_owned": 0.26,
-      "percent_started": 0.11,
-      "projected_total_points": 22.47,
+      "percent_started": 0.12,
+      "projected_total_points": 0.36,
       "total_points": 10.4
+    },
+    {
+      "name": "Hollywood Brown",
+      "playerId": 4241372,
+      "position": "WR",
+      "eligible_slots": [
+        "RB/WR",
+        "WR",
+        "WR/TE",
+        "RB/WR/TE",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "PHI",
+      "injury_status": "ACTIVE",
+      "percent_owned": 0.26,
+      "percent_started": 0.08,
+      "projected_total_points": 0.0,
+      "total_points": 1.2
     },
     {
       "name": "Andrei Iosivas",
@@ -3727,7 +3747,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.25,
       "percent_started": 0.08,
-      "projected_total_points": 59.26,
+      "projected_total_points": 80.52,
       "total_points": 39.7
     },
     {
@@ -3750,26 +3770,6 @@
       "total_points": 0.0
     },
     {
-      "name": "Hollywood Brown",
-      "playerId": 4241372,
-      "position": "WR",
-      "eligible_slots": [
-        "RB/WR",
-        "WR",
-        "WR/TE",
-        "RB/WR/TE",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "PHI",
-      "injury_status": "ACTIVE",
-      "percent_owned": 0.24,
-      "percent_started": 0.07,
-      "projected_total_points": 5.67,
-      "total_points": 1.2
-    },
-    {
       "name": "Kaden Wetjen",
       "playerId": 5081338,
       "position": "WR",
@@ -3787,7 +3787,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.24,
       "percent_started": 0.14,
-      "projected_total_points": 3.99,
+      "projected_total_points": 1.59,
       "total_points": 0.0
     },
     {
@@ -3863,7 +3863,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.23,
       "percent_started": 0.07,
-      "projected_total_points": 48.99,
+      "projected_total_points": 44.37,
       "total_points": 27.8
     },
     {
@@ -3878,7 +3878,7 @@
         "IR"
       ],
       "pro_team": "LAR",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.23,
       "percent_started": 0.01,
       "projected_total_points": 0.0,
@@ -3916,27 +3916,8 @@
       "injury_status": "OUT",
       "percent_owned": 0.2,
       "percent_started": 0.02,
-      "projected_total_points": 33.21,
+      "projected_total_points": 26.0,
       "total_points": 15.5
-    },
-    {
-      "name": "Jawhar Jordan",
-      "playerId": 4429939,
-      "position": "RB",
-      "eligible_slots": [
-        "RB",
-        "RB/WR",
-        "RB/WR/TE",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "HOU",
-      "injury_status": "OUT",
-      "percent_owned": 0.2,
-      "percent_started": 0.01,
-      "projected_total_points": 0.0,
-      "total_points": 12.0
     },
     {
       "name": "Kevin Coleman Jr.",
@@ -3956,7 +3937,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.19,
       "percent_started": 0.05,
-      "projected_total_points": 73.46,
+      "projected_total_points": 19.55,
       "total_points": 14.6
     },
     {
@@ -4011,8 +3992,27 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.19,
       "percent_started": 0.01,
-      "projected_total_points": 61.46,
+      "projected_total_points": 61.85,
       "total_points": 31.7
+    },
+    {
+      "name": "Jawhar Jordan",
+      "playerId": 4429939,
+      "position": "RB",
+      "eligible_slots": [
+        "RB",
+        "RB/WR",
+        "RB/WR/TE",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "HOU",
+      "injury_status": "OUT",
+      "percent_owned": 0.19,
+      "percent_started": 0.01,
+      "projected_total_points": 0.0,
+      "total_points": 12.0
     },
     {
       "name": "DJ Giddens",
@@ -4123,7 +4123,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.17,
       "percent_started": 0.04,
-      "projected_total_points": 38.09,
+      "projected_total_points": 46.47,
       "total_points": 39.2
     },
     {
@@ -4143,7 +4143,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.17,
       "percent_started": 0.1,
-      "projected_total_points": 17.29,
+      "projected_total_points": 2.57,
       "total_points": 6.6
     },
     {
@@ -4182,8 +4182,8 @@
       "pro_team": "NO",
       "injury_status": "ACTIVE",
       "percent_owned": 0.15,
-      "percent_started": 0.05,
-      "projected_total_points": 11.51,
+      "percent_started": 0.06,
+      "projected_total_points": 15.34,
       "total_points": 22.8
     },
     {
@@ -4199,7 +4199,7 @@
         "IR"
       ],
       "pro_team": "CLE",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.15,
       "percent_started": 0.02,
       "projected_total_points": 0.0,
@@ -4238,7 +4238,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.14,
       "percent_started": 0.02,
-      "projected_total_points": 0.24,
+      "projected_total_points": 0.22,
       "total_points": 1.9
     },
     {
@@ -4270,7 +4270,7 @@
         "IR"
       ],
       "pro_team": "PIT",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.14,
       "percent_started": 0.01,
       "projected_total_points": 0.0,
@@ -4309,7 +4309,7 @@
       "injury_status": "QUESTIONABLE",
       "percent_owned": 0.14,
       "percent_started": 0.05,
-      "projected_total_points": 33.41,
+      "projected_total_points": 14.01,
       "total_points": 11.1
     },
     {
@@ -4328,7 +4328,7 @@
       "injury_status": "QUESTIONABLE",
       "percent_owned": 0.13,
       "percent_started": 0.03,
-      "projected_total_points": 53.49,
+      "projected_total_points": 48.46,
       "total_points": 13.6
     },
     {
@@ -4347,7 +4347,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.13,
       "percent_started": 0.03,
-      "projected_total_points": 20.62,
+      "projected_total_points": 18.36,
       "total_points": 15.4
     },
     {
@@ -4367,28 +4367,27 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.13,
       "percent_started": 0.04,
-      "projected_total_points": 46.35,
+      "projected_total_points": 52.79,
       "total_points": 33.7
     },
     {
-      "name": "Luke McCaffrey",
-      "playerId": 4426948,
-      "position": "WR",
+      "name": "Brevyn Spann-Ford",
+      "playerId": 4360967,
+      "position": "TE",
       "eligible_slots": [
-        "RB/WR",
-        "WR",
         "WR/TE",
+        "TE",
         "RB/WR/TE",
         "OP",
         "BE",
         "IR"
       ],
-      "pro_team": "WSH",
+      "pro_team": "DAL",
       "injury_status": "ACTIVE",
       "percent_owned": 0.13,
-      "percent_started": 0.02,
-      "projected_total_points": 17.87,
-      "total_points": 0.0
+      "percent_started": 0.04,
+      "projected_total_points": 32.78,
+      "total_points": 13.8
     },
     {
       "name": "Dont'e Thornton Jr.",
@@ -4442,7 +4441,7 @@
       "injury_status": "OUT",
       "percent_owned": 0.12,
       "percent_started": 0.03,
-      "projected_total_points": 2.31,
+      "projected_total_points": 2.41,
       "total_points": 0.0
     },
     {
@@ -4460,7 +4459,7 @@
         "IR"
       ],
       "pro_team": "BAL",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.12,
       "percent_started": 0.01,
       "projected_total_points": 0.0,
@@ -4484,27 +4483,28 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.12,
       "percent_started": 0.05,
-      "projected_total_points": 4.27,
+      "projected_total_points": 13.99,
       "total_points": 10.0
     },
     {
-      "name": "Brevyn Spann-Ford",
-      "playerId": 4360967,
-      "position": "TE",
+      "name": "Luke McCaffrey",
+      "playerId": 4426948,
+      "position": "WR",
       "eligible_slots": [
+        "RB/WR",
+        "WR",
         "WR/TE",
-        "TE",
         "RB/WR/TE",
         "OP",
         "BE",
         "IR"
       ],
-      "pro_team": "DAL",
+      "pro_team": "WSH",
       "injury_status": "ACTIVE",
       "percent_owned": 0.12,
-      "percent_started": 0.04,
-      "projected_total_points": 36.34,
-      "total_points": 13.8
+      "percent_started": 0.02,
+      "projected_total_points": 17.76,
+      "total_points": 0.0
     },
     {
       "name": "Ja'Tavion Sanders",
@@ -4519,7 +4519,7 @@
         "IR"
       ],
       "pro_team": "CAR",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.11,
       "percent_started": 0.02,
       "projected_total_points": 0.0,
@@ -4558,7 +4558,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.11,
       "percent_started": 0.02,
-      "projected_total_points": 6.31,
+      "projected_total_points": 5.69,
       "total_points": 6.0
     },
     {
@@ -4577,7 +4577,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.11,
       "percent_started": 0.04,
-      "projected_total_points": 16.49,
+      "projected_total_points": 14.9,
       "total_points": 6.4
     },
     {
@@ -4596,7 +4596,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.11,
       "percent_started": 0.03,
-      "projected_total_points": 41.51,
+      "projected_total_points": 37.5,
       "total_points": 36.2
     },
     {
@@ -4613,10 +4613,10 @@
         "IR"
       ],
       "pro_team": "ARI",
-      "injury_status": "ACTIVE",
+      "injury_status": "OUT",
       "percent_owned": 0.11,
       "percent_started": 0.05,
-      "projected_total_points": 54.0,
+      "projected_total_points": 69.42,
       "total_points": 13.1
     },
     {
@@ -4636,7 +4636,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.11,
       "percent_started": 0.01,
-      "projected_total_points": 1.12,
+      "projected_total_points": 1.09,
       "total_points": 0.0
     },
     {
@@ -4651,7 +4651,7 @@
       "pro_team": "None",
       "injury_status": "ACTIVE",
       "percent_owned": 0.11,
-      "percent_started": 0.06,
+      "percent_started": 0.05,
       "projected_total_points": 0.0,
       "total_points": 0.0
     },
@@ -4671,7 +4671,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.1,
       "percent_started": 0.01,
-      "projected_total_points": 0.33,
+      "projected_total_points": 0.35,
       "total_points": 6.7
     },
     {
@@ -4710,7 +4710,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.1,
       "percent_started": 0.02,
-      "projected_total_points": 23.89,
+      "projected_total_points": 16.72,
       "total_points": 17.5
     },
     {
@@ -4729,7 +4729,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.1,
       "percent_started": 0.03,
-      "projected_total_points": 46.54,
+      "projected_total_points": 40.92,
       "total_points": 34.1
     },
     {
@@ -4749,7 +4749,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.1,
       "percent_started": 0.01,
-      "projected_total_points": 4.93,
+      "projected_total_points": 4.5,
       "total_points": 13.6
     },
     {
@@ -4768,7 +4768,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.1,
       "percent_started": 0.02,
-      "projected_total_points": 21.29,
+      "projected_total_points": 12.58,
       "total_points": 8.1
     },
     {
@@ -4788,7 +4788,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.1,
       "percent_started": 0.01,
-      "projected_total_points": 5.73,
+      "projected_total_points": 0.0,
       "total_points": 7.1
     },
     {
@@ -4843,7 +4843,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.09,
       "percent_started": 0.02,
-      "projected_total_points": 22.35,
+      "projected_total_points": 21.51,
       "total_points": 20.7
     },
     {
@@ -4863,8 +4863,28 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.09,
       "percent_started": 0.02,
-      "projected_total_points": 24.39,
+      "projected_total_points": 21.56,
       "total_points": 8.4
+    },
+    {
+      "name": "Jonathan Mingo",
+      "playerId": 4426485,
+      "position": "WR",
+      "eligible_slots": [
+        "RB/WR",
+        "WR",
+        "WR/TE",
+        "RB/WR/TE",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "DAL",
+      "injury_status": "ACTIVE",
+      "percent_owned": 0.09,
+      "percent_started": 0.02,
+      "projected_total_points": 10.23,
+      "total_points": 6.0
     },
     {
       "name": "Lil'Jordan Humphrey",
@@ -4883,7 +4903,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.09,
       "percent_started": 0.02,
-      "projected_total_points": 15.96,
+      "projected_total_points": 9.6,
       "total_points": 3.3
     },
     {
@@ -4903,7 +4923,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.09,
       "percent_started": 0.03,
-      "projected_total_points": 59.13,
+      "projected_total_points": 51.58,
       "total_points": 25.0
     },
     {
@@ -4942,7 +4962,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.08,
       "percent_started": 0.01,
-      "projected_total_points": 57.75,
+      "projected_total_points": 57.49,
       "total_points": 16.4
     },
     {
@@ -4962,14 +4982,15 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.08,
       "percent_started": 0.01,
-      "projected_total_points": 11.25,
+      "projected_total_points": 0.0,
       "total_points": 5.9
     },
     {
-      "name": "Jonathan Mingo",
-      "playerId": 4426485,
+      "name": "Colbie Young",
+      "playerId": 5092508,
       "position": "WR",
       "eligible_slots": [
+        "Rookie",
         "RB/WR",
         "WR",
         "WR/TE",
@@ -4978,12 +4999,12 @@
         "BE",
         "IR"
       ],
-      "pro_team": "DAL",
+      "pro_team": "CIN",
       "injury_status": "ACTIVE",
       "percent_owned": 0.08,
       "percent_started": 0.01,
-      "projected_total_points": 13.02,
-      "total_points": 6.0
+      "projected_total_points": 0.0,
+      "total_points": 2.9
     },
     {
       "name": "Johnny Mundt",
@@ -5000,8 +5021,8 @@
       "pro_team": "PHI",
       "injury_status": "ACTIVE",
       "percent_owned": 0.08,
-      "percent_started": 0.02,
-      "projected_total_points": 12.25,
+      "percent_started": 0.03,
+      "projected_total_points": 9.43,
       "total_points": 5.6
     },
     {
@@ -5038,7 +5059,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.08,
       "percent_started": 0.03,
-      "projected_total_points": 1.34,
+      "projected_total_points": 6.07,
       "total_points": 8.4
     },
     {
@@ -5095,7 +5116,7 @@
         "IR"
       ],
       "pro_team": "LAR",
-      "injury_status": "OUT",
+      "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.01,
       "projected_total_points": 0.0,
@@ -5117,7 +5138,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.02,
-      "projected_total_points": 29.56,
+      "projected_total_points": 27.26,
       "total_points": 17.8
     },
     {
@@ -5155,27 +5176,8 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.01,
-      "projected_total_points": 13.2,
+      "projected_total_points": 12.26,
       "total_points": 2.4
-    },
-    {
-      "name": "Josh Oliver",
-      "playerId": 3921690,
-      "position": "TE",
-      "eligible_slots": [
-        "WR/TE",
-        "TE",
-        "RB/WR/TE",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "MIN",
-      "injury_status": "INJURY_RESERVE",
-      "percent_owned": 0.07,
-      "percent_started": 0.01,
-      "projected_total_points": 0.0,
-      "total_points": 7.6
     },
     {
       "name": "Adam Trautman",
@@ -5193,7 +5195,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.01,
-      "projected_total_points": 10.81,
+      "projected_total_points": 15.4,
       "total_points": 3.0
     },
     {
@@ -5213,29 +5215,8 @@
       "injury_status": "OUT",
       "percent_owned": 0.07,
       "percent_started": 0.02,
-      "projected_total_points": 31.47,
+      "projected_total_points": 33.94,
       "total_points": 5.7
-    },
-    {
-      "name": "Colbie Young",
-      "playerId": 5092508,
-      "position": "WR",
-      "eligible_slots": [
-        "Rookie",
-        "RB/WR",
-        "WR",
-        "WR/TE",
-        "RB/WR/TE",
-        "OP",
-        "BE",
-        "IR"
-      ],
-      "pro_team": "CIN",
-      "injury_status": "ACTIVE",
-      "percent_owned": 0.07,
-      "percent_started": 0.01,
-      "projected_total_points": 0.0,
-      "total_points": 2.9
     },
     {
       "name": "Mo Alie-Cox",
@@ -5253,7 +5234,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.03,
-      "projected_total_points": 13.35,
+      "projected_total_points": 9.61,
       "total_points": 13.1
     },
     {
@@ -5273,7 +5254,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.01,
-      "projected_total_points": 5.9,
+      "projected_total_points": 10.65,
       "total_points": 6.0
     },
     {
@@ -5310,7 +5291,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.01,
-      "projected_total_points": 11.46,
+      "projected_total_points": 10.21,
       "total_points": 7.1
     },
     {
@@ -5330,7 +5311,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.01,
-      "projected_total_points": 26.81,
+      "projected_total_points": 21.04,
       "total_points": 6.3
     },
     {
@@ -5350,7 +5331,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.01,
-      "projected_total_points": 35.28,
+      "projected_total_points": 16.32,
       "total_points": 18.0
     },
     {
@@ -5404,7 +5385,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.01,
-      "projected_total_points": 4.97,
+      "projected_total_points": 4.25,
       "total_points": 1.1
     },
     {
@@ -5424,7 +5405,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.03,
-      "projected_total_points": 1.32,
+      "projected_total_points": 1.17,
       "total_points": 0.0
     },
     {
@@ -5444,7 +5425,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.07,
       "percent_started": 0.01,
-      "projected_total_points": 16.39,
+      "projected_total_points": 5.18,
       "total_points": 7.1
     },
     {
@@ -5525,6 +5506,25 @@
       "total_points": 0.0
     },
     {
+      "name": "Josh Oliver",
+      "playerId": 3921690,
+      "position": "TE",
+      "eligible_slots": [
+        "WR/TE",
+        "TE",
+        "RB/WR/TE",
+        "OP",
+        "BE",
+        "IR"
+      ],
+      "pro_team": "MIN",
+      "injury_status": "INJURY_RESERVE",
+      "percent_owned": 0.06,
+      "percent_started": 0.01,
+      "projected_total_points": 0.0,
+      "total_points": 7.6
+    },
+    {
       "name": "Charlie Kolar",
       "playerId": 4241263,
       "position": "TE",
@@ -5540,7 +5540,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.06,
       "percent_started": 0.01,
-      "projected_total_points": 53.13,
+      "projected_total_points": 54.16,
       "total_points": 14.8
     },
     {
@@ -5561,7 +5561,7 @@
       "injury_status": "QUESTIONABLE",
       "percent_owned": 0.06,
       "percent_started": 0.0,
-      "projected_total_points": 4.54,
+      "projected_total_points": 4.65,
       "total_points": 2.3
     },
     {
@@ -5580,7 +5580,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.06,
       "percent_started": 0.01,
-      "projected_total_points": 5.55,
+      "projected_total_points": 5.62,
       "total_points": 0.0
     },
     {
@@ -5600,7 +5600,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.06,
       "percent_started": 0.02,
-      "projected_total_points": 0.6,
+      "projected_total_points": 0.54,
       "total_points": -2.0
     },
     {
@@ -5637,7 +5637,7 @@
       "injury_status": "ACTIVE",
       "percent_owned": 0.06,
       "percent_started": 0.02,
-      "projected_total_points": 17.26,
+      "projected_total_points": 16.34,
       "total_points": 26.9
     }
   ]
