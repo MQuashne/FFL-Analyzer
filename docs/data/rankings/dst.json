@@ -1,7 +1,7 @@
 {
   "source": "scrape",
   "url": "https://www.fantasypros.com/nfl/rankings/dst.php",
-  "fetched_at": "2026-10-29T12:25:18.290387+00:00",
+  "fetched_at": "2026-10-29T22:30:31.937044+00:00",
   "headers": [
     "",
     "",
@@ -50,7 +50,7 @@
       "New England Patriots (NE)",
       "at MIA",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
-      "A",
+      "A-",
       "10.0"
     ],
     [
@@ -65,9 +65,9 @@
     [
       "6",
       "",
-      "Denver Broncos (DEN)",
-      "vs. KC",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
+      "Seattle Seahawks (SEA)",
+      "vs. CHI",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "B+",
       "8.8"
     ],
@@ -77,38 +77,47 @@
       "Washington Commanders (WAS)",
       "vs. PHI",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "B",
+      "B+",
       "7.5"
     ],
     [
       "8",
       "",
-      "Seattle Seahawks (SEA)",
-      "vs. CHI",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "Denver Broncos (DEN)",
+      "vs. KC",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "B",
       "7.5"
     ],
     [
       "9",
       "",
-      "Kansas City Chiefs (KC)",
-      "at DEN",
-      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
+      "Cleveland Browns (CLE)",
+      "at PIT",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "B",
       "7.5"
     ],
     [
       "10",
       "",
-      "Cleveland Browns (CLE)",
-      "at PIT",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "Kansas City Chiefs (KC)",
+      "at DEN",
+      "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "B",
       "7.4"
     ],
     [
       "11",
+      "",
+      "Green Bay Packers (GB)",
+      "vs. CAR",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "B-",
+      "7.3"
+    ],
+    [
+      "12",
       "",
       "Minnesota Vikings (MIN)",
       "at DET",
@@ -117,21 +126,12 @@
       "7.3"
     ],
     [
-      "12",
-      "",
-      "Green Bay Packers (GB)",
-      "vs. CAR",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "C+",
-      "7.3"
-    ],
-    [
       "13",
       "",
-      "Chicago Bears (CHI)",
-      "at SEA",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
-      "C",
+      "Detroit Lions (DET)",
+      "vs. MIN",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "C+",
       "6.9"
     ],
     [
@@ -140,15 +140,15 @@
       "Las Vegas Raiders (LV)",
       "at NYJ",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "C",
+      "C+",
       "6.8"
     ],
     [
       "15",
       "",
-      "Detroit Lions (DET)",
-      "vs. MIN",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "Chicago Bears (CHI)",
+      "at SEA",
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "C",
       "6.7"
     ],
@@ -182,8 +182,8 @@
     [
       "19",
       "",
-      "Dallas Cowboys (DAL)",
-      "vs. ARI",
+      "Philadelphia Eagles (PHI)",
+      "at WAS",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "D+",
       "6.5"
@@ -191,10 +191,10 @@
     [
       "20",
       "",
-      "Philadelphia Eagles (PHI)",
-      "at WAS",
+      "Dallas Cowboys (DAL)",
+      "vs. ARI",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "D",
+      "D+",
       "6.4"
     ],
     [
@@ -212,7 +212,7 @@
       "Buffalo Bills (BUF)",
       "vs. BAL",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "D-",
+      "D",
       "5.8"
     ],
     [
@@ -221,7 +221,7 @@
       "Los Angeles Chargers (LAC)",
       "at LAR",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
-      "F",
+      "D-",
       "5.7"
     ],
     [
@@ -236,18 +236,18 @@
     [
       "25",
       "",
-      "Indianapolis Colts (IND)",
-      "at JAC",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
+      "Miami Dolphins (MIA)",
+      "vs. NE",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "F",
       "5.3"
     ],
     [
       "26",
       "",
-      "Miami Dolphins (MIA)",
-      "vs. NE",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "Indianapolis Colts (IND)",
+      "at JAC",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "F",
       "5.3"
     ],
