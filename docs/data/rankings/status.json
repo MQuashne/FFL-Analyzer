@@ -1,52 +1,52 @@
 {
-  "updated_at": "2026-11-04T13:55:57.514475+00:00",
+  "updated_at": "2026-11-04T23:17:30.466339+00:00",
   "sources": {
     "overall": {
       "ok": true,
       "source": "scrape",
-      "fetched_at": "2026-11-04T13:54:59.048315+00:00",
-      "row_count": 405
+      "fetched_at": "2026-11-04T23:16:36.218624+00:00",
+      "row_count": 409
     },
     "qb": {
       "ok": true,
       "source": "scrape",
-      "fetched_at": "2026-11-04T13:55:06.979249+00:00",
-      "row_count": 60
+      "fetched_at": "2026-11-04T23:16:43.773411+00:00",
+      "row_count": 78
     },
     "rb": {
       "ok": true,
       "source": "scrape",
-      "fetched_at": "2026-11-04T13:55:15.052629+00:00",
-      "row_count": 90
+      "fetched_at": "2026-11-04T23:16:51.467114+00:00",
+      "row_count": 109
     },
     "wr": {
       "ok": true,
       "source": "scrape",
-      "fetched_at": "2026-11-04T13:55:22.870953+00:00",
+      "fetched_at": "2026-11-04T23:16:58.973194+00:00",
       "row_count": 20
     },
     "te": {
       "ok": true,
       "source": "scrape",
-      "fetched_at": "2026-11-04T13:55:30.926200+00:00",
-      "row_count": 72
+      "fetched_at": "2026-11-04T23:17:06.537749+00:00",
+      "row_count": 114
     },
     "flex": {
       "ok": true,
       "source": "scrape",
-      "fetched_at": "2026-11-04T13:55:40.428147+00:00",
+      "fetched_at": "2026-11-04T23:17:14.104675+00:00",
       "row_count": 20
     },
     "k": {
       "ok": true,
       "source": "scrape",
-      "fetched_at": "2026-11-04T13:55:48.467991+00:00",
-      "row_count": 31
+      "fetched_at": "2026-11-04T23:17:21.628613+00:00",
+      "row_count": 32
     },
     "dst": {
       "ok": true,
       "source": "scrape",
-      "fetched_at": "2026-11-04T13:55:56.274070+00:00",
+      "fetched_at": "2026-11-04T23:17:29.224423+00:00",
       "row_count": 30
     }
   }
