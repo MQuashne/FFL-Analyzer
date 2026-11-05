@@ -1,19 +1,22 @@
 {
   "source": "scrape",
   "url": "https://www.fantasypros.com/nfl/rankings/flex.php",
-  "fetched_at": "2026-11-05T05:27:47.926511+00:00",
+  "fetched_at": "2026-11-05T14:07:13.890765+00:00",
   "headers": [
     "",
     "",
     "",
     "",
     "",
+    "CONSENSUS SENTIMENT",
     "THIS WEEK",
     "RK",
     "WSIS",
     "Player Name",
     "POS",
     "OPP",
+    "UPSIDE (?)",
+    "BUST (?)",
     "MATCHUP (?)"
   ],
   "rows": [
@@ -23,6 +26,8 @@
       "Jahmyr Gibbs (DET)",
       "RB1",
       "at MIA",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
     ],
     [
@@ -31,6 +36,8 @@
       "Kenneth Walker III (KC)",
       "RB2",
       "vs. NYJ",
+      "Coach Upside rating",
+      "Coach Bust rating",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
@@ -39,6 +46,8 @@
       "Bijan Robinson (ATL)",
       "RB3",
       "vs. CIN",
+      "Coach Upside rating",
+      "Coach Bust rating",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
@@ -47,6 +56,8 @@
       "Christian McCaffrey (SF) Q",
       "RB4",
       "vs. LV",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
     ],
     [
@@ -55,6 +66,8 @@
       "Jaxon Smith-Njigba (SEA)",
       "WR1",
       "vs. ARI",
+      "Coach Upside rating",
+      "Coach Bust rating",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
@@ -63,6 +76,8 @@
       "Javonte Williams (DAL)",
       "RB5",
       "at IND",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
     ],
     [
@@ -71,6 +86,8 @@
       "Puka Nacua (LAR)",
       "WR2",
       "at WAS",
+      "Coach Upside rating",
+      "Coach Bust rating",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars"
     ],
     [
@@ -79,6 +96,8 @@
       "James Cook III (BUF)",
       "RB6",
       "at MIN",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
@@ -87,6 +106,8 @@
       "Chuba Hubbard (CAR)",
       "RB7",
       "vs. DEN",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
@@ -95,6 +116,8 @@
       "Kyren Williams (LAR)",
       "RB8",
       "at WAS",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
     ],
     [
@@ -103,6 +126,8 @@
       "D'Andre Swift (CHI)",
       "RB9",
       "vs. TB",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
     ],
     [
@@ -111,6 +136,8 @@
       "Ja'Marr Chase (CIN)",
       "WR3",
       "at ATL",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
     ],
     [
@@ -119,6 +146,8 @@
       "CeeDee Lamb (DAL)",
       "WR4",
       "at IND",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars"
     ],
     [
@@ -127,6 +156,8 @@
       "Bucky Irving (TB)",
       "RB10",
       "at CHI",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars"
     ],
     [
@@ -135,39 +166,49 @@
       "Josh Jacobs (GB)",
       "RB11",
       "at NE",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars"
     ],
     [
       "16",
       "",
-      "Bhayshul Tuten (JAC) Q",
-      "RB12",
-      "at BAL",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars"
+      "Amon-Ra St. Brown (DET) Q",
+      "WR5",
+      "at MIA",
+      "Coach Upside rating",
+      "Coach Bust rating",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
     ],
     [
       "17",
       "",
-      "Amon-Ra St. Brown (DET) Q",
-      "WR5",
-      "at MIA",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
+      "Jonathan Taylor (IND)",
+      "RB12",
+      "vs. DAL",
+      "",
+      "",
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
     ],
     [
       "18",
       "",
-      "Jonathan Taylor (IND)",
+      "Derrick Henry (BAL)",
       "RB13",
-      "vs. DAL",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
+      "vs. JAC",
+      "",
+      "",
+      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
     ],
     [
       "19",
       "",
-      "Derrick Henry (BAL)",
+      "Bhayshul Tuten (JAC) Q",
       "RB14",
-      "vs. JAC",
-      "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars"
+      "at BAL",
+      "",
+      "",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars"
     ],
     [
       "20",
@@ -175,6 +216,8 @@
       "Chase Brown (CIN)",
       "RB15",
       "at ATL",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars"
     ]
   ]
