@@ -1,17 +1,20 @@
 {
   "source": "scrape",
   "url": "https://www.fantasypros.com/nfl/rankings/wr.php",
-  "fetched_at": "2026-11-12T00:08:17.488146+00:00",
+  "fetched_at": "2026-11-12T14:44:33.704562+00:00",
   "headers": [
     "",
     "",
     "",
     "",
+    "CONSENSUS SENTIMENT",
     "THIS WEEK",
     "RK",
     "WSIS",
     "Player Name",
     "OPP",
+    "UPSIDE (?)",
+    "BUST (?)",
     "MATCHUP (?)",
     "START/SIT",
     "PROJ. FPTS"
@@ -22,6 +25,8 @@
       "",
       "Jaxon Smith-Njigba (SEA)",
       "at LV",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A+",
       "15.4"
@@ -31,6 +36,8 @@
       "",
       "Ja'Marr Chase (CIN)",
       "vs. PIT",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "A+",
       "14.1"
@@ -40,6 +47,8 @@
       "",
       "CeeDee Lamb (DAL)",
       "vs. SF",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A+",
       "13.8"
@@ -49,15 +58,19 @@
       "",
       "Amon-Ra St. Brown (DET) Q",
       "vs. NE",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A+",
-      "12.6"
+      "12.4"
     ],
     [
       "5",
       "",
       "Tee Higgins (CIN)",
       "vs. PIT",
+      "Coach Upside rating \u2013 No rating available",
+      "Coach Bust rating \u2013 No rating available",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "A+",
       "11.4"
@@ -67,6 +80,8 @@
       "",
       "Christian Watson (GB)",
       "vs. MIN",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A+",
       "11.2"
@@ -76,6 +91,8 @@
       "",
       "Malik Nabers (NYG)",
       "vs. WAS",
+      "",
+      "",
       "2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars 2 out of 5 stars",
       "A",
       "11.2"
@@ -85,6 +102,8 @@
       "",
       "Chris Olave (NO)",
       "vs. CAR",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "A",
       "10.8"
@@ -92,36 +111,44 @@
     [
       "9",
       "",
-      "Parker Washington (JAC)",
-      "at TEN",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
-      "A",
-      "10.4"
-    ],
-    [
-      "10",
-      "",
       "Justin Jefferson (MIN)",
       "at GB",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "A",
       "10.3"
     ],
     [
+      "10",
+      "",
+      "Parker Washington (JAC)",
+      "at TEN",
+      "",
+      "",
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
+      "A",
+      "10.5"
+    ],
+    [
       "11",
       "",
-      "Matthew Golden (GB)",
-      "vs. MIN",
-      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
+      "Zay Flowers (BAL)",
+      "vs. LAC",
+      "",
+      "",
+      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A",
       "10.1"
     ],
     [
       "12",
       "",
-      "Zay Flowers (BAL)",
-      "vs. LAC",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
+      "Matthew Golden (GB)",
+      "vs. MIN",
+      "",
+      "",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A",
       "10.0"
     ],
@@ -130,15 +157,19 @@
       "",
       "Drake London (ATL)",
       "vs. KC",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "A",
-      "9.2"
+      "9.3"
     ],
     [
       "14",
       "",
       "Nico Collins (HOU)",
       "at CLE",
+      "",
+      "",
       "1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars 1 out of 5 stars",
       "A",
       "9.2"
@@ -148,24 +179,30 @@
       "",
       "Jameson Williams (DET)",
       "vs. NE",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A",
-      "9.1"
+      "9.0"
     ],
     [
       "16",
       "",
       "Tetairoa McMillan (CAR)",
       "at NO",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "A-",
-      "8.9"
+      "9.0"
     ],
     [
       "17",
       "",
-      "George Pickens (DAL)",
+      "George Pickens (DAL) Q",
       "vs. SF",
+      "",
+      "",
       "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "A-",
       "8.8"
@@ -175,6 +212,8 @@
       "",
       "Rashee Rice (KC)",
       "at ATL",
+      "",
+      "",
       "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
       "A-",
       "7.7"
@@ -184,6 +223,8 @@
       "",
       "DJ Moore (BUF)",
       "at NYJ",
+      "",
+      "",
       "4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars 4 out of 5 stars",
       "A-",
       "7.6"
@@ -191,9 +232,11 @@
     [
       "20",
       "",
-      "DK Metcalf (PIT)",
-      "at CIN",
-      "5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars 5 out of 5 stars",
+      "Garrett Wilson (NYJ) Q",
+      "vs. BUF",
+      "",
+      "",
+      "3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars 3 out of 5 stars",
       "B+",
       "7.6"
     ]
